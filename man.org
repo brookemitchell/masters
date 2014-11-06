@@ -11,7 +11,10 @@ noticed is the large number of programmers and ICT (informatin
 Communicatons Technolgy) workers that are musicians, composers or disc
 jockeys. 
 
-**** TODO Look up famous ppl doing both
+*** Look up famous ppl doing both
+
+*** TODO History of ICT links to music tech
+
 
 One of the more interestng developments of the late 20th and early
 21st century is the shift in the role of computing. Inititially
