@@ -1,9 +1,34 @@
-Parasite Suite – A series of installations on the topic of networked experience and computational aesthetics. 
+* Parasite Suite – A series of installations on the topic of networked experience and computational aesthetics.
 
 
-The following works are a study in the way communication technology influences artistic practice. The four pieces I have assembled are an attempt to account for the relationship between communications technology and musical production. It is my belief that communications technology has always had an intense impact upon musical practices and aesthetics, these works attempt to explore what the future of this relationship might hold.
+** Introduction
 
-One of the interestng developments of the late 20th and early 21st century is the shift in the role of computing. What I tend to think of as the tension between the database and the signal.(hmm kill that sentence or expand) 
+The following works are a study in the way communication technology
+influences artistic practice. The four pieces I have assembled are an
+attempt to draw attetnion to the relationship between communications technology and musical production. It is my belief that communications technology has always had an intense impact upon musical practices and aesthetics, these works attempt to explore what the future of this relationship might hold.
+
+One of the more interestng developments of the late 20th and early
+
+21st century is the shift in the role of computing. Inititially
+considered a tool limited to calculations and reckonings [fn:1], the
+ability of computer to transmit and record has made it into a highly
+effective communications tool. It is the tension between these two
+roles, what I tend to think of as the tension between the database and
+the signal, that I see exemplified in the contempory discourse about
+surveilland and technology.[fn:2]
+
+A computer can perform many roles, part of what makes general
+purpose machines interesting is their ability to be
+reconfigured. However that is not to say that the possibilities are
+limitless or easily explored. There are many things that are naturally
+difficult to do with general purpose computing for a wide variety of
+reasons that are too long to list. [fn:3] Furthermore, the manner in
+which a product is designed, developed and organised, is often
+specific to the workplace culture, organisation and mode of production
+under which it originated. These kind of influences are likely to only
+deepen rathr than disappear.[fn:4] A classic text describing this
+scenario is the study by... 
+*** TODO Find article about organisation culture I have
 
 Many of the functions of modern society depend upon the computer not as a caculator but as a communications tool to relay messages. However in practice, the processes that allow communication to take place, message packaging, routing, encryption, transmittion and error checking are all based on the computation of algorithms. Because of the hybrididy of modern communication, both computational and networked, I have chosen to study how modern communication and musical practice can be interrelated.
 
@@ -32,3 +57,16 @@ How to portray this rich and often conflicted history in a word is a difficult t
 Networked, experience, computational, aesthetics and surveillance. 
 
 Of these five terms the only term not given in the title of the study, ‘surveillance’ represents both the shadow of the other four terms and also what I suspect is the means to analyse and explore the possibilities of the other terms.  
+
+
+* Footnotes
+
+[fn:1]Find link
+[fn:2] Something about why I think this
+
+[fn:3] Here I am thinking about constraints like technical capabilty,
+machinic power as well as cultural determinism, usability constraints
+or challenges of imagination.
+
+[fn:4] Ref to book on the desing of programs reflecting workplace.
+
