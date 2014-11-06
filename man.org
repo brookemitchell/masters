@@ -1,14 +1,19 @@
-* Parasite Suite – A series of installations on the topic of networked experience and computational aesthetics.
+* Parasite Suite – A series of installations about networked experience and computational aesthetics.
 
 
 ** Introduction
 
 The following works are a study in the way communication technology
-influences artistic practice. The four pieces I have assembled are an
-attempt to draw attetnion to the relationship between communications technology and musical production. It is my belief that communications technology has always had an intense impact upon musical practices and aesthetics, these works attempt to explore what the future of this relationship might hold.
+influences artistic practice. The four pieces I have assembled draw attetnion to the relations between communications technology and musical production. It is my belief that communications technology has always had an intense impact upon musical practices and aesthetics, these works attempt to explore what the future of this relationship might hold.
+
+On a personal level one piece of anecdotal evidence that I have
+noticed is the large number of programmers and ICT (informatin
+Communicatons Technolgy) workers that are musicians, composers or disc
+jockeys. 
+
+**** TODO Look up famous ppl doing both
 
 One of the more interestng developments of the late 20th and early
-
 21st century is the shift in the role of computing. Inititially
 considered a tool limited to calculations and reckonings [fn:1], the
 ability of computer to transmit and record has made it into a highly
@@ -17,17 +22,12 @@ roles, what I tend to think of as the tension between the database and
 the signal, that I see exemplified in the contempory discourse about
 surveilland and technology.[fn:2]
 
-A computer can perform many roles, part of what makes general
-purpose machines interesting is their ability to be
-reconfigured. However that is not to say that the possibilities are
-limitless or easily explored. There are many things that are naturally
-difficult to do with general purpose computing for a wide variety of
-reasons that are too long to list. [fn:3] Furthermore, the manner in
+A computer can perform many roles, part of what makes general purpose machines interesting is their ability to be reconfigured. However that is not to say that the possibilities are limitless or easily explored. There are many things that are naturally difficult to do with general purpose computing for a wide variety of reasons that are too long to list. [fn:3] Furthermore, the manner in
 which a product is designed, developed and organised, is often
 specific to the workplace culture, organisation and mode of production
 under which it originated. These kind of influences are likely to only
 deepen rathr than disappear.[fn:4] A classic text describing this
-scenario is the study by... 
+scenario is the study by x.. 
 *** TODO Find article about organisation culture I have
 
 Many of the functions of modern society depend upon the computer not as a caculator but as a communications tool to relay messages. However in practice, the processes that allow communication to take place, message packaging, routing, encryption, transmittion and error checking are all based on the computation of algorithms. Because of the hybrididy of modern communication, both computational and networked, I have chosen to study how modern communication and musical practice can be interrelated.
