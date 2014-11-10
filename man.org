@@ -1,28 +1,41 @@
 * Parasite Suite – A series of installations about networked experience and computational aesthetics.
 
-
+  
 ** Introduction
 
-The following works are a study in the way communication technology
-influences artistic practice. The four pieces I have assembled draw attetnion to the relations between communications technology and musical production. It is my belief that communications technology has always had an intense impact upon musical practices and aesthetics, these works attempt to explore what the future of this relationship might hold.
+The following works are a study in the relationship and possibilities in the spaces between communication technology and artistic practice.
 
-On a personal level one piece of anecdotal evidence that I have
-noticed is the large number of programmers and ICT (informatin
-Communicatons Technolgy) workers that are musicians, composers or disc
+Communications technology and musical practice hold much in the way of a common history, converging and 
+
+albeit a 
+
+ practcie, tradition and aesthetics. From the use of drums as a signalling tool, or even drum languages [fn:5] to the development of brass instruments for  
+
+and aesthetics, these works attempt to explore what the future of this relationship might hold.
+
+** 
+
+On a personal level one piece of anecdotal evidence that I have noticed is the large number of programmers and ICT (informatin Communicatons Technolgy) workers that are musicians, composers or disc
 jockeys. 
 
-*** Look up famous ppl doing both
+*** TODO Look up famous ppl doing both
 
+Links between player piano and loom.
+
+    
 *** TODO History of ICT links to music tech
 
-
+    
 One of the more interestng developments of the late 20th and early
 21st century is the shift in the role of computing. Inititially
 considered a tool limited to calculations and reckonings [fn:1], the
 ability of computer to transmit and record has made it into a highly
 effective communications tool. It is the tension between these two
-roles, what I tend to think of as the tension between the database and
-the signal, that I see exemplified in the contempory discourse about
+roles, what I have started to think of as a tension between two different models for the organisation of information as outlined by De Landa..
+
+of in the heirachy of information organisation and transmission that is deeply explored in
+
+between the signal and database, that I see exemplified in the contempory discourse about
 surveilland and technology.[fn:2]
 
 A computer can perform many roles, part of what makes general purpose machines interesting is their ability to be reconfigured. However that is not to say that the possibilities are limitless or easily explored. There are many things that are naturally difficult to do with general purpose computing for a wide variety of reasons that are too long to list. [fn:3] Furthermore, the manner in
@@ -72,4 +85,6 @@ machinic power as well as cultural determinism, usability constraints
 or challenges of imagination.
 
 [fn:4] Ref to book on the desing of programs reflecting workplace.
+
+[fn:5] REf to drum languages
 
