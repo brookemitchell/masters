@@ -1,31 +1,63 @@
-* Parasite Suite – A series of installations about networked experience and computational aesthetics.
+* Parasite Suite – A set of musical installations about networked experience and computational aesthetics.
 
-  
+
 ** Introduction
+
+The four art installations I have assembled are a consideration of attitudes about how music and technology should interact.  The lineage of the works lies in tracing the history of of cultural metaphors about computation and networking.
+
+The works I haev assembled represent a study about the failures and possibilies of strange sounding terms like 'Socialist Computing'. And a sincere attempt to portray some of the radical possibilitites of computer art when it embraces its lineage and explores the anxieties of the present.
+
+My research has been into the technologi]cal ideologies that have shaped attitudes to the use of computers in music. Particularly the lineage of political strains Romantic Individualism and utopianism that beacame a part of the ethos of what is know as "The California Ideology"[fn:6] This fusion of various strains of thought among academics and inventors after World War Two would go on to shape many aspects of the design and research into the use of computers that we continue to use today.[fn:7]
+
+
+However in the field of music has at times been both highly influential, as Fred Turner argues that the use of rock music and stereo equipment as a 'mind expanding' tool was highly influential on the design of the computer.
+
+However the notion of computer music has also offered a challenge for software designers to offer a satisfactory interface for,
+
+it has also at times offered a challenge to the
+
+It is my argument that aspects of thinking about how computers should be used in art and music are limited by ideological constraints on the kinds of interaction that can be permitted.
+
+The lineage of the the 'california ideology' on interaction with computers today seems to enforce the idea of engagement witha  computer being focused on having one operator, holding tight deterministic control over one program utilising an acceptable set of input and output techniques.
+
+However rather than attempting to completely divorce myself from this lineage or propose my own utopia. I wish to make a study of these forces of technoligical ideology and incorperate it into my artworks. By blending representations of the problematic lineage and present state of paranoia with other utopian visions of computing that never quite made it. As well as some of my own ideas about what might be possible in the realm of collaborative experience and new and experimental engagement with machines, others and ourselves. I hope to reintroduce political ideas into the discussion of technology by reintroducing the social and political into the musical and technological landscape.
+
+I argue that there is a link between some aspects of the transhumanism which has influenced much of technological design and desires of transcendence in 20th century music compoers such as John Cage that has emphaised transcendce at he expese of 'silencing the social' in the wods of Douglas Kahn. It is not my wish to decry these works, rather to celebrate and reconsider them in the context of today where we are never sure if we are too connected and being surveilled, or too alone and alienated. Instead by seeking o re-empahises teh socaial, collaboratvie aspects of that is already there Instead by seeking o re-empahises teh socaial, collaboratvie aspects of that is already there.
+
+I feel that my work is a kind of physical reaserch into the terms of contention and the possibilites they might offer. i feel that difficult, negative or contentious terms are not as exhausted or pre-determined in meaning as we might imagine.
+
+ of one vision of computing with some of the other
+
+As well as considering the ideaologies and politics that have informed the design of our 'tools', the works look at the ideas about appropriate aesthetics
+
+
+as well as the aesthetics of the msucial landscape that those tools, their operators and composers help create.
+
+It is my conjecture that in followng the history of early computing and developments in musical technolgy, we can see how the culture of three areas in western culture, military industrial and academic, became a key part of what I have termed 'contract culture' in the world after world war two.
 
 The following works are a study in the relationship and possibilities in the spaces between communication technology and artistic practice.
 
-Communications technology and musical practice hold much in the way of a common history, converging and 
+Communications technology and musical practice hold much in the way of a common history, converging and
 
-albeit a 
+albeit a
 
- practcie, tradition and aesthetics. From the use of drums as a signalling tool, or even drum languages [fn:5] to the development of brass instruments for  
+ practcie, tradition and aesthetics. From the use of drums as a signalling tool, or even drum languages [fn:5] to the development of brass instruments for
 
 and aesthetics, these works attempt to explore what the future of this relationship might hold.
 
-** 
+**
 
 On a personal level one piece of anecdotal evidence that I have noticed is the large number of programmers and ICT (informatin Communicatons Technolgy) workers that are musicians, composers or disc
-jockeys. 
+jockeys.
 
 *** TODO Look up famous ppl doing both
 
 Links between player piano and loom.
 
-    
+
 *** TODO History of ICT links to music tech
 
-    
+
 One of the more interestng developments of the late 20th and early
 21st century is the shift in the role of computing. Inititially
 considered a tool limited to calculations and reckonings [fn:1], the
@@ -43,7 +75,7 @@ which a product is designed, developed and organised, is often
 specific to the workplace culture, organisation and mode of production
 under which it originated. These kind of influences are likely to only
 deepen rathr than disappear.[fn:4] A classic text describing this
-scenario is the study by x.. 
+scenario is the study by x..
 *** TODO Find article about organisation culture I have
 
 Many of the functions of modern society depend upon the computer not as a caculator but as a communications tool to relay messages. However in practice, the processes that allow communication to take place, message packaging, routing, encryption, transmittion and error checking are all based on the computation of algorithms. Because of the hybrididy of modern communication, both computational and networked, I have chosen to study how modern communication and musical practice can be interrelated.
@@ -52,27 +84,27 @@ As this project, determined in looking at 'possibilities', has a somewhat futuri
 
 In looking to early expectations and the failed dreams or unexplored possibilities of early omputer history, particulary notions of socialist computing, artificial intellignece, cybernetic surveilland and hippie counterculture, along with the ideas of modernist music composer such as Xenakis, Berio and Stochausen, who all had similar utopian notions about the future of both society and their art.
 
-the cybersyn surveillance project of ALlende's Chile, the cybernetic counterculture of 1960's San Franciso and 
+the cybersyn surveillance project of ALlende's Chile, the cybernetic counterculture of 1960's San Franciso and
 
-I have instead looked at other failed utopias. Since this work is a study in the effects of networking and computation. 
+I have instead looked at other failed utopias. Since this work is a study in the effects of networking and computation.
 
-To do so iI have studied  
+To do so iI have studied
 
-In order to look at some of the possibilities, it is necessary to apporximate 
+In order to look at some of the possibilities, it is necessary to apporximate
 
-A closer look at the terms involved part forms the basis for beginning this work. 
+A closer look at the terms involved part forms the basis for beginning this work.
 
-Exploring some of their neglected meanings and history of terms and contrasting that with where the emphasis of specific definition lies today is a key part of the work. By looking at the complete history and meaning of terms, particularly alternate meanings, I feel we can begin to excavate other possibilities, possibilities that were always available but feel cut off from now.  
+Exploring some of their neglected meanings and history of terms and contrasting that with where the emphasis of specific definition lies today is a key part of the work. By looking at the complete history and meaning of terms, particularly alternate meanings, I feel we can begin to excavate other possibilities, possibilities that were always available but feel cut off from now.
 
-For example, the word computer has a been on a historical journey from meaning a human being that makes calculations, to a device facilitation calculation. However even the interesting parts of that statement miss some of the socio-cultural aspects of what a being a computer means. 
+For example, the word computer has a been on a historical journey from meaning a human being that makes calculations, to a device facilitation calculation. However even the interesting parts of that statement miss some of the socio-cultural aspects of what a being a computer means.
 
-For instance that computers were once large teams of people used in warfare to calculate distances, supplies and give reckonings for artillery. Or that later computers became numerical analysts, a job that was generally gendered to be for women, and teams of women were given the task of managing early machine-based computers. (Hmm prob not necessary, incl. refs). 
+For instance that computers were once large teams of people used in warfare to calculate distances, supplies and give reckonings for artillery. Or that later computers became numerical analysts, a job that was generally gendered to be for women, and teams of women were given the task of managing early machine-based computers. (Hmm prob not necessary, incl. refs).
 
-How to portray this rich and often conflicted history in a word is a difficult task. We see that  a key role for the artist can be excavating meaning. Looking that the meanings that have been applied over the years and following a common task in critical theory, asking why certain aspects have traditionally been ignore, or taken as a given. Because of this, to begin my process I have given in depth listings of the meaning of key terms for the suite of works.  A dictionary definition offer a reflection on the range of meaning and the suggest links to the history of what are seen as ‘modern’ terms. I am seeking to try and combine and undermine these terms to try and understand my own position. 
+How to portray this rich and often conflicted history in a word is a difficult task. We see that  a key role for the artist can be excavating meaning. Looking that the meanings that have been applied over the years and following a common task in critical theory, asking why certain aspects have traditionally been ignore, or taken as a given. Because of this, to begin my process I have given in depth listings of the meaning of key terms for the suite of works.  A dictionary definition offer a reflection on the range of meaning and the suggest links to the history of what are seen as ‘modern’ terms. I am seeking to try and combine and undermine these terms to try and understand my own position.
 
-Networked, experience, computational, aesthetics and surveillance. 
+Networked, experience, computational, aesthetics and surveillance.
 
-Of these five terms the only term not given in the title of the study, ‘surveillance’ represents both the shadow of the other four terms and also what I suspect is the means to analyse and explore the possibilities of the other terms.  
+Of these five terms the only term not given in the title of the study, ‘surveillance’ represents both the shadow of the other four terms and also what I suspect is the means to analyse and explore the possibilities of the other terms.
 
 
 * Footnotes
@@ -88,3 +120,6 @@ or challenges of imagination.
 
 [fn:5] REf to drum languages
 
+[fn:6] Link to[[http:hrc.wmin.ac.uk/theory-californianideology.html][Barbroo, Cameron - Hypermedia Research Centre
+
+[fn:7]Examples: Skeudomorphic design, interactinon models. Give more
