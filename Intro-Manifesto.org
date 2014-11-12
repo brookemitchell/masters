@@ -1,14 +1,40 @@
 * Parasite Suite – A set of musical installations about networked experience and computational aesthetics.
 
 
-** Introduction
+** Introduction																												 :Edit:
 
-The four art installations I have assembled are a consideration of attitudes about how music and technology should interact.  The lineage of the works lies in tracing the history of of cultural metaphors about computation and networking.
 
-The works I haev assembled represent a study about the failures and possibilies of strange sounding terms like 'Socialist Computing'. And a sincere attempt to portray some of the radical possibilitites of computer art when it embraces its lineage and explores the anxieties of the present.
+
+The four art installations I have assembled represent a set of considerations about how music and technology should interact, and of what this might mean for wider attitudes about the role of the computer in music and society at large.
+
+It is my beleif that the notion of the usefullness for the computer in exploring musical, social and political possibilities is surprisingly limited. The key area of limitation I wish to explore is in the area of networked interaction between multiple agents. The key theme is essentially how the 'social' can be introduced into artistic and compositional practice.
+
+The inspirations for these workds is drawn from histories of early electronic computing and cybernetic thought, as well as philosophical works about technology and communication. I wished to develop some knowledge of the history of cultural metaphors about computation and networking, as well as the history of 'what wasn't' in technology.[fn:9] By exploring other possibilites that may have been forgotten or ignored we can see interesting possibilities for restructuring engagments with networks and machines.
+
+In particular I have focuessed on the act of surveillance, a term that I am trying to explore absent of its perjorative sense. This term represents a useful the union point between the machine and the network, and implies a model of engagement based up monitoring and responding to interactions in a dynamic manner. For my studies it has come to represent a point of coalescence between the anxieties of today and an area of early study in the field of cybernetics.
+
+The notion of the responsive surveillant, who may take on any biological or material form, is one of the cornerstone ideas of the field of cybernetics. We can see this biologically influenced notion otherwise known as a feedback system everywher from the thermostat to many of the software 'daemons' of computers that operate in the backgound of unix based computers.[fn:8]
+
+In these arly experiments with the idea of 'what a compute should be', we can see the possibilies and disappointments of concepts such as like 'Socialist Computing', and efforts to readically erconsider the function of the computer when it is relevant to the culture and philosophy of disparate groups.
+
+Artistically a reconsideration of the manner in which we interact with computers and each other under the banner of surveillance also represents a sincere attempt to portray some of the radical possibilitites of computer art when it embraces its lineage and explores the anxieties of the present.
+
+These three areas: the philosophies of how machinic interactions have coalesced into one commonly accepted into a common form, a look at unexplored possibilites and underemphasised potentials in the present, and a search for how to revive those alternative futures, each represent the three strands of artistic research in the project.
+
+I have attempted to unify theseinto four project.
+
+
+** TODO A Short Description of where we are at with computing.
+
+** How we got to where we are today																		 :Edit:
+
+
+
+
 
 My research has been into the technologi]cal ideologies that have shaped attitudes to the use of computers in music. Particularly the lineage of political strains Romantic Individualism and utopianism that beacame a part of the ethos of what is know as "The California Ideology"[fn:6] This fusion of various strains of thought among academics and inventors after World War Two would go on to shape many aspects of the design and research into the use of computers that we continue to use today.[fn:7]
 
+Similarly to the cyberneticians, counterculturaliststs and techno-utopians, I wish to explore the interaction of sytems and tools and how the relate.
 
 However in the field of music has at times been both highly influential, as Fred Turner argues that the use of rock music and stereo equipment as a 'mind expanding' tool was highly influential on the design of the computer.
 
@@ -23,6 +49,11 @@ The lineage of the the 'california ideology' on interaction with computers today
 However rather than attempting to completely divorce myself from this lineage or propose my own utopia. I wish to make a study of these forces of technoligical ideology and incorperate it into my artworks. By blending representations of the problematic lineage and present state of paranoia with other utopian visions of computing that never quite made it. As well as some of my own ideas about what might be possible in the realm of collaborative experience and new and experimental engagement with machines, others and ourselves. I hope to reintroduce political ideas into the discussion of technology by reintroducing the social and political into the musical and technological landscape.
 
 I argue that there is a link between some aspects of the transhumanism which has influenced much of technological design and desires of transcendence in 20th century music compoers such as John Cage that has emphaised transcendce at he expese of 'silencing the social' in the wods of Douglas Kahn. It is not my wish to decry these works, rather to celebrate and reconsider them in the context of today where we are never sure if we are too connected and being surveilled, or too alone and alienated. Instead by seeking o re-empahises teh socaial, collaboratvie aspects of that is already there Instead by seeking o re-empahises teh socaial, collaboratvie aspects of that is already there.
+
+
+** TODO Unexplored Futures
+
+** TODO Future Interfacing
 
 I feel that my work is a kind of physical reaserch into the terms of contention and the possibilites they might offer. i feel that difficult, negative or contentious terms are not as exhausted or pre-determined in meaning as we might imagine.
 
@@ -111,15 +142,12 @@ Of these five terms the only term not given in the title of the study, ‘survei
 
 [fn:1]Find link
 [fn:2] Something about why I think this
-
 [fn:3] Here I am thinking about constraints like technical capabilty,
 machinic power as well as cultural determinism, usability constraints
 or challenges of imagination.
-
 [fn:4] Ref to book on the desing of programs reflecting workplace.
-
 [fn:5] REf to drum languages
-
 [fn:6] Link to[[http:hrc.wmin.ac.uk/theory-californianideology.html][Barbroo, Cameron - Hypermedia Research Centre
-
 [fn:7]Examples: Skeudomorphic design, interactinon models. Give more
+[fn:8] Whats a daemon yo.
+[fn:9] Idea taken from the talk,"The Web that wasn't" )[[webthatwasnt][TWTW]]
