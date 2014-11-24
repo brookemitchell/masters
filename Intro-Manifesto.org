@@ -5,6 +5,8 @@
 
 meditation on technology?
 
+   Pattern Aesthetic-
+
 *** TODO Quote about discovery of email from Cybersyn[fn:1]
 
 The kinds of thinking that are poesd by technology and how they influence music.
@@ -13,7 +15,7 @@ The ambition of this project derives not from a carefully chosen theme. Instead 
 
 **** In previous projects I have explored the strangeness of everyday objects, using sound as a  tool for the expression of a-human sentiment? :kill:
 
-If I was to describe a common daily schedule for the period over which I have been working on these projects:
+If I was to describe a common daily schedule for the period over which I have been working on these projects, it would be a highly computational one. However even if I was to completely to withdraw, to refuse to acknowledge how much of life is order by the twin processes of networking and computation. I would stil be embedded in a system in which my birt[fn:10]h, sustenance[fn:11],
 
 I wake daily, and usually the first thing I do is check my emails. After that I eat, drink coffee and walk to my studio. There I will usually spend the first two hours reasearching, either reading books on a relevant topic or trying to follow any blog posts or online tutorials about the technical aspects of the 'black boxes' that are the technical building blocks of my projects.
 
@@ -175,6 +177,7 @@ Networked, experience, computational, aesthetics and surveillance.
 
 Of these five terms the only term not given in the title of the study, ‘surveillance’ represents both the shadow of the other four terms and also what I suspect is the means to analyse and explore the possibilities of the other terms.
 
+
 * Footnotes
 
 [fn:1] Cybernetic Revolutionaries
@@ -196,3 +199,7 @@ machinic power as well as cultural determinism, usability constraints
 or challenges of imagination.
 
 [fn:9] Ref to book on the desing of programs reflecting workplace.
+
+[fn:10] design of medical monitoring machines (see berry)
+
+[fn:11] Everything from the control of crops to the management of wild environments and  population control of wild species
