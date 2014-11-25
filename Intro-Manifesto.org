@@ -3,39 +3,38 @@
 * Parasite Suite – A set of musical installations about networked experience and computational aesthetics.
 
 
-** Introduction																												 :Edit:
+** Introduction																											:Heading:
+*** p 1
 
-Parasite Suite is a artistic investigation of current climes in digital technology, using sonicly orientated art projects to meditate on the theme of 'computationality'. 'Computationality' is a term I define to mean the combination of networked experience and networked experience on participants [fn:1]. For this project it makes sense to talk only of participants, as the projects are open ended and generative, with lines between artist and  blurred. The key functions of the works is in creating scenarios in which the role of participants can dramatically change.
+	 Parasite Suite is a artistic investigation of social possibilities for  engagements with digital technology. The project is realised by using sonicly orientated art projects to meditate on the theme of 'computationality'. 'Computationality' is a term I define to mean the combination of compputational processing and networking that reifies itself as both an aesthetic and mode of experience for those that interact with a machine [fn:1]. As the key function of the works is in creating scenarios in which the role of participants can dramatically change, for this project it made sense to talk only of these actors as participants. The projects are open ended and generative, with lines between artist and audience blurred.
 
-As the focus of the work is on social uses of technology and the way in which social actors this can be manipulated and twisted, the research for this project has involved histories of the social in computing. Within these histories, didactic and utopian attitudes to technology are rife, particularly in studying the histories of cybernetics, early personal-computing and 'socialist'-computing [fn:21].
-
-However they it has tended to become apparent that the hopes and dreams of people like Stafford Beer and Stewart Brand are products of their of their time, in which the possibilities of new tools empowering users to create new worlds did seem real. This utopian bent make for interesting parellels with modern composers such as Stochasen and Xenakis, who exhibited similar attitudes about technology [fn:22].
-
-it is this tension between the utopian attitudes of the past and some of the anxieites of the present. All of which belie the use of the same kinds of tchnology, which I wish to explore in these workds. My hypothesis is that there is a way through this, that within some of the most pervasively distressing manipulations of technology by governmet agencies and coverty actors[fn:23], there are techniques to reconsider the uses of technology once again if we lool to some of these abandoned histories of computing.
-
-** WRITE para on theory
-
-
-without attempting to be utopian or didactic, while studying the history of precisely some these uses has determined
-
- With the hope to point out some of the heirachies and possbilities bestowed on different actors given certain combinations. The emphasis is on the social and collaborative aspects that are possbile, with their attendant possibilities for exploitation, re-working and misuse both creative and destructive.
 
 , of which I have focussed on two topics, networking and computation. These two processes determine much of what David Berry has termed, 'softwarized society'[fn:2].
-
-
 
 *************** WRITE Explain Softwareised Society
 *************** END
 
-These projects, which try to take the same materials and processes of the anxiety inducing technologies in question are somewhat foregone in their conclusion that is often the heightened ability of established heirachies and actors to utilise these tools for ill will rather than the technic itself.
-
-*** EDIT
-However in my attempt to consider the design and implementation of tools like computer vision, real-time communication and data-colleciton, I have often found that the design and user experience as a developer is often imprinted with the culture and expectations of the teams that assembled the foundations of these tools[fn:3]. In a sense I have discovered  a source for my own anxiety in a consciousness of the kind of corporate cultures values embedded in the design of systems. My response to this has been to try and configure atypical user interfaces and methods of engagement, such as avoiding teh user metaphor of a person sitting at a computer terminal with keyboard and mouse, and trying to treat sound as a first-class user interaction medium[fn:4].
-
-
+*** p2
 use technology as a medium to consider the role of technologies, is not a rejection or provocation but tries to find and describe origins of human anxiety about the digitization of our world [fn:5].
 
- One particuular kind of technological assemblage that is commonly known to provoke feelings of anxiety about the digital, is techniques of surveillance[fn:6]  , can have their heirachies and processes changed to give power to new actors and outcomes.
+As the context of the work is on social uses of technology, particul the manner in which  actors roles this can be manipulated within these, research for this project has involved histories of the social in computing. Within these histories, didactic and utopian attitudes to technology are rife, particularly in studying the histories of cybernetics, early personal-computing and 'socialist'-computing [fn:21].
+
+However they it has tended to become apparent that the hopes and dreams of people like Stafford Beer and Stewart Brand are products of their of their time, in which the possibilities of new tools empowering users to create new worlds did seem real. This utopian bent make for interesting parellels with modern composers such as Stochasen and Xenakis, who exhibited similar attitudes about technology [fn:22].
+
+it is this tension between the utopian attitudes of the past and some of the anxieites of the present. All of which belie the use of the same kinds of tchnology, which I wish to explore in these workds. My hypothesis is that there is a way through this, that within some of the most pervasively distressing manipulations of technology by governmet agencies and coverty actors[fn:23], there are techniques to reconsider the uses of technology once again if we look to some of these abandoned histories of computing.
+
+*************** WRITE Para on theory
+*************** END
+
+With the hope to point out some of the heirachies and possbilities bestowed on different actors given certain combinations. The emphasis is on the social and collaborative aspects that are possbile, with their attendant possibilities for exploitation, re-working and misuse both creative and destructive.
+
+One particuular kind of technological assemblage that is commonly known to provoke feelings of anxiety about the digital, is techniques of surveillance[fn:6]  , can have their heirachies and processes changed to give power to new actors and outcomes.
+
+These projects, which try to take the same materials and processes of the anxiety inducing technologies in question are somewhat foregone in their conclusion that is often the heightened ability of established heirachies and actors to utilise these tools for ill will rather than the technic itself.
+
+In my attempt to consider the design and implementation of tools like computer vision, real-time communication and data-colleciton, I have often found that the design and user experience as a developer is often imprinted with the culture and expectations of the teams that assembled the foundations of these tools[fn:3]. In a sense I have discovered  a source for my own anxiety in a consciousness of the kind of corporate cultures values embedded in the design of systems. My response to this has been to try and configure atypical user interfaces and methods of engagement, such as avoiding teh user metaphor of a person sitting at a computer terminal with keyboard and mouse, and trying to treat sound as a first-class user interaction medium[fn:4].
+
+
 
 In this sense the work is inspired by coucpets such as 'sousveillance'[fn:7] where a technology is leveled against an oppressor rather than the opposite. In my course of exploring how to 'turn the tables' however, I have also found that it is often the composition of technologies and the relationships that their design encourages[fn:8], that require the formulation of organic and locally specific technologies that offer solutions more relevant in my case for an artistically inpired, more affecting outcome, and on a general level benefit participants.
 
@@ -104,7 +103,7 @@ I have attempted to unify these into four project.
 
 ** TODO A Short Description of where we are at with computing.
 
-** How we got to where we are today																		 :Edit:
+** How we got to where we are today														 :Heading:Edit:
 
 
 
