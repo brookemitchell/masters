@@ -1,21 +1,23 @@
-#+TODO: WRITE EDIT REVIEW DONE
 
 * Parasite Suite – A set of musical installations about networked experience and computational aesthetics.
 
 
-** Introduction																											:Heading:
-*** p 1
+** How we got to now, what shapes the way that we think about computers. Meditation n the popular imagination and its limits. Argue about the silencing of the social.
+	~rhetoric of systems, communities and information flow.~259
+** Introduction							:Heading:
+*** DONE
+*** REVIEW
+    Parasite Suite is collection of works exploring socially orientated  methods for creative engagement with digital technology. The project is realised using audible art projects that meditate on the theme of 'computationality'. The term 'Computationality' I define to mean the combination of computer processing and  various forms of networking that in combination become a particular aesthetic and mode of experience for those that interact with the works [fn:1]. As social participants, a key function of the works is to create scenarios for the role of participants to dramatically shift. The projects are intended to be open ended and generative, blurring lines between artist and audience.
+*** EDIT
+**** p1.
+'immateriality of software[fn:27]'
+Describes it as a /super-medium/ that unifies other forms,  (tv/film/radio/print), rather than containing them it reforms and reshapes them into a "new unitary form"[fn:28] "this super-medium acts as both a mediatingn and structuring frame that we must understand through its instantiation under particular physical constraints" - Rejecting the immateriality of software. Analysisng the doing, platform studies.
 
-	 Parasite Suite is a artistic investigation of social possibilities for  engagements with digital technology. The project is realised by using sonicly orientated art projects to meditate on the theme of 'computationality'. 'Computationality' is a term I define to mean the combination of compputational processing and networking that reifies itself as both an aesthetic and mode of experience for those that interact with a machine [fn:1]. As the key function of the works is in creating scenarios in which the role of participants can dramatically change, for this project it made sense to talk only of these actors as participants. The projects are open ended and generative, with lines between artist and audience blurred.
+    The terms 'softwarized society' coined by Dacid Berry [fn:2] encapsulates what I see as the outcome of networked experience and computational aesthetics. The term describes the impuct of computers on culture as both metaphor and (an often transparent) medium. {such as?} As technology inculcates itself we are indanger of forgetting how entangled with computer code we really are, it would be hard for me to think of any aspect of my daily life that isn't entangled within the world of software code, living within a nation dependant on software, and using it to write this exegesis. Software is part of the narrative of our lives, and yet often overlooked. Fuller (2006) notes, "in a sense, all intellecual work is now 'software study', in that the software provides its media and its context..." Berry encourages us to think about the "structure of feeling[fn:26]"  and methods of usefulness permitted by code. Noting that technology is a cultural metaphor as well as lexical and physical object. These varied cultural thoughts about technology in relation to the self and society inform practice and engagement with tools as well as wider social and economic relations. To the extent that Berry believes the metaphors of software in particular, to form a 'plane of immanance' that shapes relations[fn:25].
+*** WRITE
 
-
-, of which I have focussed on two topics, networking and computation. These two processes determine much of what David Berry has termed, 'softwarized society'[fn:2].
-
-*************** WRITE Explain Softwareised Society
-*************** END
-
-*** p2
-use technology as a medium to consider the role of technologies, is not a rejection or provocation but tries to find and describe origins of human anxiety about the digitization of our world [fn:5].
+By treating projects as socio-technical assemblages, connected to "broader networks of social relations and institutional ensembles"[fn:24]. I plan to
+use technology as its own medium to consider the role of technologies. The intent is not to reject or provocate but to describe origins of human anxiety about the digitization of our world [fn:5].
 
 As the context of the work is on social uses of technology, particul the manner in which  actors roles this can be manipulated within these, research for this project has involved histories of the social in computing. Within these histories, didactic and utopian attitudes to technology are rife, particularly in studying the histories of cybernetics, early personal-computing and 'socialist'-computing [fn:21].
 
@@ -33,7 +35,6 @@ One particuular kind of technological assemblage that is commonly known to provo
 These projects, which try to take the same materials and processes of the anxiety inducing technologies in question are somewhat foregone in their conclusion that is often the heightened ability of established heirachies and actors to utilise these tools for ill will rather than the technic itself.
 
 In my attempt to consider the design and implementation of tools like computer vision, real-time communication and data-colleciton, I have often found that the design and user experience as a developer is often imprinted with the culture and expectations of the teams that assembled the foundations of these tools[fn:3]. In a sense I have discovered  a source for my own anxiety in a consciousness of the kind of corporate cultures values embedded in the design of systems. My response to this has been to try and configure atypical user interfaces and methods of engagement, such as avoiding teh user metaphor of a person sitting at a computer terminal with keyboard and mouse, and trying to treat sound as a first-class user interaction medium[fn:4].
-
 
 
 In this sense the work is inspired by coucpets such as 'sousveillance'[fn:7] where a technology is leveled against an oppressor rather than the opposite. In my course of exploring how to 'turn the tables' however, I have also found that it is often the composition of technologies and the relationships that their design encourages[fn:8], that require the formulation of organic and locally specific technologies that offer solutions more relevant in my case for an artistically inpired, more affecting outcome, and on a general level benefit participants.
@@ -57,12 +58,6 @@ If I was to describe a common daily schedule for the period over which I have be
 
 I wake daily, and usually the first thing I do is check my emails. After that I eat, drink coffee and walk to my studio. There I will usually spend the first two hours reasearching, either reading books on a relevant topic or trying to follow any blog posts or online tutorials about the technical aspects of the 'black boxes' that are the technical building blocks of my projects.
 
-** Pattern Recognition
-For me the experience of computation, could be summarized as an emerging sense of an aesthetic based on pattern recognition in computing. This is
-
-The notion of description in Music.
-. This distinction between thematic and material description
- to explore a theme or central conce
 
 ** Networked Experience
 
@@ -101,15 +96,10 @@ These three areas: the philosophies of how machinic interactions have coalesced 
 
 I have attempted to unify these into four project.
 
-** TODO A Short Description of where we are at with computing.
 
-** How we got to where we are today														 :Heading:Edit:
+** How we got to
 
-
-
-
-
-	 My research has been into the technologi]cal ideologies that have shaped attitudes to the use of computers in music. Particularly the lineage of political strains Romantic Individualism and utopianism that beacame a part of the ethos of what is know as "The California Ideology"[fn:16] This fusion of various strains of thought among academics and inventors after World War Two would go on to shape many aspects of the design and research into the use of computers that we continue to use today.[fn:17]
+   My research has been into the technologi]cal ideologies that have shaped attitudes to the use of computers in music. Particularly the lineage of political strains Romantic Individualism and utopianism that beacame a part of the ethos of what is know as "The California Ideology"[fn:16] This fusion of various strains of thought among academics and inventors after World War Two would go on to shape many aspects of the design and research into the use of computers that we continue to use today.[fn:17]
 
 Similarly to the cyberneticians, counterculturaliststs and techno-utopians, I wish to explore the interaction of sytems and tools and how the relate.
 
@@ -187,8 +177,6 @@ deepen rathr than disappear.[fn:20] A classic text describing this
 scenario is the study by x..
 *** TODO Find article about organisation culture I have
 
-
-
 Many of the functions of modern society depend upon the computer not as a caculator but as a communications tool to relay messages. However in practice, the processes that allow communication to take place, message packaging, routing, encryption, transmittion and error checking are all based on the computation of algorithms. Because of the hybrididy of modern communication, both computational and networked, I have chosen to study how modern communication and musical practice can be interrelated.
 
 As this project, determined in looking at 'possibilities', has a somewhat futuristic bent. I have elected to be somewhat wary of the degree to whih I cast the future in the mod eof my own emplacement. This circular inevitablility of conditioning my works into a kind of 'future-present' is somewhat inescapable. However in an attempt to mitigate this I have tried to take inspiriations for my work from other 'failed utopias' as much as the one I currently reside in.
@@ -221,7 +209,7 @@ Of these five terms the only term not given in the title of the study, ‘survei
 
 [fn:1] link to uses of term 'Computationality'
 
-[fn:2] Softwareised Society, Link opening of Phil of Software on dependance on software for survival.
+[fn:2] Softwareised Society, Link opening of Phil of Software on dependance on software for survival. Berry p. 18
 
 [fn:3] link to classic essay about design of saftware informed culture
 
@@ -266,3 +254,16 @@ or challenges of imagination.
 [fn:22] Stoch to Xenakis quote
 
 [fn:23] Link five eyes surveillance
+
+[fn:24] Berry p.62
+
+[fn:25] Berry and Deleuze, p. 18.
+
+[fn:26] Berry, p. 6.
+
+[fn:27] Berry 10
+
+[fn:28] Berry 10
+
+* Org-mode settings
+#+TODO: WRITE EDIT REVIEW DONE

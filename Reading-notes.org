@@ -1,9 +1,6 @@
 * Reading Notes
 
-** How we got to now, what shapes the way that we think about computers. Meditation n the popular imagination and its limits. Argue about the silencing of the social.
-	~rhetoric of systems, communities and information flow.~259
-
-** Counter-culture to Cyberculture
+* Counter-culture to Cyberculture
 ** 176
 	 On the development of the GBN (global business network) - Within the precinct of the Global Business Network and _Out of Control_, however, these organizations acquired a new political valence. They became models of a collaborative world, a world in which technologies were rendering information systems visible, material production processes irrelevant, and bureaucracy obsolete. Their executives and engineers also became visible stand-ins for the emerging corporate elect- entrepreneurial, technologically savvy, but socially and culturally conservative. Like the Communards of New Mexico and northern California, the scientists, futurists and entrepreneurs of the Global Business Network and _Out of Control_ constituted a highly educated, mobile and predominantly white elite.
 ** 180
@@ -46,6 +43,26 @@ In his 1968 voluem _The Young Radicals_, Kenneth Kenniston looked on the fractur
 
 And yet, they have preserved a deeper dream as well. As they set off for the hills of New Mexico and Tennessee, the communards of the back-to-the-land movement hoped to build not only communities of consciousness, but real, embodied towns. Most failed- not for lack of good intentions, nor even for lack of tools, but for lack of attention to politics. To the extent that Stewart Brand and the Whole Earth group have succeeeded in linking the ideals of those whom Kenneth keniston called the alienated to digital technologies, ~they have allowed computer users everywhere to imagine their machines as tools of personal liberation.~ O
 
-*** Footnotes
+* Philosophy of code
 
-[fn:1] Put this in the intro.
+** 2
+This transforms our everyday live into data, a resource to be used by others, usually for profit, which Heidegger terms /standing-reserve[fn:2]/.
+
+** 3
+Compters are entangled with our lives n a multitude of different, contradictory and complex ways, providing us with a social milieu that allows us to live in a society that increasingly depends on information and knowledge.
+
+** 4
+As software increasingly structure the contemporary world, curiously, it also withdraaws, and becomes hard and harder for us to focus on as itis embedded, hidden, off-shored or merely forgotten about.
+
+** 14
+The computational device, as an algorithmic totality, is in a constant state of exception from multiple events which must be attended to, that is, the device is constantly interrupted by a parliament of things or users. THe seemingly end-directed nature of computational processes may actually be constantly deferred internally, that is, never reaching a final goal. In a certain sense, this is an agnostic form of communicative action where devices are in a constant stream of data flow and decision-making which may only occasionally feedback to the human user.
+For computer scientists, it is the translation of the continuum in to the discrete that marks the connndition of possibility for computationality... To mediate an object, a computational device requires that it be translated.
+
+** 15
+in cutting up the world in this manner, information about the world has to be discarded in order a store a representation within the computer... The other side of the coin, of course, is that these subtractive methods of understanding reality (episteme) produce new knowledges and methods for the control of reality (techne).
+For objects in the world to be compuational requires that they offer a certain set of affordances facilitated through the operation of computer code. This is managed through the writing of code that determines certain functions that the software is engineer to perform. These can be at the level of the software itself, and hence invisible to the user directly ( for example application programming interfaces or APIs ), or presented to teh user through a visual interface which allows the user to determine what it does, its /affordance/. To distinguish between the two, it is useful to think of hidden /affordances/ and /visible/ affordances. That is, with visible affordances,
+"The valie is clear /on the face of it/... The postbox 'invites' the mailing of a letter, the handle 'wants to be grasped', and things 'tell us what to do with them '(Gibson 1988: 136)"
+
+* Footnotes
+
+[fn:2] Heid 1993a: 322
