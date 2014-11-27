@@ -1,13 +1,14 @@
 
-* Parasite Suite – A set of musical installations about networked experience and computational aesthetics.
-
+* Parasite Suite – Musical installations about networked experience and computational aesthetics.
 
 ** How we got to now, what shapes the way that we think about computers. Meditation n the popular imagination and its limits. Argue about the silencing of the social.
 	~rhetoric of systems, communities and information flow.~259
 ** Introduction							:Heading:
 *** DONE
 *** REVIEW
-    Parasite Suite is collection of works exploring socially orientated  methods for creative engagement with digital technology. The project is realised using audible art projects that meditate on the theme of 'computationality'. The term 'Computationality' I define to mean the combination of computer processing and  various forms of networking that in combination become a particular aesthetic and mode of experience for those that interact with the works [fn:1]. As social participants, a key function of the works is to create scenarios for the role of participants to dramatically shift. The projects are intended to be open ended and generative, blurring lines between artist and audience.
+    Parasite Suite is collection socially-orientated works exploring  attitudes and reactions to engagements with digital technology. The project is realised using a set audible art projects that meditate on the theme of 'computationality'. This term I define as a combination of computer processing and networking that embodies a particular aesthetic and mode of experience for those that interact with the works [fn:1]. That experience is one in which we feela a machine is a participant and social actor rather than a tool. While the aesthetic shift is when we consider the experience of a  machine, such that our own notion of beauty is altered by considerations of what a computer might be able to sense.
+
+The projects are intended to be open ended and generative, blurring lines between artist and audience. For participants, a key goal of the works is for participants to experience dramatic shifts in their social role and duties due to the design of programs. The idea is to try and place emphasis on the notion that a machine can equally be a machine gun or a vacuum cleaner, particularly in the era of the generalised computer, but that it is the heirachies and logistics of society that determine its material formation.
 *** EDIT
 **** p1.
 'immateriality of software[fn:27]'
@@ -39,7 +40,7 @@ In my attempt to consider the design and implementation of tools like computer v
 
 In this sense the work is inspired by coucpets such as 'sousveillance'[fn:7] where a technology is leveled against an oppressor rather than the opposite. In my course of exploring how to 'turn the tables' however, I have also found that it is often the composition of technologies and the relationships that their design encourages[fn:8], that require the formulation of organic and locally specific technologies that offer solutions more relevant in my case for an artistically inpired, more affecting outcome, and on a general level benefit participants.
 
-*** TODO Quote about subroutines and influence onn programming[fn:9].
+*** TODO Quote about subroutines and influence on programming[fn:9].
 
 
 However the process by which I developed this project was not from a carefully chosen theme, but rather a methodoology where I have sought to describe some of the 'back boxes' of communications that I interact with on a daily basis. My methodology for investigating something like data-collection, monitoring and signal intelligence is derived from creating a project that mimics a small subset of these behaviors in an uncommon context, and then noting the processes that are fundamental to the existence of the 'machine'. This method involves treating the world in a manner very simlar to the concept of a 'function', otherwise known as a subroutine in computer programming. In some way I am attempting to import concepts from a pradigm in computer programming, 'functional programming'
@@ -96,7 +97,7 @@ These three areas: the philosophies of how machinic interactions have coalesced 
 
 I have attempted to unify these into four project.
 
-
+It is a kind of consideration of the discrete and quantifiable that happens when we begin to employ a kind of empathy toward a machinic perspective.
 ** How we got to
 
    My research has been into the technologi]cal ideologies that have shaped attitudes to the use of computers in music. Particularly the lineage of political strains Romantic Individualism and utopianism that beacame a part of the ethos of what is know as "The California Ideology"[fn:16] This fusion of various strains of thought among academics and inventors after World War Two would go on to shape many aspects of the design and research into the use of computers that we continue to use today.[fn:17]
