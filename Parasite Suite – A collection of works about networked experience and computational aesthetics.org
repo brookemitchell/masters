@@ -1,0 +1,285 @@
+** How we got to now, what shapes the way that we think about computers. Meditation n the popular imagination and its limits. Argue about the silencing of the social.
+	~rhetoric of systems, communities and information flow.~259k
+* Introduction :heading:
+
+*** DONE
+**** The Social and the Surveillant
+
+     Parasite Suite is collection socially-orientated art works exploring attitudes and reactions to digital technology. The project is realised using a set of art projects that meditate on the theme of 'computationality'. This term I define as a combination of computer processing and networking capabilty that embody a particular aesthetic and mode of experience for those that interact with the works [fn:1]. The particulars of the experience and aesthetic of 'computationality' has been specifically collected and outlined by others[fn:30] but here I loosely define it as the experiencne of a real world decision that seems more determined by what would be appropriate for the sensibilities of a machine rather than a human.
+
+ A particular aspect of this notion I have focussed on is the sense felt when a machine is a participant and social actor rather than a tool. The ontological shift that takes palces is when we consider the experience of a  machine, is such that our own notion of beauty is altered by considerations of what a computer might be able to sense. The projects are intended to be open ended and generative, blurring lines between artist and audience. For participants, a key goal of the works is for participants to experience dramatic shifts in their social role and duties due to the design of programs. The idea is to try and place emphasis on the notion that a machine can equally be a machine gun or a vacuum cleaner, particularly in the era of the generalised computer, but that it is the heirachies and logistics of society that determine its material formation[fn:29].
+
+*** DONE
+
+    The inspirations for these works is drawn from histories of early computing, the philosophical influence of early digital design, and cybernetic [fn:31] thought, as well as later philosophical works about technology and communication. [fn:32] The history of cultural metaphors about computation, as well as studying technological opportunities that never materialised or fell to the wayside, has helped me to explore other possibilieties for social interaction in computing.[fn:14] By exploring these topics we can see interesting possibilities for restructuring engagements with networks and machines. In particular I have focused on the act of surveillance, a term that I am trying to explore beyond of its pejorative sense. Exploring the  term surveillance has allowed me to consider the thin line between social engagement and intelligence collection. Particularly when considering the perspective of a machine, it can be difficult to differentiate between methods that might enable new kinds of engagement and those that might alienate.
+
+*** WRITE give example from work * END
+
+This term surveilance represents a useful union point between the machine and network, and implies a model of engagement based up monitoring and responding to interactions in a dynamic manner. For my studies it has come to represent a point of coalescence between the anxieties of today and an area of early study in the field of cybernetics. Particularly in the early era of computing, similarly to speculation about the possible uses of the phonograph[fn:33], cyberneticians were wildly imagining what a computer would be useful for. Certain unexpected innovations also totally changed the field.
+
+*** WRITE QUote about invention of email * END
+
+It is my belief that the notion of the usefulness for the computer in exploring musical, social and political possibilities can often be surprisingly limited. The key area of limitation I wish to explore is in the area of networked interaction between multiple agents. The key theme is essentially how the 'social' can be introduced into artistic and compositional practice.
+
+The notion of the responsive surveillant, who may take on any biological or material form, is one of the cornerstone ideas of the field of cybernetics. We can see this biologically influenced notion otherwise known as a feedback system everywhere from the thermostat to many of the software 'daemons' of computers that operate in the backhand of UNIX based computers.[fn:15]
+
+In these early experiments with the idea of 'what a compute should be', we can see the possibilities and disappointments of concepts such as like 'Socialist Computing', and efforts to radically reconsider the function of the computer when it is relevant to the culture and philosophy of disparate groups.
+
+Artistically a reconsideration of the manner in which we interact with computers and each other under the banner of surveillance also represents a sincere attempt to portray some of the radical possibilities of computer art when it embraces its lineage and explores the anxieties of the present.
+
+These three areas: the philosophies of how machinic interactions have coalesced into one commonly accepted into a common form, a look at unexplored possibilities and under-emphasised potentials in the present, and a search for how to revive those alternative futures, each represent the three strands of artistic research in the project.
+
+I have attempted to unify these into four project.
+
+It is a kind of consideration of the discrete and quantifiable that happens when we begin to employ a kind of empathy toward a machinic perspective.
+*** EDIT
+**** p1.
+'immateriality of software[fn:27]'
+Describes it as a /super-medium/ that unifies other forms,  (tv/film/radio/print), rather than containing them it reforms and reshapes them into a "new unitary form"[fn:28] "this super-medium acts as both a mediatingn and structuring frame that we must understand through its instantiation under particular physical constraints" - Rejecting the immateriality of software. Analysisng the doing, platform studies.
+
+The terms 'softwarized society' coined by Dacid Berry [fn:2] encapsulates what I see as the outcome of networked experience and computational aesthetics. The term describes the impuct of computers on culture as both metaphor and (an often transparent) medium. {such as?} As technology inculcates itself we are indanger of forgetting how entangled with computer code we really are, it would be hard for me to think of any aspect of my daily life that isn't entangled within the world of software code, living within a nation dependant on software, and using it to write this exegesis. Software is part of the narrative of our lives, and yet often overlooked. Fuller (2006) notes, "in a sense, all intellecual work is now 'software study', in that the software provides its media and its context..." Berry encourages us to think about the "structure of feeling[fn:26]"  and methods of usefulness permitted by code. Noting that technology is a cultural metaphor as well as lexical and physical object. These varied cultural thoughts about technology in relation to the self and society inform practice and engagement with tools as well as wider social and economic relations. To the extent that Berry believes the metaphors of software in particular, to form a 'plane of immanance' that shapes relations[fn:25].
+*** WRITE
+
+By treating projects as socio-technical assemblages, connected to "broader networks of social relations and institutional ensembles"[fn:24]. I plan to
+use technology as its own medium to consider the role of technologies. The intent is not to reject or provocate but to describe origins of human anxiety about the digitization of our world [fn:5].
+
+As the context of the work is on social uses of technology, particul the manner in which  actors roles this can be manipulated within these, research for this project has involved histories of the social in computing. Within these histories, didactic and utopian attitudes to technology are rife, particularly in studying the histories of cybernetics, early personal-computing and 'socialist'-computing [fn:21].
+
+However they it has tended to become apparent that the hopes and dreams of people like Stafford Beer and Stewart Brand are products of their of their time, in which the possibilities of new tools empowering users to create new worlds did seem real. This utopian bent make for interesting parellels with modern composers such as Stochasen and Xenakis, who exhibited similar attitudes about technology [fn:22].
+
+it is this tension between the utopian attitudes of the past and some of the anxieites of the present. All of which belie the use of the same kinds of tchnology, which I wish to explore in these workds. My hypothesis is that there is a way through this, that within some of the most pervasively distressing manipulations of technology by governmet agencies and coverty actors[fn:23], there are techniques to reconsider the uses of technology once again if we look to some of these abandoned histories of computing.
+
+*************** WRITE Para on theory
+*************** END
+
+With the hope to point out some of the heirachies and possbilities bestowed on different actors given certain combinations. The emphasis is on the social and collaborative aspects that are possbile, with their attendant possibilities for exploitation, re-working and misuse both creative and destructive.
+
+One particuular kind of technological assemblage that is commonly known to provoke feelings of anxiety about the digital, is techniques of surveillance[fn:6]  , can have their heirachies and processes changed to give power to new actors and outcomes.
+
+These projects, which try to take the same materials and processes of the anxiety inducing technologies in question are somewhat foregone in their conclusion that is often the heightened ability of established heirachies and actors to utilise these tools for ill will rather than the technic itself.
+
+In my attempt to consider the design and implementation of tools like computer vision, real-time communication and data-colleciton, I have often found that the design and user experience as a developer is often imprinted with the culture and expectations of the teams that assembled the foundations of these tools[fn:3]. In a sense I have discovered  a source for my own anxiety in a consciousness of the kind of corporate cultures values embedded in the design of systems. My response to this has been to try and configure atypical user interfaces and methods of engagement, such as avoiding teh user metaphor of a person sitting at a computer terminal with keyboard and mouse, and trying to treat sound as a first-class user interaction medium[fn:4].
+
+
+In this sense the work is inspired by coucpets such as 'sousveillance'[fn:7] where a technology is leveled against an oppressor rather than the opposite. In my course of exploring how to 'turn the tables' however, I have also found that it is often the composition of technologies and the relationships that their design encourages[fn:8], that require the formulation of organic and locally specific technologies that offer solutions more relevant in my case for an artistically inpired, more affecting outcome, and on a general level benefit participants.
+
+*** TODO Quote about subroutines and influence on programming[fn:9].
+
+
+However the process by which I developed this project was not from a carefully chosen theme, but rather a methodoology where I have sought to describe some of the 'back boxes' of communications that I interact with on a daily basis. My methodology for investigating something like data-collection, monitoring and signal intelligence is derived from creating a project that mimics a small subset of these behaviors in an uncommon context, and then noting the processes that are fundamental to the existence of the 'machine'. This method involves treating the world in a manner very simlar to the concept of a 'function', otherwise known as a subroutine in computer programming. In some way I am attempting to import concepts from a pradigm in computer programming, 'functional programming'
+
+Many interesting things can be said about
+
+. It just so happens that when I consider some of the inherant qualities of the manner in which I would conduct myself, even in moments that I step away from a 'screen', the encounters of my life are all deeply network driven. One of the discoveries of early computing i sthat computational speed makes vastly wider and new kinds of networks possible.[fn:10]
+Pattern Aesthetic-
+
+*** TODO Quote about discovery of email from Cybersyn[fn:11]
+
+
+**** In previous projects I have explored the strangeness of everyday objects, using sound as a  tool for the expression of a-human sentiment? :kill:
+
+If I was to describe a common daily schedule for the period over which I have been working on these projects, it would be a highly computational one. However even if I was to completely to withdraw, to refuse to acknowledge how much of life is order by the twin processes of networking and computation. I would stil be embedded in a system in which my birt[fn:12]h, sustenance[fn:13],
+
+I wake daily, and usually the first thing I do is check my emails. After that I eat, drink coffee and walk to my studio. There I will usually spend the first two hours reasearching, either reading books on a relevant topic or trying to follow any blog posts or online tutorials about the technical aspects of the 'black boxes' that are the technical building blocks of my projects.
+
+
+** Networked Experience
+
+My definition is an embodied process of understanding that takes place across a network. Some of the times one might typically include the remote administration of computers, multi-user collaboration on documents (as seen in services like google docs), or even on a  more basic level telecommunications services of all kinds that allow for two way interaction.
+
+Here we notice that the technologies that *offer* networked experience as a technology are unlimited, but it is the situations in which it becomes a *practice* which are interestion to me. What defines the practice is the interaction of more than one participant and the aspect of message communication as a tool rather than crafting.
+
+What I am particlarly interested in is mutual real-time meaning making between multiple particpants or kinds of actors.
+
+** Inspirations
+
+The inspiriation is taken from Serres concept of 'black boxing'. Seeing the world in terms of components. Taking one and stripping away layers of abstraction in order to understand the processes involved, then returning the 'box' to its position  with newfound understanding.
+
+In my case I am looking at the current state of human relations as I experience them. I am particularly focussed on the 'machinic' qualities and the managemnt of what is commonly thought of as mediation, and common anxieties and concerns with current engagement. I am usingtools that seem applicable and the easiest and most relevant to the concerns. typically the same materials such as, web page scripting, electronic components and sensory inputs and outputs, that are involved in the 'black box'.
+
+So while the work might seem at first technical in nature. I am more interested in trying to 'simply' understand a set of relations and use audio as a descriptive tool.
+
+
+The four art installations I have assembled represent a set of considerations about how music and technology should interact, and of what this might mean for wider attitudes about the role of the computer in music and society at large.
+
+*** TODO
+** How we got to
+
+   My research has been into the technologi]cal ideologies that have shaped attitudes to the use of computers in music. Particularly the lineage of political strains Romantic Individualism and utopianism that beacame a part of the ethos of what is know as "The California Ideology"[fn:16] This fusion of various strains of thought among academics and inventors after World War Two would go on to shape many aspects of the design and research into the use of computers that we continue to use today.[fn:17]
+
+Similarly to the cyberneticians, counterculturaliststs and techno-utopians, I wish to explore the interaction of sytems and tools and how the relate.
+
+However in the field of music has at times been both highly influential, as Fred Turner argues that the use of rock music and stereo equipment as a 'mind expanding' tool was highly influential on the design of the computer.
+
+However the notion of computer music has also offered a challenge for software designers to offer a satisfactory interface for,
+
+it has also at times offered a challenge to the
+
+It is my argument that aspects of thinking about how computers should be used in art and music are limited by ideological constraints on the kinds of interaction that can be permitted.
+
+The lineage of the the 'california ideology' on interaction with computers today seems to enforce the idea of engagement witha  computer being focused on having one operator, holding tight deterministic control over one program utilising an acceptable set of input and output techniques.
+
+However rather than attempting to completely divorce myself from this lineage or propose my own utopia. I wish to make a study of these forces of technoligical ideology and incorperate it into my artworks. By blending representations of the problematic lineage and present state of paranoia with other utopian visions of computing that never quite made it. As well as some of my own ideas about what might be possible in the realm of collaborative experience and new and experimental engagement with machines, others and ourselves. I hope to reintroduce political ideas into the discussion of technology by reintroducing the social and political into the musical and technological landscape.
+
+I argue that there is a link between some aspects of the transhumanism which has influenced much of technological design and desires of transcendence in 20th century music compoers such as John Cage that has emphaised transcendce at he expese of 'silencing the social' in the wods of Douglas Kahn. It is not my wish to decry these works, rather to celebrate and reconsider them in the context of today where we are never sure if we are too connected and being surveilled, or too alone and alienated. Instead by seeking o re-empahises teh socaial, collaboratvie aspects of that is already there Instead by seeking o re-empahises teh socaial, collaboratvie aspects of that is already there.
+
+** TODO Unexplored Futures
+
+** TODO Future Interfacing
+
+
+
+I feel that my work is a kind of physical reaserch into the terms of contention and the possibilites they might offer. i feel that difficult, negative or contentious terms are not as exhausted or pre-determined in meaning as we might imagine.
+
+ of one vision of computing with some of the other
+
+As well as considering the ideaologies and politics that have informed the design of our 'tools', the works look at the ideas about appropriate aesthetics
+
+
+as well as the aesthetics of the msucial landscape that those tools, their operators and composers help create.
+
+It is my conjecture that in followng the history of early computing and developments in musical technolgy, we can see how the culture of three areas in western culture, military industrial and academic, became a key part of what I have termed 'contract culture' in the world after world war two.
+
+The following works are a study in the relationship and possibilities in the spaces between communication technology and artistic practice.
+
+Communications technology and musical practice hold much in the way of a common history, converging and
+
+albeit a
+
+ practcie, tradition and aesthetics. From the use of drums as a signalling tool, or even drum languages [fn:18] to the development of brass instruments for
+
+and aesthetics, these works attempt to explore what the future of this relationship might hold.
+
+**
+
+On a personal level one piece of anecdotal evidence that I have noticed is the large number of programmers and ICT (informatin Communicatons Technolgy) workers that are musicians, composers or disc
+jockeys.
+
+*** TODO Look up famous ppl doing both
+
+Links between player piano and loom.
+
+
+*** TODO History of ICT links to music tech
+
+
+One of the more interestng developments of the late 20th and early
+21st century is the shift in the role of computing. Inititially
+considered a tool limited to calculations and reckonings [fn:11], the
+ability of computer to transmit and record has made it into a highly
+effective communications tool. It is the tension between these two
+roles, what I have started to think of as a tension between two different models for the organisation of information as outlined by De Landa..
+
+of in the heirachy of information organisation and transmission that is deeply explored in
+
+between the signal and database, that I see exemplified in the contempory discourse about
+surveilland and technology.[fn:10]
+
+A computer can perform many roles, part of what makes general purpose machines interesting is their ability to be reconfigured. However that is not to say that the possibilities are limitless or easily explored. There are many things that are naturally difficult to do with general purpose computing for a wide variety of reasons that are too long to list. [fn:19] Furthermore, the manner in
+which a product is designed, developed and organised, is often
+specific to the workplace culture, organisation and mode of production
+under which it originated. These kind of influences are likely to only
+deepen rathr than disappear.[fn:20] A classic text describing this
+scenario is the study by x..
+*** TODO Find article about organisation culture I have
+
+Many of the functions of modern society depend upon the computer not as a caculator but as a communications tool to relay messages. However in practice, the processes that allow communication to take place, message packaging, routing, encryption, transmittion and error checking are all based on the computation of algorithms. Because of the hybrididy of modern communication, both computational and networked, I have chosen to study how modern communication and musical practice can be interrelated.
+
+As this project, determined in looking at 'possibilities', has a somewhat futuristic bent. I have elected to be somewhat wary of the degree to whih I cast the future in the mod eof my own emplacement. This circular inevitablility of conditioning my works into a kind of 'future-present' is somewhat inescapable. However in an attempt to mitigate this I have tried to take inspiriations for my work from other 'failed utopias' as much as the one I currently reside in.
+
+In looking to early expectations and the failed dreams or unexplored possibilities of early omputer history, particulary notions of socialist computing, artificial intellignece, cybernetic surveilland and hippie counterculture, along with the ideas of modernist music composer such as Xenakis, Berio and Stochausen, who all had similar utopian notions about the future of both society and their art.
+
+the cybersyn surveillance project of ALlende's Chile, the cybernetic counterculture of 1960's San Franciso and
+
+I have instead looked at other failed utopias. Since this work is a study in the effects of networking and computation.
+
+To do so iI have studied
+
+In order to look at some of the possibilities, it is necessary to apporximate
+
+A closer look at the terms involved part forms the basis for beginning this work.
+
+Exploring some of their neglected meanings and history of terms and contrasting that with where the emphasis of specific definition lies today is a key part of the work. By looking at the complete history and meaning of terms, particularly alternate meanings, I feel we can begin to excavate other possibilities, possibilities that were always available but feel cut off from now.
+
+For example, the word computer has a been on a historical journey from meaning a human being that makes calculations, to a device facilitation calculation. However even the interesting parts of that statement miss some of the socio-cultural aspects of what a being a computer means.
+
+For instance that computers were once large teams of people used in warfare to calculate distances, supplies and give reckonings for artillery. Or that later computers became numerical analysts, a job that was generally gendered to be for women, and teams of women were given the task of managing early machine-based computers. (Hmm prob not necessary, incl. refs).
+
+How to portray this rich and often conflicted history in a word is a difficult task. We see that  a key role for the artist can be excavating meaning. Looking that the meanings that have been applied over the years and following a common task in critical theory, asking why certain aspects have traditionally been ignore, or taken as a given. Because of this, to begin my process I have given in depth listings of the meaning of key terms for the suite of works.  A dictionary definition offer a reflection on the range of meaning and the suggest links to the history of what are seen as ‘modern’ terms. I am seeking to try and combine and undermine these terms to try and understand my own position.
+
+Networked, experience, computational, aesthetics and surveillance.
+
+Of these five terms the only term not given in the title of the study, ‘surveillance’ represents both the shadow of the other four terms and also what I suspect is the means to analyse and explore the possibilities of the other terms.
+
+* Footnotes
+
+[fn:1] link to uses of term 'Computationality'
+
+[fn:2] Softwareised Society, Link opening of Phil of Software on dependance on software for survival. Berry p. 18
+
+[fn:3] link to classic essay about design of saftware informed culture
+
+[fn:4] Any links to this? There was a bit from Deland somewhere.
+
+[fn:5] Software is eating the world
+
+[fn:6] Def of Surveillance
+
+[fn:7] Sousveilance link
+
+[fn:8] Foucoult link, design of software and oppression
+
+[fn:9] Functions in programming.
+
+[fn:10] Computers and Society
+
+[fn:11] Cybernetic Revolutionaries
+
+[fn:12] design of medical monitoring machines (see berry)
+
+[fn:13] Everything from the control of crops to the management of wild environments and  population control of wild species
+
+[fn:14] Idea taken from the talk,"The Web that wasn't" )[[webthatwasnt][TWTW]]
+
+[fn:15] Whats a daemon yo.
+
+[fn:16] Link to[[http:hrc.wmin.ac.uk/theory-californianideology.html][Barbroo, Cameron - Hypermedia Research Centre
+
+[fn:17] Examples: Skeudomorphic design, interactinon models. Give more
+
+[fn:18] REf to drum languages
+
+[fn:19] Here I am thinking about constraints like technical capabilty,
+machinic power as well as cultural determinism, usability constraints
+or challenges of imagination.
+
+[fn:20] Ref to book on the desing of programs reflecting workplace.
+
+[fn:21] Link to treer main history book / topics
+
+[fn:22] Stoch to Xenakis quote
+
+[fn:23] Link five eyes surveillance
+
+[fn:24] Berry p.62
+
+[fn:25] Berry and Deleuze, p. 18.
+
+[fn:26] Berry, p. 6.
+
+[fn:27] Berry 10
+
+[fn:28] Berry 10
+
+[fn:29] Idea inspired by Frocki's first film.
+
+[fn:30] link to New Aesthetic site / files
+
+[fn:31] Link to Weiner
+
+[fn:32] Link De Landa, Berry.
+
+[fn:33] Article about uses of early phonograph
+
+* Org-mode settings
+#+TODO: WRITE EDIT REVIEW DONE
