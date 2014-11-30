@@ -1,6 +1,8 @@
 ** How we got to now, what shapes the way that we think about computers. Meditation n the popular imagination and its limits. Argue about the silencing of the social.
-	~rhetoric of systems, communities and information flow.~259k
-* Introduction :heading:
+   ~rhetoric of systems, communities and information flow.[fn:35]
+
+   "Beer argued that technolgy could be political in other ways. He beleived that creating a technoligical system entailed developing a technolgy that could be integrated into a social and organisational context. This, engineering a technolgy also provided opportunities to engineer the social and organisational relationships that surrounded it.[fn:34]"
+* Introduction
 
 *** DONE
 **** The Social and the Surveillant
@@ -280,6 +282,10 @@ or challenges of imagination.
 [fn:32] Link De Landa, Berry.
 
 [fn:33] Article about uses of early phonograph
+
+[fn:34] Cybersyn 95
+
+[fn:35] Cyber to Counter 259k
 
 * Org-mode settings
 #+TODO: WRITE EDIT REVIEW DONE
