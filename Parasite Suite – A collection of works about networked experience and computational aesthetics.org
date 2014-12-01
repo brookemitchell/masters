@@ -1,13 +1,17 @@
-** How we got to now, what shapes the way that we think about computers. Meditation n the popular imagination and its limits. Argue about the silencing of the social.
-   ~rhetoric of systems, communities and information flow.[fn:35]
-
-   "Beer argued that technolgy could be political in other ways. He beleived that creating a technoligical system entailed developing a technolgy that could be integrated into a social and organisational context. This, engineering a technolgy also provided opportunities to engineer the social and organisational relationships that surrounded it.[fn:34]"
+*
+#+TODO: WRITE EDIT REVIEW DONE
+*** How we got to now, what shapes the way that we think about computers. Meditation n the popular imagination and its limits. Argue about the silencing of the social.
+*** ~rhetoric of systems, communities and information flow.[fn:35]
+*** "Beer argued that technolgy could be political in other ways. He beleived that creating a technoligical system entailed developing a technolgy that could be integrated into a social and organisational context. This, engineering a technolgy also provided opportunities to engineer the social and organisational relationships that surrounded it.[fn:34]"
 * Introduction
+***  Opening Quote:
+     /Although it is tempting to reduce a technoligical system to its hardware, historians of technology have shown that technological systems are a "seamless web" of social, institutional and technoligical relationships.(122)/
+*** REVIEW The Social and the Surveillant
 
-*** DONE
-**** The Social and the Surveillant
+     Parasite Suite is collection socially-orientated art works exploring attitudes and reactions to digital technology.
 
-     Parasite Suite is collection socially-orientated art works exploring attitudes and reactions to digital technology. The project is realised using a set of art projects that meditate on the theme of 'computationality'. This term I define as a combination of computer processing and networking capabilty that embody a particular aesthetic and mode of experience for those that interact with the works [fn:1]. The particulars of the experience and aesthetic of 'computationality' has been specifically collected and outlined by others[fn:30] but here I loosely define it as the experiencne of a real world decision that seems more determined by what would be appropriate for the sensibilities of a machine rather than a human.
+
+ The project is realised using a set of art projects that meditate on the theme of 'computationality'. This term I define as a combination of computer processing and networking capabilty that embody a particular aesthetic and mode of experience for those that interact with the works [fn:1]. The particulars of the experience and aesthetic of 'computationality' has been specifically collected and outlined by others[fn:30] but here I loosely define it as the experiencne of a real world decision that seems more determined by what would be appropriate for the sensibilities of a machine rather than a human.
 
  A particular aspect of this notion I have focussed on is the sense felt when a machine is a participant and social actor rather than a tool. The ontological shift that takes palces is when we consider the experience of a  machine, is such that our own notion of beauty is altered by considerations of what a computer might be able to sense. The projects are intended to be open ended and generative, blurring lines between artist and audience. For participants, a key goal of the works is for participants to experience dramatic shifts in their social role and duties due to the design of programs. The idea is to try and place emphasis on the notion that a machine can equally be a machine gun or a vacuum cleaner, particularly in the era of the generalised computer, but that it is the heirachies and logistics of society that determine its material formation[fn:29].
 
@@ -286,6 +290,3 @@ or challenges of imagination.
 [fn:34] Cybersyn 95
 
 [fn:35] Cyber to Counter 259k
-
-* Org-mode settings
-#+TODO: WRITE EDIT REVIEW DONE

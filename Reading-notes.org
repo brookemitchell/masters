@@ -84,6 +84,20 @@ His (Maturana) 1959 work with Jerry Lettvin, Warren McCulloch, and Walter Pitts 
 ** 231 =Flores Computers and Cognition=
 /Understanding Computers and Cognition/ begins by critiquing the rationalist assumption that an objective, external world exists. The critique builds on the ideas of Heidegger, Searle, Maturana, J.L Austen, and Hans-Georg Gadamer to show that knowledge is teh result of the interpretation and depends on the past experiences of the interpreter and his or her situation in tradition. Winograd and Flores then argue that because computers lack such experiences and traditions, they cannot replace human beings as knowledge makers. "The ideal of an objectively knowledgable expert must be replaced with a recognition of the importance of background,"(32) Winograd and Flores write. "This can lead to the design of knowledgable community."(32) Moreover, conputer designers should not focus on creating an artifact but should view their labours as a form of "ontological design." Computers should relect who we are and how we interact witht he world, as well as shape what we can do and who we will become... It is now considered a key text inthe field of human-computer interaction.
 
+* Critical Theory and the Digital
+** 1
+     The aim is to understand how we can think about computation as part of the social totality and also provide teh means to develop an immanent critique in relation to it. Ther is still mnuch work to be done in humanities and social sciences to understand and critique the computational, and it is a social phenomenon that is accelerating in its growth and ubiquity.
+
+/our societies are increasingly becoming computational, and with it the atttendant tendency of computational systems to reify all aspects of everyday life, it is crucial that we attend to the mechanization of reification and the dangers presented when these processes crystalize into systems , institutions and consciousness itself. The reified world is 'smart', digital and is increasingly colonized by computationally enhanced networks, objects and subjects./
+
+A new /industrial internet/ is emerging, a computational, real-time streaming ecology that is reconfigured in terms of digital flows, fluidities and movement. In the new industrial internet the paradigmatic metaphor I want to use is the real-time streaming technologies and the data flows, processual stream-based engines and the computal interfaces that embody them. This is stop thinking about the digital as something static and  instead consider its 'trajectories'. Here I am thinking about the way in which scripts function to create loops and branches, albeit of a highly complex form, and create a stable 'representation', wheich we often think of as a digital 'object'.
+** 8
+noticeable shifts in the mode of production and the mdes of communication increasingly challenge our actual understanding of humanity /qua/ humanity as reflectied in debates over reading skills, neuromarketing, behavioral nudges and so forth. These digital elements are thought to soften the boundaries between human and machine and pose questions for philosophers and theorists about human autonomy and distinctiveness (see Feuler 2011; Steigler 2010)
+** 10
+the digital is in any ways the creation of a constellation of standards, canonical ways of passing around discrete information and data, that creates what we might call /witnesses/ to the standard - software enforcing the disciplinary action of these standards, such as Application programming Interfaces (APIs). Owning and controlling standards can have a political economic advantage in a post-Fordist society, and much jostling by multinational corperations  and governments is exactly over the imposition of certain kinds of technical standards on the internet, or what Galloway calls protocol.
+** 11
+   the norms and values of the computational economy can be prescribed quite strongly as a society of control limitng action, thought and even knowledge. This we might understand as the danger of a transition from a rational juridical epistemeology to an /authoritarian-computational/ epistemeology.
+
 * Footnotes
 
 [fn:2] Heid 1993a: 322
