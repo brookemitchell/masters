@@ -1,0 +1,2 @@
+* features of web site
+** image of user as they browse, recognition of different emotions through cv software.
