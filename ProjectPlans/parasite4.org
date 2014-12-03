@@ -1,2 +1,4 @@
 * features of web site
 ** image of user as they browse, recognition of different emotions through cv software.
+** Renderng of Common user tracking tools. Use as sonification
+** Series of dashboard interfaces
