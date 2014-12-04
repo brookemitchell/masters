@@ -3,7 +3,7 @@
 
 *** networked experience and digital asethetics
 
-    Parasite Suite is collection socially-orientated art works exploring human relations with technology, particularly the digital. The work is inspired by:  current anxieties about technology, particularly governmental surveillance, current critical studies of the digital, philosophical works on technology and information theory, as well as the works of modern composers with an interest in technology and society such as...
+    Parasite Suite is collection socially-orientated art works exploring human relations with technology, particularly the digital. The work is inspired by:  current anxieties about technology, particularly governmental surveillance, current critical studies of the digital, philosophical works on technology and information theory, as well as the works of modern composers with an interest in technology and society, such as...
 
 *** Some of the key works for this study include ...
 
@@ -37,7 +37,9 @@ Abductive reasoning is a kind of 'guessing' the coresspondance of a data stream 
 " Computers classify according to the patterns which have already been prorammed within them . Thus patterns serve to create a language, a /pattern language/, which is a set of classificatory means fo the identification of teh type of thing an object presentented to the computer is. Not the particular object, but the abstract calass of teh object and there fore the abstract pproperties and understandings that are pre-coded intot he computer and provide the bass of comprehension".
 
 
-For example, , if I was to write a program that could recognise and intention to read the paragraph that you are currently reading. A program might consist of a tracking of the
+For example, , if I was to write a program that could recognise a pattern, say that you were reading this paragraph. In preparing to construct the algorithm I would consider what sensory inputs I have available, then design a solution
+
+ and intention to read the paragraph that you are currently reading. A program might consist of a tracking of the
 
 
  in pseudocode
