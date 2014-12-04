@@ -3,11 +3,20 @@
 
 *** networked experience and digital asethetics
 
-    Parasite Suite is collection socially-orientated art works exploring human relations with technology, particularly the digital. The work is inspired by:  current anxieties about technology, particularly governmental surveillance, current critical studies of the digital, philosophical works on technology and information theory, as well as the works of modern composers with an interest in technology and society, such as...
+    Parasite Suite is collection socially-orientated art works exploring human relations with digital technology. The work is inspired by current anxieties about technology, particularly governmental surveillance, current critical studies of the digital, philosophical works on technology and information theory, as well as the works of modern composers with an interest in technology and society, such as John Cage and Iannis Xenakis.
 
 *** Some of the key works for this study include ...
 
- The project is realised as a set of art projects that consider the premise that 'computationality' strongly influences our perception of the world. For humans, I believe the term 'computationality' can be broken into two components, a understanding of relations based on network, and a sympathy for thinking patterns are based on abductive reasoning.
+    The project is realised as a set of art projects that consider the premise that 'computationality' strongly influences our understanding and experience of the world. As humans, I believe the term 'computationality' can be broken into two components, an understanding of relations based on the network as metaphor, and a sympathy for thinking patterns are based on abductive reasoning.
+
+* Network as Metaphor
+
+  This description of an approach to the world [fn:47] based on the  'network-as-metaphor' is a combination of the thinking of Martin Heidegger and Marshall Mcluhan.
+
+  In Heidegger's work 'The Question Concerning Technology' he considers the relationship between humanity and technology. His main focus, is human the 'relationship' with technology, which he describes as a context that influences unserstandings of the world, or in his terms 'enframing'. This 'enframing' has certain characteristics where methodology within the technology, such as its mode of returning results (or revealing)
+
+ Heidegger describes his times mode of revealing 'challenging-forth', a notion Berry posits as based on the influence of modern physics and particularly electricity, where humans are placed as 'standing-reserve', and talked about in electrical metaphors suchh as 'potential'. berry declares a post-modern technology metaphor that has emerged based on 'Streaming-forth', a metaphor related to real-time networks[fn:2].
+
 
 * Abductive Reasoning
 *** Abductive reasoning and computationality
@@ -22,9 +31,7 @@ A mode of revealing  based on networking as its primary metaphor,
 
   Approaches to the world through networking metaphors is a trend David Berry identifies in his book 'Critical Theory and Digital Criticism'[fn:46].
 
-  worlds' 'Mode of Revealing' was closely related to  the use of technology as metaphor. Heidegger describes his times  mode of revealing 'challenging-forth', a notion Berry posits as based on the influence of modern physics and particularly electricity, where humans are placed as 'standing-reserve', and talked about in electrical metaphors suchh as 'potential'. berry declares a post-modern technology metaphor that has emerged based on 'Streaming-forth', a metaphor related to real-time networks[fn:2].
-
-In the metaphor of 'streaming-forth'...
+  worlds' 'Mode of Revealing' was closely related to  the use of technology as metaphor. In the metaphor of 'streaming-forth'...
 
 In a society experiencing constant engagment with software algorithms[fn:43] today's engagements with the world order themselves around the metaphor of a 'stream-forth' of engagements[fn:44]. This adoption of an attitude to the world based on technology is a concept described by Heidegger in his work 'The Question Concerning Technology'.[fn:45] He then relates the relationship of humans and technology to a kind of enframing (an all-emcompasing attitude to technology) that affects the use and development of other technologies, as well as informing a world view, becoming a kind of dangerous trap as it limits any further understanding of teh world beyond the metaphors of the technology in question. David Berry writes that Heidegger's examples are intentionally descriptive of an 'enframing' of electricity as its fundamental technology, with concepts like standing reserve (the notion of human action ready to be activiated) being based on the metaphor of voltage.
 
@@ -34,7 +41,7 @@ Abductive reasoning is a kind of 'guessing' the coresspondance of a data stream 
 
 * Pattern Recogniton
 
-" Computers classify according to the patterns which have already been prorammed within them . Thus patterns serve to create a language, a /pattern language/, which is a set of classificatory means fo the identification of teh type of thing an object presentented to the computer is. Not the particular object, but the abstract calass of teh object and there fore the abstract pproperties and understandings that are pre-coded intot he computer and provide the bass of comprehension".
+" Computers classify according to the patterns which have already been prorammed within them . Thus patterns serve to create a language, a /pattern language/, which is a set of classificatory means fo the identification of the type of thing an object presentented to the computer is. Not the particular object, but the abstract calass of teh object and there fore the abstract pproperties and understandings that are pre-coded intot he computer and provide the bass of comprehension".
 
 
 For example, , if I was to write a program that could recognise a pattern, say that you were reading this paragraph. In preparing to construct the algorithm I would consider what sensory inputs I have available, then design a solution
@@ -82,7 +89,7 @@ An important aspect to note is that this 'computational' mode of experience isn'
 
      A particular aspect of the 'computational' I have focussed on is the felt sense that a machine can be treated as a participant and social actor rather than a tool.
 *************** Examples
-*************** END
+		*************** END
 
 *** EDIT
   An ontological shift towards sympathy for the machnines 'algorithmic' methods of understanding, mediating our own notions of beauty. The projects are intended to be open ended, generative and participatory, blurring lines between artist and audience. A key goal of the works is for proamming choices to affect dramatic shifts in  social roles and duties for participants. The concept is to place emphasis on the notion that a generalised  machine can constructed equally be a machine gun or a vacuum cleaner, or a collaborator or spy. Despite the outward presentation of a work or adoption of controversial digital 'features' such as data mining or monitoring,  technological systems are much more than hardware and code, they represent a,"'seamless web' of social, institutional and technological relationships.'"(122)It is the the heirachies and logistics of society that  play a crucial role in determining the material formation of a work[fn:5].
@@ -385,3 +392,5 @@ or challenges of imagination.
 [fn:45] Heidegger and technology
 
 [fn:46] wtf is this book called
+
+[fn:47] Wtf is ontotheology
