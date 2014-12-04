@@ -11,14 +11,20 @@
 
 * Network as Metaphor
 
-  This description of an approach to the world [fn:47] based on the  'network-as-metaphor' is a combination of the thinking of Martin Heidegger and Marshall Mcluhan.
+  This description of an approach to the world [fn:47] based on the  'network-as-metaphor, an understanding of the influence of technolgy that blends the thinking of Martin Heidegger and Neil Postman.
 
-  In Heidegger's work 'The Question Concerning Technology' he considers the relationship between humanity and technology. His main focus, is human the 'relationship' with technology, which he describes as a context that influences unserstandings of the world, or in his terms 'enframing'. This 'enframing' has certain characteristics where methodology within the technology, such as its mode of returning results (or revealing)
+  In Heidegger's work[fn:48]  he considers the relationship between humanity and technology. His main focus is human the 'relationship' with technology, which he describes as a context that influences unserstandings of the world, or in his terms 'enframing'. This 'enframing' has certain characteristics where methodology of the technology, such as its mode of returning an outcome (or revealing) influences attitudes to the orderng of the self and the world around us. In Heideggers case he describes mode of the times in terms based upon the influence electricity and modern physics, where humans are situated as 'standing-reserve', and talked about in electrical metaphors such as 'potential'.
 
- Heidegger describes his times mode of revealing 'challenging-forth', a notion Berry posits as based on the influence of modern physics and particularly electricity, where humans are placed as 'standing-reserve', and talked about in electrical metaphors suchh as 'potential'. berry declares a post-modern technology metaphor that has emerged based on 'Streaming-forth', a metaphor related to real-time networks[fn:2].
+Similarly Mcluhan's work
 
 
-* Abductive Reasoning
+ berry declares a post-modern technology metaphor that has emerged based on 'Streaming-forth', a metaphor related to real-time networks[fn:2].
+
+
+
+
+
+ of revealing 'challenging-forth', a notion Berry posits as based on the influence of* Abductive Reasoning
 *** Abductive reasoning and computationality
 
 Abductive reasoning is a an approach to logical reasoning that is somewhat novel and ubiquitous in its use by computer systems. It is a form of reasoning that is somewhat akin to 'guessing' based on pattern matching
@@ -394,3 +400,5 @@ or challenges of imagination.
 [fn:46] wtf is this book called
 
 [fn:47] Wtf is ontotheology
+
+[fn:48] W concern Technolgy
