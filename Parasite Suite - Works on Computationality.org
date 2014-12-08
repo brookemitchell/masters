@@ -1,17 +1,22 @@
 #+TODO: WRITE EDIT REVIEW | DONE DELETE
 * DONE Introduction
+  Exchanged Glances Turning Heavy
 
 *** networked experience and digital asethetics
 
-    Parasite Suite is collection socially-orientated art works exploring human relations with digital technology. The work is inspired by current anxieties about technology, particularly governmental surveillance, current critical studies of the digital, philosophical works on technology and information theory, as well as the works of modern composers with an interest in technology and society...
+    Parasite Suite is collection socially-orientated art works exploring human relations with technology. The work is inspired by anxieties about technology, (particularly government and institutional surveillance), critical studies of the digital, philosophical works on technology and information theory, as well as works by composers with an interest in the relationship between technology and society.
 
 **************** WRITE Some of the key works for this study include ...
 such as John Cage and Iannis Xenakis.?
 *************** END
 
-     The project is realised as a set of art projects that consider the premise of 'computationality'. The term describes an approach to, and understanding of the world derived from technology as the primary metaphor for relating to the world, a mode almost akin to internalizing of technocratic politics. I am not interested in making a value judgement about of this state of affairs, as it is one that I exist within. This thread of technolgical thought has a long history, and I wish to ecnourage critical approaches to thinking about and responding to digital culture.
+*** EDIT Make this sharper
 
-I believe the term 'computationality' can be broken into two key components, particularly for humans. They are an understanding of relations based on the 'network as metaphor', and a sympathy for thinking patterns are based on abductive reasoning.
+     The project is realised as a set of art projects that consider the ramifiations within multi-layed social engagements for those adopting 'computational' attitudes. The term 'computational' describes an attitude and understanding of the world derived from using technology as a central metaphor for engagement to the world, similar to Heidegger's notion of 'enframing[fn:50]'. I do not mean to use the term in a perjorative sense, I adopt the attitude that technology 'enframes' all our engagements with the world, particularly those where we find it impossible to notice its presence or transparancy.
+
+At a fundamental level this study is about the relationship between humanity and technolgy. It has drawn inspiration from the work of Martin Heidegger's "The Question Concerning Technology,"[fn:49] however I have elected to focus on the specific sense of interactions based on computer networking. It is my belief that a world-view has emerged (or is intrinsically emergeant) that treats technology as the primary methapor for framing engagements with the world. I am not interested in making a value judgement about of this state of affairs, as it is one that I exist within. This thread of technolgical thought has a long history, and I wish to ecnourage critical approaches to thinking about and responding to digital culture beyond the purely technnical spheres in which it is typically discussed.
+
+I will be fererring to this 'computational' attitude as 'computationality' henceforth. I believe the term 'computationality' can be broken into two key components, particularly for humans. They are an understanding of relations based on the 'network as metaphor', and a sympathy for thinking patterns are based on abductive reasoning.
 
 * EDIT Network as Metaphor
 
@@ -415,3 +420,7 @@ or challenges of imagination.
 [fn:47] Wtf is ontotheology
 
 [fn:48] W concern Technolgy
+
+[fn:49] Heidegger QCT
+
+[fn:50] enframing
