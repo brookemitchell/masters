@@ -1,16 +1,15 @@
 #+TODO: WRITE EDIT REVIEW | DONE DELETE
-* DONE Introduction
-  Exchanged Glances Turning Heavy
+* EDIT Introduction
 
-*** networked experience and digital asethetics
+** REVIEW Networked Experience and Digital Asethetics
 
-    Parasite Suite is collection socially-orientated art works exploring human relations with technology. The work is inspired by anxieties about technology, (particularly government and institutional surveillance), critical studies of the digital, philosophical works on technology and information theory, as well as works by composers with an interest in the relationship between technology and society.
+   Parasite Suite is collection socially-orientated art works exploring human relations with technology. The work is inspired by anxieties about technology, (particularly government and institutional surveillance), critical studies of the digital, philosophical works on technology and information theory, as well as works by composers with an interest in the relationship between technology and society.
 
-**************** WRITE Some of the key works for this study include ...
+*************** WRITE Some of the key works for this study include ...
 such as John Cage and Iannis Xenakis.?
-*************** END
+************** END
 
-*** EDIT Make this sharper
+** REVIEW Make this sharper
 
     The project is realised as a set of art projects that consider the shape of social engagements for those adopting 'computational' attitudes. The works attempt to bring awareness of our somewhat vexed relationship with technology as both 'means to an end' (or tool of progress /improvement) and medium through which we experience the world. I hope to do this by designing engagments that at appear to prioritize technicity but derive their function from the social.
 
@@ -18,19 +17,19 @@ such as John Cage and Iannis Xenakis.?
 
  At a fundamental level this study is about the relationship between humanity and technolgy. It has drawn inspiration from the work of Martin Heidegger's "The Question Concerning Technology,"[fn:49] however I have elected to focus on the specific sense of interactions based on computer networking. It is my belief that a world-view has emerged (or is intrinsically emergeant) that treats technology as the primary methapor for framing engagements with the world. I am not interested in making a value judgement about of this state of affairs, as it is one that I exist within. This thread of technolgical thought has a long history, and I wish to ecnourage critical approaches to thinking about and responding to digital culture beyond the purely technnical spheres in which it is typically discussed.
 
- I will be fererring to this 'computational' attitude as 'computationality' henceforth. I believe the term 'computationality' can be broken into two key components, an understanding of relations based on the 'network as metaphor', and a sympathy for thinking patterns are based on abductive reasoning.
+ I will be reffering to this 'computational' attitude as 'computationality' henceforth. I believe the term 'computationality' can be broken into two key components, an understanding of relations based on the 'network as metaphor', and a sympathy for thinking patterns are based on abductive reasoning.
 
-*** Network as Metaphor
+** REVIEW Network as Metaphor
 
-  An approach to the world [fn:47] based on the  'network-as-metaphor', is an attitude that has been described by both Martin Heidegger and Neil Postman. Heidegger's  considers the relationship between humanity and technology as a frame that shapes engagements with the world, in his terms 'enframing' action [fn:48]. Heidegger argues that the essence of technology is not located in the machine but the human 'frame of mind' that allows both its production and shapes the ordering of things that allows a wider changes to come into being.
-
-In Heidegger's case he describes this 'enframing' of the times based upon the influence of electricity and modern physics. Humans are situated as 'standing-reserve', and talked about in electrical metaphors such as 'potential'. David Berry seeks to expand upon Hedegger's theory and argues that a new en-framing based on the digital uses the network as its primary metaphor. where revealing is seen in terms of 'streaming forth' and actions are seen in algorithmic, graphic terms closely related to data-science.
+  An approach to the world [fn:47] based on the  'network-as-metaphor', is an attitude that has been described by both Martin Heidegger and Neil Postman.
+Heidegger argues that the essence of technology is not located in the machine but the human 'frame of mind' that allows both its production and shapes the ordering of things that allows a wider changes to come into being.
+  Heidegger considers the relationship between humanity and technology as a frame that shapes engagements with the world, in his terms 'enframing' all other perceptual processes[fn:48]. In Heidegger's case he describes this 'enframing' of his times are based upon the influence of electricity and modern physics. Humans are situated as 'standing-reserve', and talked about in electrical metaphors such as 'potential'. David Berry seeks to expand upon Hedegger's theory and argues that a new 'enframing' is based on the digital uses the network as its primary metaphor. where revealing is seen in terms of 'streaming forth' and actions are seen in algorithmic, graphic terms closely related to data-science.
 
 Similarly Neil Postman  wrote the 'Medium is the Metaphor', in a twist on Marshall Mcluhan's work. By this he intended to convey something very similar to Heidegger, that the technologes which provide access to information have an even more pervasive influence on our attitudes and understandings of the world than McLuhan's message.
 
-Some examples of this, I was recently listening to a podcast where a software developer who uses Agile software development organisational theory practices to manage his family.
-*************** Example of soundcloud as stream
-*************** END
+For some examples of this, I was recently listening to a podcast where a software developer who uses Agile software development organisational theory practices to manage his family.
+************** Example of soundcloud as stream
+************** END
 
 
 |--------------------+-----------------------------+---------------------------|
@@ -58,7 +57,7 @@ Some examples of this, I was recently listening to a podcast where a software de
 |                    | instrument rationality      | communicative rationality |
 |--------------------+-----------------------------+---------------------------|
 
-* Abductive reasoning
+** WRITE Abductive reasoning
 
 Abductive reasoning is a an approach to logical inferencce that is ubiquitous in its use by computer systems, partularly when trying to make judgements working with 'fuzzy'; or flawed data sets. A conclusion from abductive reasoning isn't guaranteed, simply that the current guess is the 'best explanation' given data at hand. It is a form of reasoning akin to 'guessing' based on pattern matching, results can vary wildly based on the quality of data and the algorithm for pattern matching.
 
