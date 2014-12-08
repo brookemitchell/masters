@@ -121,7 +121,20 @@ These challenges help us appreciate that to understand the 'digital' requires th
 
 
 It is not the '0's and '1's that are in memory chips within the device but the specific modular organisation and deployment of the 'digital' - in its both material and ideological moments, which needs to be considered carefully. Apps are, in this rendering of the representative operation of the UI, the logic and control and are often paid for, and the files are the data or informational context which belongs to the user and is often segregated as a user file area.
+* Science and the Story that We Need by Neil Postman January 1997[fn:3]
+ The principal spiritual problem confronting those of us who live in a technological age was spoken of some years ago in a prophetic poem by Edna St. Vincent Millay, in her collection Huntsman, What Quarry?
+
+    Upon this gifted age, in its dark hour,
+    Rains from the sky a meteoric shower
+    Of facts . . . they lie unquestioned, uncombined.
+    Wisdom enough to leech us of our ill
+    Is daily spun, but there exists no loom
+    To weave it into fabric.
+
+
 
 * Footnotes
 
 [fn:2] Heid 1993a: 322
+
+[fn:3] http://www.firstthings.com/article/1997/01/003-science-and-the-story-that-we-need
