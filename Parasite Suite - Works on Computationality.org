@@ -1,6 +1,5 @@
 #+TODO: WRITE EDIT REVIEW | DONE DELETE
 * Intro Quote
-Kitchin explains,
 /we know very little about the ways in which software is socially created, the nature of software itself; how discourse, practices, and knowledge get translated into algorithms and code; the geographies and political economy of software development; how software is embedded into various social systems; how software applications work with each other to create complex assemblages that work within and across scales; the power wielded through software's "secondary agency"; and how software alternativly modulates the production production of space and transforms the nature of governance. (Kitchin 2011: 946)/
 * EDIT Introduction
 ** DONE Networked Experience and Digital Asethetics
@@ -9,9 +8,12 @@ Kitchin explains,
 
 ** WRITE Enframing - Two aspects to the commputational
      The idea of a 'computational' society describes an attitude and understanding of the world derived from use of technology to relate with the world, a notion similar to Heidegger's notion of 'enframing.' [fn:50] In "The Question Concerning Technology"[fn:49], 'enframing' describes how technology mediates our engagements with the world, but also how characteristics of the technologies that gain a pervasive influence, their manner of operation becomes adopted as a metaphor for other sytems. Taken further, this becomes a kind of subconscious mediation of our attitude toward the world, similar to the mantra "the medium is the metaphor" described by Neil Postman[fn:51].
+
 *************** WRITE Go into more about Postman
 *************** END
+
      This adoption of an attitude to the world based on technology is a concept described by Heidegger in his work 'The Question Concerning Technology'.[fn:45] Heidegger relates the relationship of humans and technology as an 'enframing', an all-emcompasing attitude to the world influenced by technology that affects the use and development of other technologies, as well as informing a world view, becoming a kind of inescapable trap that might limit further understanding of the world beyond the developing of the technology in question. In this sense we havea  kind of symbiotic, yet parasitic relationship with technology, we see it as a way to advance and master a domain, and yet it dominates our thinking with its approaches if we allow it to do so. As one of the goals of software seems to be to adopt a constructionist 'realness'[fn:52], it can be particularly hard to notice its presence when it aspires to transparancy, there are thus two kinds of disappearances technology tries to make, the first a sense of the natural to try and minimize its presence, and the second a appeal to transparency that deflects the notion that anything was to be hidden in the first place.
+
 *************** WRITE check what notion of 'stranding-reserve' means
 *************** END
 
