@@ -1,29 +1,55 @@
 #+TODO: WRITE EDIT REVIEW | DONE DELETE
-* EDIT Introduction
-
+* Intro Quote
 Kitchin explains,
-we know very little about the ways in which software is socially created, the nature of software itself; how discourse, practices, and knowledge get translated into algorithms and code; the geographies and political  economy of software development; how software is embedded into various social systems; how software applications work with each other to create complex assemblages that work within and across scales; the power wielded through software's "secondary agency"; and how software alternativly modulates the production production of space and transforms the nature of governance. (Kitchin 2011: 946)
-
-** REVIEW Networked Experience and Digital Asethetics - Is there a digital subconscious?
-
+/we know very little about the ways in which software is socially created, the nature of software itself; how discourse, practices, and knowledge get translated into algorithms and code; the geographies and political economy of software development; how software is embedded into various social systems; how software applications work with each other to create complex assemblages that work within and across scales; the power wielded through software's "secondary agency"; and how software alternativly modulates the production production of space and transforms the nature of governance. (Kitchin 2011: 946)/
+* EDIT Introduction
+** DONE Networked Experience and Digital Asethetics
+*** Is there a digital subconscious?
    Parasite Suite is collection of socially-orientated art works exploring human relations with technology. The works are inspired by anxieties about technology, (particularly government and institutional surveillance), critical studies of the digital, philosophical works on technology and information theory, as well as works by composers with an interest in the relationship between technology and society. The project is realised as a set of art projects that consider the shape of social engagements for those adopting a 'computational' mindset.
 
-     The term 'computational' describes an attitude and understanding of the world derived from using technology as a metaphor for our engagement with the world, a term similar to Heidegger's notion of 'enframing.' [fn:50] In "The Question Concerning Technology"[fn:49], enframing (Gessalt?) describes how technology mediates our engagements with the world, but also how characteristics of the technologies that gain a pervasive social influence begin to have their manner of operation adopted as a metaphor for other sytems. Taken further this becomes a kind of subconscious mediation of our attitude toward the world, similar to the mantra "the medium is the metaphor" described by Neil Postman[fn:51].
-
-** Two kinds of enframing
- 'Computationality' is defined here as a more specific instance of 'enframing'.
-Enframing is described as having a 'mode of revealing', for computationality I beleive there are two ways in which technolgy is 'enframed by the human mind.'Through the metaphors of streaming-forth and abductive reasoning. These two key characteristics; an understanding of experience as based on 'streaming' metaphors, and a sympathy for 'new' aesthetics that are  well suited to computer quantification (the reasons for this I beleive are both intentional and subconscious) are these two aspects as a system of networked experience and abductive reasoning to be elabotated on shortly.
+** WRITE Enframing - Two aspects to the commputational
+     The idea of a 'computational' society describes an attitude and understanding of the world derived from use of technology to relate with the world, a notion similar to Heidegger's notion of 'enframing.' [fn:50] In "The Question Concerning Technology"[fn:49], 'enframing' describes how technology mediates our engagements with the world, but also how characteristics of the technologies that gain a pervasive influence, their manner of operation becomes adopted as a metaphor for other sytems. Taken further, this becomes a kind of subconscious mediation of our attitude toward the world, similar to the mantra "the medium is the metaphor" described by Neil Postman[fn:51].
+*************** WRITE Go into more about Postman
+*************** END
+     This adoption of an attitude to the world based on technology is a concept described by Heidegger in his work 'The Question Concerning Technology'.[fn:45] Heidegger relates the relationship of humans and technology as an 'enframing', an all-emcompasing attitude to the world influenced by technology that affects the use and development of other technologies, as well as informing a world view, becoming a kind of inescapable trap that might limit further understanding of the world beyond the developing of the technology in question. In this sense we havea  kind of symbiotic, yet parasitic relationship with technology, we see it as a way to advance and master a domain, and yet it dominates our thinking with its approaches if we allow it to do so. As one of the goals of software seems to be to adopt a constructionist 'realness'[fn:52], it can be particularly hard to notice its presence when it aspires to transparancy, there are thus two kinds of disappearances technology tries to make, the first a sense of the natural to try and minimize its presence, and the second a appeal to transparency that deflects the notion that anything was to be hidden in the first place.
+*************** WRITE check what notion of 'stranding-reserve' means
+*************** END
 
 *************** Enframing examples...
 *************** END
 
-This adoption of an attitude to the world based on technology is a concept described by Heidegger in his work 'The Question Concerning Technology'.[fn:45] He then relates the relationship of humans and technology to a kind of enframing (an all-emcompasing attitude to technology) that affects the use and development of other technologies, as well as informing a world view, becoming a kind of dangerous trap as it limits any further understanding of teh world beyond the metaphors of the technology in question. David Berry writes that Heidegger's examples are intentionally descriptive of an 'enframing' of electricity as its fundamental technology, with concepts like standing reserve (the notion of human action ready to be activiated) being based on the metaphor of voltage.
+|--------------------+-----------------------------+---------------------------|
+|                    | Technicity                  | Computationality          |
+|                    | (modern technology)         | (postmodern technology)   |
+|--------------------+-----------------------------+---------------------------|
+| Mode of Revealing  | Challenging-forth (Gestell) | Streaming-forth           |
+|--------------------+-----------------------------+---------------------------|
+| Paradigmatic       | Technical devices,          | Computational devices     |
+| Equipment          | machines                    | computers, processors.    |
+|--------------------+-----------------------------+---------------------------|
+| Goals (projects)   | 1. Unlocking                | 1. Trajectories           |
+|                    | transforming                | Processng Info            |
+|                    | storing                     | Algorithmic trans         |
+|                    | distributing                | (aggregation, reduction   |
+|                    | switching about             | calculation) as           |
+|                    | Standing reseve             | /data reserve/            |
+|                    | 2.efficiency                | 2. computability          |
+|--------------------+-----------------------------+---------------------------|
+| Identities (roles) | Ordered beings              | Streaming Beings          |
+|--------------------+-----------------------------+---------------------------|
+| Paradigmatic       | *Engineer* time motion      | *Design* Info theory      |
+| Epistem            | studies, method-time        | graph theory              |
+|                    | measurement (MTM)           | data viz                  |
+|                    | instrument rationality      | communicative rationality |
+|--------------------+-----------------------------+---------------------------|
 
- Because one of the goals of software seems to be to adopt a constructionist 'realness'[fn:52], it can be particularly hard to notice its presence when it aspires to transparancy. In this respect human relationships with technology occupy a somewhat vexed space, with technology seen as both 'means to an end', a tool of progress or improvement, yet perhaps more importantly technology is also a medium through which we experience the world. I hope to analyse this by designing engagments that at appear to prioritize technicity but on further involvement derive their functions from the technological mediation of a social scenario. I wish to ecnourage critical approaches to thinking about and responding to digital culture beyond the purely technnical spheres in which it is often discussed.
+In this respect human relationships with technology occupy a somewhat vexed space, with technology seen as both 'means to an end', a tool of progress or improvement, yet perhaps more importantly technology is also a medium through which we experience the world. I hope to analyse this by designing engagments that at appear to prioritize technicity but on further involvement derive their functions from the technological mediation of a social scenario. I wish to ecnourage critical approaches to thinking about and responding to digital culture beyond the purely technnical spheres in which it is often discussed.
 
 *************** some of the key works for this study include
 such as John Cage and Iannis Xenakis.?
 *************** END
+
+   I define 'Computationality' as similar to what Heidegger describes as 'enframing'. Enframing is "the essence of modern technology[fn:53]", a relationship we are in with technology influences our understanding of truth. David Berry writes that Heidegger's notion of enframing is intentionally use electricity and modern physics as its fundamental technological metaphors, with concepts like standing-reserve, the notion of human action ready to be activiated being based on the metaphor of voltage. The notion of 'computationality', is corresponding based on the language of the network and the aesthetics of software engineering.
 
 
 ** EDIT Networked Experience = Mode of revealing
@@ -51,7 +77,7 @@ For some examples of this, I was recently listening to a podcast where a softwar
 *** WRITE Abductive resoning in new aesthetics
 
 
-** WRITE Pattern Recogniton - Combining the two (is that a good title?)
+** WRITE Pattern Language - Combining the two (is that a good title?)
 
   Computationality can be defined as the ontotheology, of a specific historical 'epoch' (which we appear to be in at present) where by practices, methods and categories are based on an understanding that computers form part of our "essence and existence." In other words metaphors about computing make up a set of "knowledges, practices, methods and categories that 'temporarily secures the intelligible order[fn:1]'"
 
@@ -60,34 +86,8 @@ For some examples of this, I was recently listening to a podcast where a softwar
 
 An important aspect to note is that this 'computational' mode of experience isn't dependant on any kind of technology or state of development in itself. As I have found in my research it is possible to create a networked experience based on streaming data and reactions based almost entirely on inter-human communication, as was the acase with the Cyber-Syn project in 1970s Chile[fn:41].
 
-|--------------------+-----------------------------+---------------------------|
-|                    | Technicity                  | Computationality          |
-|                    | (modern technology)         | (postmodern technology)   |
-|--------------------+-----------------------------+---------------------------|
-| Mode of Revealing  | Challenging-forth (Gestell) | Streaming-forth           |
-|--------------------+-----------------------------+---------------------------|
-| Paradigmatic       | Technical devices,          | Computational devices     |
-| Equipment          | machines                    | computers, processors.    |
-|--------------------+-----------------------------+---------------------------|
-| Goals (projects)   | 1. Unlocking                | 1. Trajectories           |
-|                    | transforming                | Processng Info            |
-|                    | storing                     | Algorithmic trans         |
-|                    | distributing                | (aggregation, reduction   |
-|                    | switching about             | calculation) as           |
-|                    | Standing reseve             | /data reserve/            |
-|                    | 2.efficiency                | 2. computability          |
-|--------------------+-----------------------------+---------------------------|
-| Identities (roles) | Ordered beings              | Streaming Beings          |
-|--------------------+-----------------------------+---------------------------|
-| Paradigmatic       | *Engineer* time motion      | *Design* Info theory      |
-| Epistem            | studies, method-time        | graph theory              |
-|                    | measurement (MTM)           | data viz                  |
-|                    | instrument rationality      | communicative rationality |
-|--------------------+-----------------------------+---------------------------|
 
-** Patten Language
-" Computers classify according to the patterns which have already been prorammed within them . Thus patterns serve to create a language, a /pattern language/, which is a set of classificatory means fo the identification of the type of thing an object presentented to the computer is. Not the particular object, but the abstract calass of teh object and there fore the abstract pproperties and understandings that are pre-coded intot he computer and provide the bass of comprehension".
-** END
+   " Computers classify according to the patterns which have already been prorammed within them . Thus patterns serve to create a language, a /pattern language/, which is a set of classificatory means fo the identification of the type of thing an object presentented to the computer is. Not the particular object, but the abstract calass of teh object and there fore the abstract pproperties and understandings that are pre-coded intot he computer and provide the bass of comprehension".
 
 *************** Pattern example
 #+BEGIN_SRC javascript
@@ -425,3 +425,5 @@ or challenges of imagination.
 [fn:51] Postman, medium is metaphor
 
 [fn:52] Description of links between software and constructionism
+
+[fn:53] (En)Framing Heidegger's Pilosophy p.8
