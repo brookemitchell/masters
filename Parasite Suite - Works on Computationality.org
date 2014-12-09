@@ -6,7 +6,7 @@
 *** Is there a digital subconscious?
    Parasite Suite is collection of socially-orientated art works exploring human relations with technology. The works are inspired by anxieties about technology, (particularly government and institutional surveillance), critical studies of the digital, philosophical works on technology and information theory, as well as works by composers with an interest in the relationship between technology and society. The project is realised as a set of art projects that consider the shape of social engagements for those adopting a 'computational' mindset.
 
-** WRITE Enframing - Two aspects to the commputational
+** WRITE Enframing - Two aspects to the computational
      The idea of a 'computational' society describes an attitude and understanding of the world derived from use of technology to relate with the world, a notion similar to Heidegger's notion of 'enframing.' [fn:50] In "The Question Concerning Technology"[fn:49], 'enframing' describes how technology mediates our engagements with the world, but also how characteristics of the technologies that gain a pervasive influence, their manner of operation becomes adopted as a metaphor for other sytems. Taken further, this becomes a kind of subconscious mediation of our attitude toward the world, similar to the mantra "the medium is the metaphor" described by Neil Postman[fn:51].
 
 *************** WRITE Go into more about Postman
