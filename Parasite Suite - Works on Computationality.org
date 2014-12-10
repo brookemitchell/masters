@@ -8,6 +8,38 @@
 *** Is there a digital subconscious?
    Parasite Suite is collection of socially-orientated art works exploring human relations with technology. The works are inspired by anxieties about technology, (particularly government and institutional surveillance), critical studies of the digital, works on information theory, as well as works by composers with an interest in the relationship between technology and society. The project is realised as a set of art projects that consider the shape of social engagements for those adopting a 'computational' mindset.
 
+one of the more interestng developments of the late 20th and early
+21st century is the shift in the role of computing. inititially
+considered a tool limited to calculations and reckonings [fn:38], the
+ability of computer to transmit and record has made it into a highly
+effective communications tool. it is the tension between these two
+roles, what i have started to think of as a tension between two different models for the organisation of information as outlined by de landa..
+
+of in the heirachy of information organisation and transmission that is deeply explored in
+
+between the signal and database, that i see exemplified in the contempory discourse about
+surveilland and technology.[fn:37]
+
+a computer can perform many roles, part of what makes general purpose machines interesting is their ability to be reconfigured. however that is not to say that the possibilities are limitless or easily explored. there are many things that are naturally difficult to do with general purpose computing for a wide variety of reasons that are too long to list. [fn:45] furthermore, the manner in
+which a product is designed, developed and organised, is often
+specific to the workplace culture, organisation and mode of production
+under which it originated. these kind of influences are likely to only
+deepen rathr than disappear.[fn:46] a classic text describing this
+scenario is the study by x..
+
+   Physical possibilities. Design.
+
+the following works are a study in the relationship and possibilities in the spaces between communication technology and artistic practice.
+
+communications technology and musical practice hold much in the way of a common history, converging and
+
+on a personal level one piece of anecdotal evidence that i have noticed is the large number of programmers and ict (informatin communicatons technolgy) workers that are musicians, composers or disc.
+
+The other piece of anecdotal evidence is the predisposition for composers toward computer programming and electronics.
+
+*** Look at study on Links
+
+jockeys[fn:44].
 *** WRITE Graph of structure of Computationality
 Networked Experience() ->
 Abductive Aesthetics() ->
@@ -73,8 +105,39 @@ what i am particlarly interested in is mutual real-time meaning making between m
 *************** end
 
 ** WRITE Computationality - our pattern language
+
+Computationality = A new kind of technicity.
+
    When networked experiences and abductive resoning combine, they make up the set of characteristics that make up the table of concerns of 'computationality' described by Berry.
 
+Abduction fuels the thinking, Networking the socializing.
+
+*** Quotes from Comp THinking @ stunlaw
+One of the striking features of computation is the extent to which forms of pattern matching are required in computer processing. Pattern recognition can be described as a means of identifying repeated shapes or structures which are features of a system under investigation. Whilst we tend to think of patterns as visual, of course they can also be conceptual, iterative, representational, logical, mathematical, etc. in form providing the underlying computational system can be programmed to recognise the distinctive shape of the pattern from the data. They can also consist of meta-patterns as described by Gregory Bateson as patterns that can detected across different spheres, such as culture, humanities, science and the social or 'the pattern that connects' (see Bateson 1979; Dixon 2012).
+
+
+The recognition of patterns and uncovering their relationships in sets of data was called 'abductive reasoning' by Charles Peirce, who contrasted it with inductive and deductive reasoning. Indeed, Peirce described abduction as a kind of logical inference akin to guessing. This he called the leap of abduction where by one could abduce A from B if A is sufficient (or nearly sufficient) but not necessary for B. The possible uses of this within a computational context should be fairly obvious, especially when software is handling partial, fuzzy or incomplete data and needs to generate future probabilistic decision points, or recognise important features or contours in a data set./
+For Peirce, abduction works from these surprising facts to determine a possible, plausible explanation.  Furthermore, Peirce stresses the fact that the logic of abduction is fallible – abductive inferences, like induction, can, and do, lead us to the wrong result (Pearce 1958 5.189, 5.197, 6.532).  However, as a part of the triad, abduction is able to correct itself, once it is investigated by deduction and tested by induction (Pearce 1958 5.574).  Because of this, we should never take the conclusion of an abductive inference to be a fact in and of itself until it is tested.  Until that point “abduction commits us to nothing…it merely causes a hypothesis to be set down upon our docket of cases to be tried” (Pearce 1958 5.602).  Furthermore, by hypothesis, Peirce does not just mean scientific hypotheses.  Abduction certainly includes the more formalized, conscious cognitive process of deliberately searching for an explanation to a set of particular facts; however, abduction is also a logical inference used in everyday life from crude hypotheses (his Catholic priest example) to perceptual judgments (understanding the information that we receive from our senses) (Pearce 1958 7.202, 5.180, 5.184) (Eldridge n.d.).
+
+Within computer science, and particularly related to the more micro level problem of recognising patterns themselves within data sets automatically using computation, is an important and challenging area of research. The main forms of pattern recognition (we can think of these as patterns to find patterns) used in computation are usually enumerated as template-matching, prototype matching, feature analysis, recognition by components, fourier analysis, and lastly bottom-up and top-down processing. I'll briefly describe each of the six main approaches.
+
+Template Matching: This is where a computational device uses a set of images (or templates) against which it can compare a data set, which might be an image for example (for examples of an image set, see Cole et al. 2004).
+
+Template Matching (Jahangir 2008)
+Prototype Matching: This form of patten matching uses a set of prototypes, which are understood as an average characteristic of a particular object or form. The key is that there does not need to be a perfect match merely a high probability of likelihood that the object and prototype are similar (for an example, see Antonina et al. 2003).
+
+Feature Analysis: In this approach a variety of approaches are combined including detection, pattern dissection, feature comparison, and recognition. Essentially the source data is broken into key features or patterns to be compared with a library of partial objects to be matched with (for examples, see Morgan n.d.).
+
+Recognition by Components: In this approach objects are understood to be made up of what are called 'geons' or geometric primitives. A sample of data or images is then processed through feature detectors which are programmed to look for curves, edges, etc. or through a geo detector which looks for simple 2D or 3D forms such as cylinders, bricks, wedges, cones, circles, and rectangles (see Biederman 1987).
+
+Fourier Analysis: This form of pattern matching uses algorithms to decompose something into smaller pieces which can then be selectively analysed. This decomposition process itself is called the Fourier transform.  For example, an image might be broken down into a set of twenty squares across the image field, each of which being smaller, is made faster to process. As Moler (2004) argues, 'we all use Fourier analysis every day without even knowing it. Cell phones, disc drives, DVDs, and JPEGs all involve fast finite Fourier transforms'. Fourier transformation is also used to generate a compact representation of a signal. For example, JPEG compression uses a variant of the Fourier transformation (discrete cosine transform) of small square pieces of the digital image. The Fourier components of each square are then rounded to lower arithmetic precision, and weak components are discarded, so that the remaining components can be stored in much less computer memory or storage space. To reconstruct the image, each image square is reassembled from the preserved approximate Fourier-transformed components, which are then inverse-transformed to produce an approximation of the original image, this is why the image can produce 'blocky' or the distinctive digital artefacts in the rendered image, see JPEG (2012).
+
+Bottom-up and Top-down Processing: Finally, in the Bottom-up and Top-down methods an interpretation emerges from the data, this is called data-driven or bottom-up processing. Here the interpretation of a data set to be determined mostly by information collected, not by your prior models or structures being fitted to the data, hence this approach looks for repeated patterns that emerge from the data. The idea is that starting with no knowledge the software is able to learn to draw generalisations from particular examples. Alternatively an approach where prior knowledge or structures are applied data is fitted into these models to see if there is a 'fit'. This approach is sometimes called schema-driven or top-down processing. A schema is a pattern formed earlier in a data set or drawn from previous information (Dewey 2011).
+
+What should be apparent from this brief discussion of the principles of abduction and pattern-matching in computer science is their creative possibilities for generating results from data sets. The ability to generate  hypothesises on the basis of data, which is fallible and probabilistic allows for computational devices to generate forecasts and predictions based on current and past behaviours, data collection, models, and images. It is this principle of abductive reason which makes computational reasoning different from instrumental reason, and particularly from the iron-cage of logical implication or programmatic outcome that instrumental reason suggests. Indeed Alexander that the most useful patterns are generative,
+
+    These patterns in our minds are, more or less, mental images of the patterns in the world: they are abstract representations of the very morphological rules which define the patterns in the world. However, in one respect they are very different. The patterns in the world merely exist. But the same patterns in our minds are dynamic. They have force. They are generative. They tell us what to do; they tell us how we shall, or may, generate them; and they tell us too, that under certain circumstances, we must create them. Each pattern is a rule which describes what you have to do to generate the entity which it defines. (Alexander 1979: 181-182)
+*** END
 *************** Categories of affect(?) in  berry's classification table
 *************** END
 |--------------------+-----------------------------+---------------------------|
@@ -202,35 +265,20 @@ pattern aesthetic-
 
 *** todo quote about discovery of email from cybersyn[fn:38]
 
+** WRITE Streaming-Forth
+** EDIT Inspirations
 
-**** in previous projects i have explored the strangeness of everyday objects, using sound as a  tool for the expression of a-human sentiment? :kill:
+The inspiriation is taken from serres concept of 'black boxing'. seeing the world in terms of components. taking one and stripping away layers of abstraction in order to understand the processes involved, then returning the 'box' to its position  with newfound understanding.
 
-if i was to describe a common daily schedule for the period over which i have been working on these projects, it would be a highly computational one. however even if i was to completely to withdraw, to refuse to acknowledge how much of life is order by the twin processes of networking and computation. i would stil be embedded in a system in which my birt[fn:39]h, sustenance[fn:40],
+In my case i am looking at the current state of human relations as i experience them. i am particularly focussed on the 'machinic' qualities and the managemnt of what is commonly thought of as mediation, and common anxieties and concerns with current engagement. i am usingtools that seem applicable and the easiest and most relevant to the concerns. typically the same materials such as, web page scripting, electronic components and sensory inputs and outputs, that are involved in the 'black box'.
 
-i wake daily, and usually the first thing i do is check my emails. after that i eat, drink coffee and walk to my studio. there i will usually spend the first two hours reasearching, either reading books on a relevant topic or trying to follow any blog posts or online tutorials about the technical aspects of the 'black boxes' that are the technical building blocks of my projects.
+So while the work might seem at first technical in nature. i am more interested in trying to 'simply' understand a set of relations and use audio as a descriptive tool.
 
-** inspirations
+The four art installations i have assembled represent a set of considerations about how music and technology should interact, and of what this might mean for wider attitudes about the role of the computer in music and society at large.
 
-the inspiriation is taken from serres concept of 'black boxing'. seeing the world in terms of components. taking one and stripping away layers of abstraction in order to understand the processes involved, then returning the 'box' to its position  with newfound understanding.
-
-in my case i am looking at the current state of human relations as i experience them. i am particularly focussed on the 'machinic' qualities and the managemnt of what is commonly thought of as mediation, and common anxieties and concerns with current engagement. i am usingtools that seem applicable and the easiest and most relevant to the concerns. typically the same materials such as, web page scripting, electronic components and sensory inputs and outputs, that are involved in the 'black box'.
-
-so while the work might seem at first technical in nature. i am more interested in trying to 'simply' understand a set of relations and use audio as a descriptive tool.
-
-
-the four art installations i have assembled represent a set of considerations about how music and technology should interact, and of what this might mean for wider attitudes about the role of the computer in music and society at large.
-
-*** todo
-** how we got to
-
-   my research has been into the technologi]cal ideologies that have shaped attitudes to the use of computers in music. particularly the lineage of political strains romantic individualism and utopianism that beacame a part of the ethos of what is know as "the california ideology"[fn:41] this fusion of various strains of thought among academics and inventors after world war two would go on to shape many aspects of the design and research into the use of computers that we continue to use today.[fn:42]
+** EDIT Historical Studies
 
 similarly to the cyberneticians, counterculturaliststs and techno-utopians, i wish to explore the interaction of sytems and tools and how the relate.
-
-however in the field of music has at times been both highly influential, as fred turner argues that the use of rock music and stereo equipment as a 'mind expanding' tool was highly influential on the design of the computer.
-
-however the notion of computer music has also offered a challenge for software designers to offer a satisfactory interface for,
-
 it has also at times offered a challenge to the
 
 it is my argument that aspects of thinking about how computers should be used in art and music are limited by ideological constraints on the kinds of interaction that can be permitted.
@@ -241,64 +289,6 @@ however rather than attempting to completely divorce myself from this lineage or
 
 i argue that there is a link between some aspects of the transhumanism which has influenced much of technological design and desires of transcendence in 20th century music compoers such as john cage that has emphaised transcendce at he expese of 'silencing the social' in the wods of douglas kahn. it is not my wish to decry these works, rather to celebrate and reconsider them in the context of today where we are never sure if we are too connected and being surveilled, or too alone and alienated. instead by seeking o re-empahises teh socaial, collaboratvie aspects of that is already there instead by seeking o re-empahises teh socaial, collaboratvie aspects of that is already there.
 
-** todo unexplored futures
-
-** todo future interfacing
-
-i feel that my work is a kind of physical reaserch into the terms of contention and the possibilites they might offer. i feel that difficult, negative or contentious terms are not as exhausted or pre-determined in meaning as we might imagine.
-
- of one vision of computing with some of the other
-
-as well as considering the ideaologies and politics that have informed the design of our 'tools', the works look at the ideas about appropriate aesthetics
-
-
-as well as the aesthetics of the msucial landscape that those tools, their operators and composers help create.
-
-it is my conjecture that in followng the history of early computing and developments in musical technolgy, we can see how the culture of three areas in western culture, military industrial and academic, became a key part of what i have termed 'contract culture' in the world after world war two.
-
-the following works are a study in the relationship and possibilities in the spaces between communication technology and artistic practice.
-
-communications technology and musical practice hold much in the way of a common history, converging and
-
-albeit a
-
- practcie, tradition and aesthetics. from the use of drums as a signalling tool, or even drum languages [fn:43] to the development of brass instruments for
-
-and aesthetics, these works attempt to explore what the future of this relationship might hold.
-
-
-on a personal level one piece of anecdotal evidence that i have noticed is the large number of programmers and ict (informatin communicatons technolgy) workers that are musicians, composers or disc
-jockeys[fn:44].
-
-*** todo look up famous ppl doing both
-
-links between player piano and loom.
-
-
-*** todo history of ict links to music tech
-
-
-one of the more interestng developments of the late 20th and early
-21st century is the shift in the role of computing. inititially
-considered a tool limited to calculations and reckonings [fn:38], the
-ability of computer to transmit and record has made it into a highly
-effective communications tool. it is the tension between these two
-roles, what i have started to think of as a tension between two different models for the organisation of information as outlined by de landa..
-
-of in the heirachy of information organisation and transmission that is deeply explored in
-
-between the signal and database, that i see exemplified in the contempory discourse about
-surveilland and technology.[fn:37]
-
-a computer can perform many roles, part of what makes general purpose machines interesting is their ability to be reconfigured. however that is not to say that the possibilities are limitless or easily explored. there are many things that are naturally difficult to do with general purpose computing for a wide variety of reasons that are too long to list. [fn:45] furthermore, the manner in
-which a product is designed, developed and organised, is often
-specific to the workplace culture, organisation and mode of production
-under which it originated. these kind of influences are likely to only
-deepen rathr than disappear.[fn:46] a classic text describing this
-scenario is the study by x..
-*** todo find article about organisation culture i have
-
-many of the functions of modern society depend upon the computer not as a caculator but as a communications tool to relay messages. however in practice, the processes that allow communication to take place, message packaging, routing, encryption, transmittion and error checking are all based on the computation of algorithms. because of the hybrididy of modern communication, both computational and networked, i have chosen to study how modern communication and musical practice can be interrelated.
 
 as this project, determined in looking at 'possibilities', has a somewhat futuristic bent. i have elected to be somewhat wary of the degree to whih i cast the future in the mod eof my own emplacement. this circular inevitablility of conditioning my works into a kind of 'future-present' is somewhat inescapable. however in an attempt to mitigate this i have tried to take inspiriations for my work from other 'failed utopias' as much as the one i currently reside in.
 
@@ -308,12 +298,6 @@ the cybersyn surveillance project of allende's chile, the cybernetic countercult
 
 i have instead looked at other failed utopias. since this work is a study in the effects of networking and computation.
 
-to do so ii have studied
-
-in order to look at some of the possibilities, it is necessary to apporximate
-
-a closer look at the terms involved part forms the basis for beginning this work.
-
 exploring some of their neglected meanings and history of terms and contrasting that with where the emphasis of specific definition lies today is a key part of the work. by looking at the complete history and meaning of terms, particularly alternate meanings, i feel we can begin to excavate other possibilities, possibilities that were always available but feel cut off from now.
 
 for example, the word computer has a been on a historical journey from meaning a human being that makes calculations, to a device facilitation calculation. however even the interesting parts of that statement miss some of the socio-cultural aspects of what a being a computer means.
@@ -322,10 +306,7 @@ for instance that computers were once large teams of people used in warfare to c
 
 how to portray this rich and often conflicted history in a word is a difficult task. we see that  a key role for the artist can be excavating meaning. looking that the meanings that have been applied over the years and following a common task in critical theory, asking why certain aspects have traditionally been ignore, or taken as a given. because of this, to begin my process i have given in depth listings of the meaning of key terms for the suite of works.  a dictionary definition offer a reflection on the range of meaning and the suggest links to the history of what are seen as ‘modern’ terms. i am seeking to try and combine and undermine these terms to try and understand my own position.
 
-networked, experience, computational, aesthetics and surveillance.
-
-of these five terms the only term not given in the title of the study, ‘surveillance’ represents both the shadow of the other four terms and also what i suspect is the means to analyse and explore the possibilities of the other terms.
-*** issues w/ thinking of sound based art-work as 'time based media'
+** 'Streaming-forth' and Time based Art
     if installation is not a processional peice, w/ beginning and end, where does that situate sound? digital influence. is adaptive/ generative sound still time based? is it more real time and responsive?
 
 * Footnotes
