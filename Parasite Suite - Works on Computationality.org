@@ -42,7 +42,6 @@ such as John Cage and Iannis Xenakis.?
 *************** WRITE Which leads us to the two aspects of compuatationality...
 *************** END
 
-
 ** EDIT Networked Experience: - both mode of revealing and identity
    What does packet based communication allow for...
 
@@ -74,7 +73,6 @@ what i am particlarly interested in is mutual real-time meaning making between m
 *************** end
 
 ** WRITE Computationality - our pattern language
-
    When networked experiences and abductive resoning combine, they make up the set of characteristics that make up the table of concerns of 'computationality' described by Berry.
 
 *************** Categories of affect(?) in  berry's classification table
