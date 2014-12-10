@@ -1,13 +1,21 @@
 #+TODO: WRITE EDIT REVIEW | DONE DELETE
 * Intro Quote
 /we know very little about the ways in which software is socially created, the nature of software itself; how discourse, practices, and knowledge get translated into algorithms and code; the geographies and political economy of software development; how software is embedded into various social systems; how software applications work with each other to create complex assemblages that work within and across scales; the power wielded through software's "secondary agency"; and how software alternativly modulates the production production of space and transforms the nature of governance. (Kitchin 2011: 946)/
+
+/There is evidence that people naturally respond to computers as if they were people. When they work well, we think of them as teammates, and when they are obstinate or rude, we respond to them the same way we respond to rude, obstinate people (Reeves and Nass, The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places)./ [fn:9]
 * EDIT Introduction
 ** DONE Networked Experience and Digital Asethetics
 *** Is there a digital subconscious?
    Parasite Suite is collection of socially-orientated art works exploring human relations with technology. The works are inspired by anxieties about technology, (particularly government and institutional surveillance), critical studies of the digital, works on information theory, as well as works by composers with an interest in the relationship between technology and society. The project is realised as a set of art projects that consider the shape of social engagements for those adopting a 'computational' mindset.
 
-** REVIEW Enframing - Two aspects to the computational
+*** WRITE Graph of structure of Computationality
+Networked Experience() ->
+Abductive Aesthetics() ->
+= Computationality ()
+both combine into set of qualities
 
+(Berry on Twitter [p. 76])As a form of computational media that is highly social, it presents an interesting case study in relation to our public/private experiences of communication through a computational platform.
+** REVIEW Enframing - Two aspects to the computational
 In this respect human relationships with technology occupy a somewhat vexed space, with technology seen as both 'means to an end', a tool of progress or improvement, yet perhaps more importantly technology is also a medium through which we experience the world.
 
 The notion of a 'computational' mindset is concept developed by David Berry in his book, 'Critical Theory and the Digital'. 'Computationality' is an elaboration on the idea of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology"[fn:1]. 'Enframing' describes not only how technology mediates our engagements with the world, but also how characteristics of technologies are adopted as metaphor for other sytems, paticularly the economic and social. Furthermore, a technologies 'mode-of-revealing'[fn:2] can develop a kind of subconscious influence in our attitude toward the world, similar to what is described in the mantra "the medium is the metaphor" by Neil Postman[fn:3].
@@ -31,9 +39,46 @@ such as John Cage and Iannis Xenakis.?
 
  I hope to analyse this by designing engagments that at appear to prioritize technicity but on further involvement derive their functions from the technological mediation of a social scenario. I wish to ecnourage critical approaches to thinking about and responding to digital culture beyond the purely technnical spheres in which it is often discussed.
 
-*************** Categories of affect(?) in  berry's classification table
+*************** WRITE Which leads us to the two aspects of compuatationality...
 *************** END
 
+
+** EDIT Networked Experience: - both mode of revealing and identity
+   What does packet based communication allow for...
+
+   Networked Experience is both the use, and proliferation of an outlook on the world, based on metaphors that filter experiences of the world through the prism of networked communication systems. Following Heidegger and Berry, I am defining this phenomenon as 'networked-experience'. Heidegger argues that the essence of technology is not located in the machine but the human 'frame of mind' that allows both its production and shapes the ordering of things that allows wider changes to come into being. Heidegger considers the relationship between humanity and technology as a frame that shapes engagements with the world, in his terms 'enframing' all other perceptual processes[fn:6].
+
+   In Heidegger's case he describes this 'enframing' of his times are based upon the influence of electricity and modern physics. Humans are situated as 'standing-reserve', and talked about in electrical metaphors such as 'potential'. David Berry seeks to expand upon Hedegger's theory and argues that a new 'enframing' is based on the digital uses the network as its primary metaphor. where revealing is seen in terms of 'streaming forth' and actions are seen in algorithmic, graphic terms closely related to data-science. Similarly Neil Postman wrote that the 'Medium is the Metaphor', in a twist on Marshall Mcluhan's work. By this he intended to convey something very similar to Heidegger, that the technologes which provide access to information have an even more pervasive influence on our attitudes and understandings of the world than McLuhan's message.
+
+*************** WRITE Eleborate on Postman
+*************** END
+*************** WRITE Examples of medium as metaphor
+		For some examples of this, I was recently listening to a podcast where a software developer who uses Agile software development organisational theory practices to manage his family.
+*************** END
+*************** write example of soundcloud as stream
+
+   the experience of considering oneself both a recipient and generator of the 'stream', is one of the defining characterstics of networked experience. if participants are indeed ordering their world in response to 'streams,' then typical goals include processing information, performing algorithmic transformations, and searching for ways to filter information to make it /computeable/, which leads into to our second quality of computationality, recognising patterns through abductive reasoning.
+
+*************** Identities as 'Streaming Beings'
+*************** END
+
+my definition is an embodied process of understanding that takes place across a network. some of the times one might typically include the remote administration of computers, multi-user collaboration on documents (as seen in services like google docs), or even on a  more basic level telecommunications services of all kinds that allow for two way interaction.
+
+what i am particlarly interested in is mutual real-time meaning making between multiple particpants or kinds of actors.
+** EDIT Abductive reasoning:- paradigm, goal, paradigmatic epistem
+
+
+ Abductive reasoning is a an approach to reasoning, ubiquitous for computer systems. It is most often used when trying to make judgements working with 'fuzzy' or flawed data sets. It can be compared to deductive (logic, proof-based) and inductive (probable, evidence based), as the 'fuzziest' kind of reasoning, somewhat akin to a 'best guess'. Abductive reasoning attempts to guess based on the information at hand, refining the set of best guesses as the quality improves or amount of data accumulates. one of the most well known examples included predictive text, other more complex examples have been shown by the google corperation, such as autocomplete suggestions[fn:7], early work on abductive resoning in computers was highly focussed on artificial intelligence[fn:8].
+
+*************** abductive reasoning in real life...
+*************** end
+
+** WRITE Computationality - our pattern language
+
+   When networked experiences and abductive resoning combine, they make up the set of characteristics that make up the table of concerns of 'computationality' described by Berry.
+
+*************** Categories of affect(?) in  berry's classification table
+*************** END
 |--------------------+-----------------------------+---------------------------|
 |                    | technicity                  | computationality          |
 |                    | (modern technology)         | (postmodern technology)   |
@@ -58,42 +103,6 @@ such as John Cage and Iannis Xenakis.?
 |                    | measurement (mtm)           | data viz                  |
 |                    | instrument rationality      | communicative rationality |
 |--------------------+-----------------------------+---------------------------|
-
-** EDIT Networked Experience: - both mode of revealing and identity
-
-   Networked Experience is both the use, and outlook on the world, based on metaphors that expect the world to be seen through the prism of networked communication systems. It is an approach to the world [fn:5] based on the 'network-as-metaphor', is an attitude that has been described by both Martin Heidegger and Neil Postman, I am defining this as 'networked-experience'. Heidegger argues that the essence of technology is not located in the machine but the human 'frame of mind' that allows both its production and shapes the ordering of things that allows a wider changes to come into being. Heidegger considers the relationship between humanity and technology as a frame that shapes engagements with the world, in his terms 'enframing' all other perceptual processes[fn:6].
-
-In Heidegger's case he describes this 'enframing' of his times are based upon the influence of electricity and modern physics. Humans are situated as 'standing-reserve', and talked about in electrical metaphors such as 'potential'. David Berry seeks to expand upon Hedegger's theory and argues that a new 'enframing' is based on the digital uses the network as its primary metaphor. where revealing is seen in terms of 'streaming forth' and actions are seen in algorithmic, graphic terms closely related to data-science. Similarly Neil Postman wrote that the 'Medium is the Metaphor', in a twist on Marshall Mcluhan's work. By this he intended to convey something very similar to Heidegger, that the technologes which provide access to information have an even more pervasive influence on our attitudes and understandings of the world than McLuhan's message.
-
-*************** WRITE Eleborate on Postman
-*************** END
-*************** WRITE Examples of medium as metaphor
-For some examples of this, I was recently listening to a podcast where a software developer who uses Agile software development organisational theory practices to manage his family.
-*************** END
-*************** write example of soundcloud as stream
-
-  the experience of considering oneself both a recipient and generator of the 'stream', is one of the defining characterstics of networked experience. if participants are indeed ordering their world in response to 'streams,' then typical goals include processing information, performing algorithmic transformations, and searching for ways to filter information to make it /computeable/, which leads into to our second quality of computationality, recognising patterns through abductive reasoning.
-
-*************** Identities as 'Streaming Beings'
-*************** END
-
-** EDIT Abductive reasoning:- paradigm, goal, paradigmatic epistem
-
-
- Abductive reasoning is a an approach to reasoning, ubiquitous for computer systems. It is most often used when trying to make judgements working with 'fuzzy' or flawed data sets. It can be compared to deductive (logic, proof-based) and inductive (probable, evidence based), as the 'fuzziest' kind of reasoning, somewhat akin to a 'best guess'. Abductive reasoning attempts to guess based on the information at hand, refining the set of best guesses as the quality improves or amount of data accumulates. one of the most well known examples included predictive text, other more complex examples have been shown by the google corperation, such as autocomplete suggestions[fn:7], early work on abductive resoning in computers was highly focussed on artificial intelligence[fn:8].
-
-*************** abductive reasoning in real life...
-*************** end
-
-
-** WRITE computationality - our pattern language
-
-/There is evidence that people naturally respond to computers as if they were people. When they work well, we think of them as teammates, and when they are obstinate or rude, we respond to them the same way we respond to rude, obstinate people (Reeves and Nass, The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places)./ [fn:9]
-
-   When networked experiences and abductive coalesce in the form of 'computationality', the resulting medium of experience can be described as a form of a 'pattern language'. A 'pattern language' is something that we can be aware of, but whose methods tries to make itself 'transparent' to us. this appeal to transparency goes beyond the user interface level into all manner of abstractions at all levels of coded space: interfaces, application programming interfaces(apis), objects, macros, function composition, integrated circuits, all exist as abstractions that can make an processes result seem more natural when they hide away complexity. these toos are crucial for managing all of my projects, however the cumulative effect of these tools, often appears as a kind of 'magic' to the person using the tool to prepare an experience, and as a kind of faux 'natural' to the end user, who is intended to be none the wiser.
-
-*************** end
-
 *************** write on philosophy of software - constructionism
 "this frantic disorientation uderneath the surface is therefor insulated from the user, who is provided with an interactional surface that can be familiar, skeudomorphic, representational, metonymic, flat, figurative or extremely simplistic and domestic."
 *************** end
@@ -102,8 +111,11 @@ For some examples of this, I was recently listening to a podcast where a softwar
 an important aspect to note is that this 'computational' mode of experience isn't dependant on any kind of technology or state of development in itself. as i have found in my research it is possible to create a networked experience based on streaming data and reactions based almost entirely on inter-human communication, as was the acase with the cyber-syn project in 1970s chile[fn:10].
 
 
+Computationality is a form of communication, it only possible to acheive packet based communication through abductive reasoning and networked metaphors. Computation also allows for new combinations of public/private crossover.
+
    " computers classify according to the patterns which have already been prorammed within them . thus patterns serve to create a language, a /pattern language/, which is a set of classificatory means fo the identification of the type of thing an object presentented to the computer is. not the particular object, but the abstract calass of teh object and there fore the abstract pproperties and understandings that are pre-coded intot he computer and provide the bass of comprehension".
 
+ The resulting experience can be described as a 'pattern language'. A 'pattern language' is something that we can be aware of, but whose methods tries to make itself 'transparent' to us. this appeal to transparency goes beyond the user interface level into all manner of abstractions at all levels of coded space: interfaces, application programming interfaces(apis), objects, macros, function composition, integrated circuits, all exist as abstractions that can make an processes result seem more natural when they hide away complexity. these toos are crucial for managing all of my projects, however the cumulative effect of these tools, often appears as a kind of 'magic' to the person using the tool to prepare an experience, and as a kind of faux 'natural' to the end user, who is intended to be none the wiser.
 *************** pattern example
 #+begin_src javascript
 // sensor inputs, mouse cursor postition, page location,
@@ -118,13 +130,10 @@ an important aspect to note is that this 'computational' mode of experience isn'
 *************** personal example of emplacement
 *************** end
 
-** write socialise and surveil
 
 'computationality' can then be experienced as a combination of computer processing and networking capabilty that embody a particular aesthetic and mode of experience for those that interact with the works [fn:11]. the particulars of the experience and aesthetic of 'computationality' has been specifically collected and outlined by others[fn:12] but i loosely define it as the experiencne of a real world decision that seems influenced or larely determined by by what would be appropriate for the algorithmic sensibilities of a machine rather than a human sense of design aesthetic. the manner in which this is realised
 
      a particular aspect of the 'computational' i have focussed on is the felt sense that a machine can be treated as a participant and social actor rather than a tool.
-*************** examples
-		*************** end
 
 *** edit
   an ontological shift towards sympathy for the machnines 'algorithmic' methods of understanding, mediating our own notions of beauty. the projects are intended to be open ended, generative and participatory, blurring lines between artist and audience. a key goal of the works is for proamming choices to affect dramatic shifts in  social roles and duties for participants. the concept is to place emphasis on the notion that a generalised  machine can constructed equally be a machine gun or a vacuum cleaner, or a collaborator or spy. despite the outward presentation of a work or adoption of controversial digital 'features' such as data mining or monitoring,  technological systems are much more than hardware and code, they represent a,"'seamless web' of social, institutional and technological relationships.'"(122)it is the the heirachies and logistics of society that  play a crucial role in determining the material formation of a work[fn:13].
@@ -201,14 +210,6 @@ pattern aesthetic-
 if i was to describe a common daily schedule for the period over which i have been working on these projects, it would be a highly computational one. however even if i was to completely to withdraw, to refuse to acknowledge how much of life is order by the twin processes of networking and computation. i would stil be embedded in a system in which my birt[fn:39]h, sustenance[fn:40],
 
 i wake daily, and usually the first thing i do is check my emails. after that i eat, drink coffee and walk to my studio. there i will usually spend the first two hours reasearching, either reading books on a relevant topic or trying to follow any blog posts or online tutorials about the technical aspects of the 'black boxes' that are the technical building blocks of my projects.
-
-** networked experience
-
-my definition is an embodied process of understanding that takes place across a network. some of the times one might typically include the remote administration of computers, multi-user collaboration on documents (as seen in services like google docs), or even on a  more basic level telecommunications services of all kinds that allow for two way interaction.
-
-here we notice that the technologies that *offer* networked experience as a technology are unlimited, but it is the situations in which it becomes a *practice* which are interestion to me. what defines the practice is the interaction of more than one participant and the aspect of message communication as a tool rather than crafting.
-
-what i am particlarly interested in is mutual real-time meaning making between multiple particpants or kinds of actors.
 
 ** inspirations
 
