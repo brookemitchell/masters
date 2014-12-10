@@ -4,18 +4,18 @@
 * EDIT Introduction
 ** DONE Networked Experience and Digital Asethetics
 *** Is there a digital subconscious?
-   Parasite Suite is collection of socially-orientated art works exploring human relations with technology. The works are inspired by anxieties about technology, (particularly government and institutional surveillance), critical studies of the digital, philosophical works on technology and information theory, as well as works by composers with an interest in the relationship between technology and society. The project is realised as a set of art projects that consider the shape of social engagements for those adopting a 'computational' mindset.
+   Parasite Suite is collection of socially-orientated art works exploring human relations with technology. The works are inspired by anxieties about technology, (particularly government and institutional surveillance), critical studies of the digital, works on information theory, as well as works by composers with an interest in the relationship between technology and society. The project is realised as a set of art projects that consider the shape of social engagements for those adopting a 'computational' mindset.
 
 ** REVIEW Enframing - Two aspects to the computational
 
-Enframing is "the essence of modern technology[fn:1]", a relationship we are in with technology influences our understanding of truth.
+In this respect human relationships with technology occupy a somewhat vexed space, with technology seen as both 'means to an end', a tool of progress or improvement, yet perhaps more importantly technology is also a medium through which we experience the world.
 
-     The idea of a 'computational' society describes an attitude and understanding of the world mediated by the use of technology, a notion similar to Heidegger's notion of 'enframing.' [fn:2] In "The Question Concerning Technology"[fn:3], 'enframing' describes not only how technology mediates our engagements with the world, but also how characteristics of technologies are adopted as metaphor for other sytems, paticularly the economic and social. Taken further, a technologies 'mode-of-revealing' becomes a kind of subconscious influence in our attitude toward the world, similar to what is described in the mantra "the medium is the metaphor" by Neil Postman[fn:4].
+The notion of a 'computational' mindset is concept developed by David Berry in his book, 'Critical Theory and the Digital'. 'Computationality' is an elaboration on the idea of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology"[fn:1]. 'Enframing' describes not only how technology mediates our engagements with the world, but also how characteristics of technologies are adopted as metaphor for other sytems, paticularly the economic and social. Furthermore, a technologies 'mode-of-revealing'[fn:2] can develop a kind of subconscious influence in our attitude toward the world, similar to what is described in the mantra "the medium is the metaphor" by Neil Postman[fn:3].
 
 *************** WRITE Go into more about Postman
 *************** END
 
-     This psychological adoption of an attitude toward the world based on technology is a sceanario described by Heidegger in his work 'The Question Concerning Technology'.[fn:5] Heidegger relates one aspect of the relationship between humans and technology as 'enframing', where the inner and outer world is influenced by technology. Affecting use and development of other technologies, as well as informing a world view, becoming a kind of inescapable trap that might limit further understanding of the world beyond the developing of the technology in question. In this sense we have a symbiotic, yet parasitic relationship with technology, we see it as a way to advance and master a domain, and yet doing so dominates our thinking with the technologies limited number of approaches. As one of the goals of software seems to be to adopt a constructionist 'realness'[fn:6], it can be particularly hard to notice its presence as it aspires to transparancy, there are thus two kinds of disappearances technology tries to make, the first a sense of the natural to try and minimize its presence, and the second a appeal to transparency that deflects the notion that anything was to be hidden in the first place.
+The 'enframing' of a technology also affects future development, changing use and development of other technologies. In Hedideggers mindset, 'enframing' becomes an inescapable trap that might limit further understanding of the world beyond the developing of the technology in question. His suggested remedy to this is to limit the extent to which we treat technolgy as a means to mastery.[fn:47] In this sense we have a symbiotic, yet parasitic relationship with technology, we see it as a way to advance and master a domain, and yet doing so dominates our thinking when the technologies limit the number of mentally viable options. As one of the goals of software seems to be to adopt a constructionist 'realness'[fn:4], it can be particularly hard to notice its presence as it aspires to transparancy, there are thus two kinds of disappearances technology tries to make, the first a sense of the natural to try and minimize its presence, and the second a appeal to transparency that deflects the notion that anything was to be hidden in the first place.
 
 *************** WRITE check what notion of 'stranding-reserve' means
 *************** END
@@ -23,13 +23,13 @@ Enframing is "the essence of modern technology[fn:1]", a relationship we are in 
 *************** WRITE Enframing examples...
 *************** END
 
-In this respect human relationships with technology occupy a somewhat vexed space, with technology seen as both 'means to an end', a tool of progress or improvement, yet perhaps more importantly technology is also a medium through which we experience the world. I hope to analyse this by designing engagments that at appear to prioritize technicity but on further involvement derive their functions from the technological mediation of a social scenario. I wish to ecnourage critical approaches to thinking about and responding to digital culture beyond the purely technnical spheres in which it is often discussed.
-
 *************** WRITE some key works for this study include
 such as John Cage and Iannis Xenakis.?
 *************** END
 
    'Computationality' as an elaboration of what Heidegger describes as 'enframing', developed by David Berry.  David Berry writes that Heidegger's notion of enframing is intentionally use electricity and modern physics as its fundamental technological metaphors, with concepts like standing-reserve, the notion of human action ready to be activiated being based on the metaphor of voltage. The notion of 'computationality', is corresponding based on the language of the network and the aesthetics of software engineering.
+
+ I hope to analyse this by designing engagments that at appear to prioritize technicity but on further involvement derive their functions from the technological mediation of a social scenario. I wish to ecnourage critical approaches to thinking about and responding to digital culture beyond the purely technnical spheres in which it is often discussed.
 
 *************** Categories of affect(?) in  berry's classification table
 *************** END
@@ -61,7 +61,7 @@ such as John Cage and Iannis Xenakis.?
 
 ** EDIT Networked Experience: - both mode of revealing and identity
 
-   Networked Experience is both the use, and outlook on the world, based on metaphors that expect the world to be seen through the prism of networked communication systems. It is an approach to the world [fn:7] based on the 'network-as-metaphor', is an attitude that has been described by both Martin Heidegger and Neil Postman, I am defining this as 'networked-experience'. Heidegger argues that the essence of technology is not located in the machine but the human 'frame of mind' that allows both its production and shapes the ordering of things that allows a wider changes to come into being. Heidegger considers the relationship between humanity and technology as a frame that shapes engagements with the world, in his terms 'enframing' all other perceptual processes[fn:8].
+   Networked Experience is both the use, and outlook on the world, based on metaphors that expect the world to be seen through the prism of networked communication systems. It is an approach to the world [fn:5] based on the 'network-as-metaphor', is an attitude that has been described by both Martin Heidegger and Neil Postman, I am defining this as 'networked-experience'. Heidegger argues that the essence of technology is not located in the machine but the human 'frame of mind' that allows both its production and shapes the ordering of things that allows a wider changes to come into being. Heidegger considers the relationship between humanity and technology as a frame that shapes engagements with the world, in his terms 'enframing' all other perceptual processes[fn:6].
 
 In Heidegger's case he describes this 'enframing' of his times are based upon the influence of electricity and modern physics. Humans are situated as 'standing-reserve', and talked about in electrical metaphors such as 'potential'. David Berry seeks to expand upon Hedegger's theory and argues that a new 'enframing' is based on the digital uses the network as its primary metaphor. where revealing is seen in terms of 'streaming forth' and actions are seen in algorithmic, graphic terms closely related to data-science. Similarly Neil Postman wrote that the 'Medium is the Metaphor', in a twist on Marshall Mcluhan's work. By this he intended to convey something very similar to Heidegger, that the technologes which provide access to information have an even more pervasive influence on our attitudes and understandings of the world than McLuhan's message.
 
@@ -80,7 +80,7 @@ For some examples of this, I was recently listening to a podcast where a softwar
 ** EDIT Abductive reasoning:- paradigm, goal, paradigmatic epistem
 
 
- Abductive reasoning is a an approach to reasoning, ubiquitous for computer systems. It is most often used when trying to make judgements working with 'fuzzy' or flawed data sets. It can be compared to deductive (logic, proof-based) and inductive (probable, evidence based), as the 'fuzziest' kind of reasoning, somewhat akin to a 'best guess'. Abductive reasoning attempts to guess based on the information at hand, refining the set of best guesses as the quality improves or amount of data accumulates. one of the most well known examples included predictive text, other more complex examples have been shown by the google corperation, such as autocomplete suggestions[fn:46], early work on abductive resoning in computers was highly focussed on artificial intelligence[fn:47].
+ Abductive reasoning is a an approach to reasoning, ubiquitous for computer systems. It is most often used when trying to make judgements working with 'fuzzy' or flawed data sets. It can be compared to deductive (logic, proof-based) and inductive (probable, evidence based), as the 'fuzziest' kind of reasoning, somewhat akin to a 'best guess'. Abductive reasoning attempts to guess based on the information at hand, refining the set of best guesses as the quality improves or amount of data accumulates. one of the most well known examples included predictive text, other more complex examples have been shown by the google corperation, such as autocomplete suggestions[fn:7], early work on abductive resoning in computers was highly focussed on artificial intelligence[fn:8].
 
 *************** abductive reasoning in real life...
 *************** end
@@ -88,7 +88,7 @@ For some examples of this, I was recently listening to a podcast where a softwar
 
 ** WRITE computationality - our pattern language
 
-/There is evidence that people naturally respond to computers as if they were people. When they work well, we think of them as teammates, and when they are obstinate or rude, we respond to them the same way we respond to rude, obstinate people (Reeves and Nass, The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places)./ [fn:48]
+/There is evidence that people naturally respond to computers as if they were people. When they work well, we think of them as teammates, and when they are obstinate or rude, we respond to them the same way we respond to rude, obstinate people (Reeves and Nass, The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places)./ [fn:9]
 
    When networked experiences and abductive coalesce in the form of 'computationality', the resulting medium of experience can be described as a form of a 'pattern language'. A 'pattern language' is something that we can be aware of, but whose methods tries to make itself 'transparent' to us. this appeal to transparency goes beyond the user interface level into all manner of abstractions at all levels of coded space: interfaces, application programming interfaces(apis), objects, macros, function composition, integrated circuits, all exist as abstractions that can make an processes result seem more natural when they hide away complexity. these toos are crucial for managing all of my projects, however the cumulative effect of these tools, often appears as a kind of 'magic' to the person using the tool to prepare an experience, and as a kind of faux 'natural' to the end user, who is intended to be none the wiser.
 
@@ -99,7 +99,7 @@ For some examples of this, I was recently listening to a podcast where a softwar
 *************** end
 
 
-an important aspect to note is that this 'computational' mode of experience isn't dependant on any kind of technology or state of development in itself. as i have found in my research it is possible to create a networked experience based on streaming data and reactions based almost entirely on inter-human communication, as was the acase with the cyber-syn project in 1970s chile[fn:9].
+an important aspect to note is that this 'computational' mode of experience isn't dependant on any kind of technology or state of development in itself. as i have found in my research it is possible to create a networked experience based on streaming data and reactions based almost entirely on inter-human communication, as was the acase with the cyber-syn project in 1970s chile[fn:10].
 
 
    " computers classify according to the patterns which have already been prorammed within them . thus patterns serve to create a language, a /pattern language/, which is a set of classificatory means fo the identification of the type of thing an object presentented to the computer is. not the particular object, but the abstract calass of teh object and there fore the abstract pproperties and understandings that are pre-coded intot he computer and provide the bass of comprehension".
@@ -120,28 +120,28 @@ an important aspect to note is that this 'computational' mode of experience isn'
 
 ** write socialise and surveil
 
-'computationality' can then be experienced as a combination of computer processing and networking capabilty that embody a particular aesthetic and mode of experience for those that interact with the works [fn:10]. the particulars of the experience and aesthetic of 'computationality' has been specifically collected and outlined by others[fn:11] but i loosely define it as the experiencne of a real world decision that seems influenced or larely determined by by what would be appropriate for the algorithmic sensibilities of a machine rather than a human sense of design aesthetic. the manner in which this is realised
+'computationality' can then be experienced as a combination of computer processing and networking capabilty that embody a particular aesthetic and mode of experience for those that interact with the works [fn:11]. the particulars of the experience and aesthetic of 'computationality' has been specifically collected and outlined by others[fn:12] but i loosely define it as the experiencne of a real world decision that seems influenced or larely determined by by what would be appropriate for the algorithmic sensibilities of a machine rather than a human sense of design aesthetic. the manner in which this is realised
 
      a particular aspect of the 'computational' i have focussed on is the felt sense that a machine can be treated as a participant and social actor rather than a tool.
 *************** examples
 		*************** end
 
 *** edit
-  an ontological shift towards sympathy for the machnines 'algorithmic' methods of understanding, mediating our own notions of beauty. the projects are intended to be open ended, generative and participatory, blurring lines between artist and audience. a key goal of the works is for proamming choices to affect dramatic shifts in  social roles and duties for participants. the concept is to place emphasis on the notion that a generalised  machine can constructed equally be a machine gun or a vacuum cleaner, or a collaborator or spy. despite the outward presentation of a work or adoption of controversial digital 'features' such as data mining or monitoring,  technological systems are much more than hardware and code, they represent a,"'seamless web' of social, institutional and technological relationships.'"(122)it is the the heirachies and logistics of society that  play a crucial role in determining the material formation of a work[fn:12].
+  an ontological shift towards sympathy for the machnines 'algorithmic' methods of understanding, mediating our own notions of beauty. the projects are intended to be open ended, generative and participatory, blurring lines between artist and audience. a key goal of the works is for proamming choices to affect dramatic shifts in  social roles and duties for participants. the concept is to place emphasis on the notion that a generalised  machine can constructed equally be a machine gun or a vacuum cleaner, or a collaborator or spy. despite the outward presentation of a work or adoption of controversial digital 'features' such as data mining or monitoring,  technological systems are much more than hardware and code, they represent a,"'seamless web' of social, institutional and technological relationships.'"(122)it is the the heirachies and logistics of society that  play a crucial role in determining the material formation of a work[fn:13].
 
-    the conceptual inspiration for these works is drawn from histories of early computing, the philosophical influence of early digital design, and cybernetic thought [fn:13], as well as philosophical works about technology and communication. [fn:14] specific models and refereences for the works are outlined later in their descriptions and documentation. in general, it is the history of cultural metaphors about computation, as well as studies of  technological opportunities that never materialised or fell to the wayside, that have helped me to explore other possibilieties for social interaction in computing.[fn:15] by exploring these topics we can see interesting possibilities for restructuring networked engagements with machines. i wish to argue, as has been shown by eden medina in her study of some of the rudimentary techniques explored by the cyberneticians of the cybersyn project in allende's chile, that it is not realtime communication of high tech computing that determines the sense of a 'networked experience', rather it is the idea of bi-directional streams of information that are being responded to. this idea is central in much of cybernetic organisational theory, and informs a wide range of practices today. one which i use extensively is the 'streams' programming technique, one that is prevalent in an extensive number of web programs at the moments.[fn:16]
+    the conceptual inspiration for these works is drawn from histories of early computing, the philosophical influence of early digital design, and cybernetic thought [fn:14], as well as philosophical works about technology and communication. [fn:15] specific models and refereences for the works are outlined later in their descriptions and documentation. in general, it is the history of cultural metaphors about computation, as well as studies of  technological opportunities that never materialised or fell to the wayside, that have helped me to explore other possibilieties for social interaction in computing.[fn:16] by exploring these topics we can see interesting possibilities for restructuring networked engagements with machines. i wish to argue, as has been shown by eden medina in her study of some of the rudimentary techniques explored by the cyberneticians of the cybersyn project in allende's chile, that it is not realtime communication of high tech computing that determines the sense of a 'networked experience', rather it is the idea of bi-directional streams of information that are being responded to. this idea is central in much of cybernetic organisational theory, and informs a wide range of practices today. one which i use extensively is the 'streams' programming technique, one that is prevalent in an extensive number of web programs at the moments.[fn:17]
 
 *************** write go on more about audio
  in particular i have focused on the act of surveillance, a term that i am trying to explore beyond of its pejorative sense. exploring the  term surveillance has allowed me to consider the thin line between social engagement and intelligence collection. particularly when considering the perspective of a machine, it can be difficult to differentiate between methods that might enable new kinds of engagement and those that might alienate. in parasite one i have tried to design a surveilance model that offers two-way methods of remote listening by exploitng aspects of audio
 *************** end
 
-this term surveilance represents a useful union point between the machine and network, and implies a model of engagement based up monitoring and responding to interactions in a dynamic manner. for my studies it has come to represent a point of coalescence between the anxieties of today and an area of early study in the field of cybernetics. particularly in the early era of computing, and similar to speculation about the possible uses of the phonograph[fn:17], cyberneticians were wildly imagining what a computer would be useful for. certain unexpected innovations such as email also totally changed the field.
+this term surveilance represents a useful union point between the machine and network, and implies a model of engagement based up monitoring and responding to interactions in a dynamic manner. for my studies it has come to represent a point of coalescence between the anxieties of today and an area of early study in the field of cybernetics. particularly in the early era of computing, and similar to speculation about the possible uses of the phonograph[fn:18], cyberneticians were wildly imagining what a computer would be useful for. certain unexpected innovations such as email also totally changed the field.
 
-"e-mail emerged in 1971 when users began experimenting with ways of sending electronic messages from one networked computer to another. in her study of the internet's origins, janet abbate writes that e-mail "remade" the arpanet system and caused it to be see 'not as a computer system but rather as a communication sytem.'(ref.82) 1.[fn:18]
+"e-mail emerged in 1971 when users began experimenting with ways of sending electronic messages from one networked computer to another. in her study of the internet's origins, janet abbate writes that e-mail "remade" the arpanet system and caused it to be see 'not as a computer system but rather as a communication sytem.'(ref.82) 1.[fn:19]
 
 it is my belief that the notion of the usefulness for the computer in exploring musical, social and political possibilities can often be surprisingly limited. the key area of limitation i wish to explore is in the area of networked interaction between multiple agents. the key theme is essentially how the 'social' can be introduced into artistic and compositional practice.
 
-the notion of the responsive surveillant, who may take on any biological or material form, is one of the cornerstone ideas of the field of cybernetics. we can see this biologically influenced notion otherwise known as a feedback system everywhere from the thermostat to many of the software 'daemons' of computers that operate in the backhand of unix based computers.[fn:19]
+the notion of the responsive surveillant, who may take on any biological or material form, is one of the cornerstone ideas of the field of cybernetics. we can see this biologically influenced notion otherwise known as a feedback system everywhere from the thermostat to many of the software 'daemons' of computers that operate in the backhand of unix based computers.[fn:20]
 
 in these early experiments with the idea of 'what a compute should be', we can see the possibilities and disappointments of concepts such as like 'socialist computing', and efforts to radically reconsider the function of the computer when it is relevant to the culture and philosophy of disparate groups.
 
@@ -154,51 +154,51 @@ i have attempted to unify these into four project.
 it is a kind of consideration of the discrete and quantifiable that happens when we begin to employ a kind of empathy toward a machinic perspective.
 *** edit
 **** p1.
-'immateriality of software[fn:20]'
-describes it as a /super-medium/ that unifies other forms,  (tv/film/radio/print), rather than containing them it reforms and reshapes them into a "new unitary form"[fn:21] "this super-medium acts as both a mediatingn and structuring frame that we must understand through its instantiation under particular physical constraints" - rejecting the immateriality of software. analysisng the doing, platform studies.
+'immateriality of software[fn:21]'
+describes it as a /super-medium/ that unifies other forms,  (tv/film/radio/print), rather than containing them it reforms and reshapes them into a "new unitary form"[fn:22] "this super-medium acts as both a mediatingn and structuring frame that we must understand through its instantiation under particular physical constraints" - rejecting the immateriality of software. analysisng the doing, platform studies.
 
-the terms 'softwarized society' coined by dacid berry [fn:22] encapsulates what i see as the outcome of networked experience and computational aesthetics. the term describes the impuct of computers on culture as both metaphor and (an often transparent) medium. {such as?} as technology inculcates itself we are indanger of forgetting how entangled with computer code we really are, it would be hard for me to think of any aspect of my daily life that isn't entangled within the world of software code, living within a nation dependant on software, and using it to write this exegesis. software is part of the narrative of our lives, and yet often overlooked. fuller (2006) notes, "in a sense, all intellecual work is now 'software study', in that the software provides its media and its context..." berry encourages us to think about the "structure of feeling[fn:23]"  and methods of usefulness permitted by code. noting that technology is a cultural metaphor as well as lexical and physical object. these varied cultural thoughts about technology in relation to the self and society inform practice and engagement with tools as well as wider social and economic relations. to the extent that berry believes the metaphors of software in particular, to form a 'plane of immanance' that shapes relations[fn:24].
+the terms 'softwarized society' coined by dacid berry [fn:23] encapsulates what i see as the outcome of networked experience and computational aesthetics. the term describes the impuct of computers on culture as both metaphor and (an often transparent) medium. {such as?} as technology inculcates itself we are indanger of forgetting how entangled with computer code we really are, it would be hard for me to think of any aspect of my daily life that isn't entangled within the world of software code, living within a nation dependant on software, and using it to write this exegesis. software is part of the narrative of our lives, and yet often overlooked. fuller (2006) notes, "in a sense, all intellecual work is now 'software study', in that the software provides its media and its context..." berry encourages us to think about the "structure of feeling[fn:24]"  and methods of usefulness permitted by code. noting that technology is a cultural metaphor as well as lexical and physical object. these varied cultural thoughts about technology in relation to the self and society inform practice and engagement with tools as well as wider social and economic relations. to the extent that berry believes the metaphors of software in particular, to form a 'plane of immanance' that shapes relations[fn:25].
 *** write
 
-by treating projects as socio-technical assemblages, connected to "broader networks of social relations and institutional ensembles"[fn:25]. i plan to
-use technology as its own medium to consider the role of technologies. the intent is not to reject or provocate but to describe origins of human anxiety about the digitization of our world [fn:26].
+by treating projects as socio-technical assemblages, connected to "broader networks of social relations and institutional ensembles"[fn:26]. i plan to
+use technology as its own medium to consider the role of technologies. the intent is not to reject or provocate but to describe origins of human anxiety about the digitization of our world [fn:27].
 
-as the context of the work is on social uses of technology, particul the manner in which  actors roles this can be manipulated within these, research for this project has involved histories of the social in computing. within these histories, didactic and utopian attitudes to technology are rife, particularly in studying the histories of cybernetics, early personal-computing and 'socialist'-computing [fn:27].
+as the context of the work is on social uses of technology, particul the manner in which  actors roles this can be manipulated within these, research for this project has involved histories of the social in computing. within these histories, didactic and utopian attitudes to technology are rife, particularly in studying the histories of cybernetics, early personal-computing and 'socialist'-computing [fn:28].
 
-however they it has tended to become apparent that the hopes and dreams of people like stafford beer and stewart brand are products of their of their time, in which the possibilities of new tools empowering users to create new worlds did seem real. this utopian bent make for interesting parellels with modern composers such as stochasen and xenakis, who exhibited similar attitudes about technology [fn:28].
+however they it has tended to become apparent that the hopes and dreams of people like stafford beer and stewart brand are products of their of their time, in which the possibilities of new tools empowering users to create new worlds did seem real. this utopian bent make for interesting parellels with modern composers such as stochasen and xenakis, who exhibited similar attitudes about technology [fn:29].
 
-it is this tension between the utopian attitudes of the past and some of the anxieites of the present. all of which belie the use of the same kinds of tchnology, which i wish to explore in these workds. my hypothesis is that there is a way through this, that within some of the most pervasively distressing manipulations of technology by governmet agencies and coverty actors[fn:29], there are techniques to reconsider the uses of technology once again if we look to some of these abandoned histories of computing.
+it is this tension between the utopian attitudes of the past and some of the anxieites of the present. all of which belie the use of the same kinds of tchnology, which i wish to explore in these workds. my hypothesis is that there is a way through this, that within some of the most pervasively distressing manipulations of technology by governmet agencies and coverty actors[fn:30], there are techniques to reconsider the uses of technology once again if we look to some of these abandoned histories of computing.
 
 *************** write para on theory
 *************** end
 
 with the hope to point out some of the heirachies and possbilities bestowed on different actors given certain combinations. the emphasis is on the social and collaborative aspects that are possbile, with their attendant possibilities for exploitation, re-working and misuse both creative and destructive.
 
-one particuular kind of technological assemblage that is commonly known to provoke feelings of anxiety about the digital, is techniques of surveillance[fn:30]  , can have their heirachies and processes changed to give power to new actors and outcomes.
+one particuular kind of technological assemblage that is commonly known to provoke feelings of anxiety about the digital, is techniques of surveillance[fn:31]  , can have their heirachies and processes changed to give power to new actors and outcomes.
 
 these projects, which try to take the same materials and processes of the anxiety inducing technologies in question are somewhat foregone in their conclusion that is often the heightened ability of established heirachies and actors to utilise these tools for ill will rather than the technic itself.
 
-in my attempt to consider the design and implementation of tools like computer vision, real-time communication and data-colleciton, i have often found that the design and user experience as a developer is often imprinted with the culture and expectations of the teams that assembled the foundations of these tools[fn:31]. in a sense i have discovered  a source for my own anxiety in a consciousness of the kind of corporate cultures values embedded in the design of systems. my response to this has been to try and configure atypical user interfaces and methods of engagement, such as avoiding teh user metaphor of a person sitting at a computer terminal with keyboard and mouse, and trying to treat sound as a first-class user interaction medium[fn:32].
+in my attempt to consider the design and implementation of tools like computer vision, real-time communication and data-colleciton, i have often found that the design and user experience as a developer is often imprinted with the culture and expectations of the teams that assembled the foundations of these tools[fn:32]. in a sense i have discovered  a source for my own anxiety in a consciousness of the kind of corporate cultures values embedded in the design of systems. my response to this has been to try and configure atypical user interfaces and methods of engagement, such as avoiding teh user metaphor of a person sitting at a computer terminal with keyboard and mouse, and trying to treat sound as a first-class user interaction medium[fn:33].
 
 
-in this sense the work is inspired by coucpets such as 'sousveillance'[fn:33] where a technology is leveled against an oppressor rather than the opposite. in my course of exploring how to 'turn the tables' however, i have also found that it is often the composition of technologies and the relationships that their design encourages[fn:34], that require the formulation of organic and locally specific technologies that offer solutions more relevant in my case for an artistically inpired, more affecting outcome, and on a general level benefit participants.
+in this sense the work is inspired by coucpets such as 'sousveillance'[fn:34] where a technology is leveled against an oppressor rather than the opposite. in my course of exploring how to 'turn the tables' however, i have also found that it is often the composition of technologies and the relationships that their design encourages[fn:35], that require the formulation of organic and locally specific technologies that offer solutions more relevant in my case for an artistically inpired, more affecting outcome, and on a general level benefit participants.
 
-*** todo quote about subroutines and influence on programming[fn:35].
+*** todo quote about subroutines and influence on programming[fn:36].
 
 
 however the process by which i developed this project was not from a carefully chosen theme, but rather a methodoology where i have sought to describe some of the 'back boxes' of communications that i interact with on a daily basis. my methodology for investigating something like data-collection, monitoring and signal intelligence is derived from creating a project that mimics a small subset of these behaviors in an uncommon context, and then noting the processes that are fundamental to the existence of the 'machine'. this method involves treating the world in a manner very simlar to the concept of a 'function', otherwise known as a subroutine in computer programming. in some way i am attempting to import concepts from a pradigm in computer programming, 'functional programming'
 
 many interesting things can be said about
 
-. it just so happens that when i consider some of the inherant qualities of the manner in which i would conduct myself, even in moments that i step away from a 'screen', the encounters of my life are all deeply network driven. one of the discoveries of early computing i sthat computational speed makes vastly wider and new kinds of networks possible.[fn:36]
+. it just so happens that when i consider some of the inherant qualities of the manner in which i would conduct myself, even in moments that i step away from a 'screen', the encounters of my life are all deeply network driven. one of the discoveries of early computing i sthat computational speed makes vastly wider and new kinds of networks possible.[fn:37]
 pattern aesthetic-
 
-*** todo quote about discovery of email from cybersyn[fn:37]
+*** todo quote about discovery of email from cybersyn[fn:38]
 
 
 **** in previous projects i have explored the strangeness of everyday objects, using sound as a  tool for the expression of a-human sentiment? :kill:
 
-if i was to describe a common daily schedule for the period over which i have been working on these projects, it would be a highly computational one. however even if i was to completely to withdraw, to refuse to acknowledge how much of life is order by the twin processes of networking and computation. i would stil be embedded in a system in which my birt[fn:38]h, sustenance[fn:39],
+if i was to describe a common daily schedule for the period over which i have been working on these projects, it would be a highly computational one. however even if i was to completely to withdraw, to refuse to acknowledge how much of life is order by the twin processes of networking and computation. i would stil be embedded in a system in which my birt[fn:39]h, sustenance[fn:40],
 
 i wake daily, and usually the first thing i do is check my emails. after that i eat, drink coffee and walk to my studio. there i will usually spend the first two hours reasearching, either reading books on a relevant topic or trying to follow any blog posts or online tutorials about the technical aspects of the 'black boxes' that are the technical building blocks of my projects.
 
@@ -224,7 +224,7 @@ the four art installations i have assembled represent a set of considerations ab
 *** todo
 ** how we got to
 
-   my research has been into the technologi]cal ideologies that have shaped attitudes to the use of computers in music. particularly the lineage of political strains romantic individualism and utopianism that beacame a part of the ethos of what is know as "the california ideology"[fn:40] this fusion of various strains of thought among academics and inventors after world war two would go on to shape many aspects of the design and research into the use of computers that we continue to use today.[fn:41]
+   my research has been into the technologi]cal ideologies that have shaped attitudes to the use of computers in music. particularly the lineage of political strains romantic individualism and utopianism that beacame a part of the ethos of what is know as "the california ideology"[fn:41] this fusion of various strains of thought among academics and inventors after world war two would go on to shape many aspects of the design and research into the use of computers that we continue to use today.[fn:42]
 
 similarly to the cyberneticians, counterculturaliststs and techno-utopians, i wish to explore the interaction of sytems and tools and how the relate.
 
@@ -263,13 +263,13 @@ communications technology and musical practice hold much in the way of a common 
 
 albeit a
 
- practcie, tradition and aesthetics. from the use of drums as a signalling tool, or even drum languages [fn:42] to the development of brass instruments for
+ practcie, tradition and aesthetics. from the use of drums as a signalling tool, or even drum languages [fn:43] to the development of brass instruments for
 
 and aesthetics, these works attempt to explore what the future of this relationship might hold.
 
 
 on a personal level one piece of anecdotal evidence that i have noticed is the large number of programmers and ict (informatin communicatons technolgy) workers that are musicians, composers or disc
-jockeys[fn:43].
+jockeys[fn:44].
 
 *** todo look up famous ppl doing both
 
@@ -281,7 +281,7 @@ links between player piano and loom.
 
 one of the more interestng developments of the late 20th and early
 21st century is the shift in the role of computing. inititially
-considered a tool limited to calculations and reckonings [fn:37], the
+considered a tool limited to calculations and reckonings [fn:38], the
 ability of computer to transmit and record has made it into a highly
 effective communications tool. it is the tension between these two
 roles, what i have started to think of as a tension between two different models for the organisation of information as outlined by de landa..
@@ -289,13 +289,13 @@ roles, what i have started to think of as a tension between two different models
 of in the heirachy of information organisation and transmission that is deeply explored in
 
 between the signal and database, that i see exemplified in the contempory discourse about
-surveilland and technology.[fn:36]
+surveilland and technology.[fn:37]
 
-a computer can perform many roles, part of what makes general purpose machines interesting is their ability to be reconfigured. however that is not to say that the possibilities are limitless or easily explored. there are many things that are naturally difficult to do with general purpose computing for a wide variety of reasons that are too long to list. [fn:44] furthermore, the manner in
+a computer can perform many roles, part of what makes general purpose machines interesting is their ability to be reconfigured. however that is not to say that the possibilities are limitless or easily explored. there are many things that are naturally difficult to do with general purpose computing for a wide variety of reasons that are too long to list. [fn:45] furthermore, the manner in
 which a product is designed, developed and organised, is often
 specific to the workplace culture, organisation and mode of production
 under which it originated. these kind of influences are likely to only
-deepen rathr than disappear.[fn:45] a classic text describing this
+deepen rathr than disappear.[fn:46] a classic text describing this
 scenario is the study by x..
 *** todo find article about organisation culture i have
 
@@ -329,105 +329,100 @@ of these five terms the only term not given in the title of the study, ‘survei
 *** issues w/ thinking of sound based art-work as 'time based media'
     if installation is not a processional peice, w/ beginning and end, where does that situate sound? digital influence. is adaptive/ generative sound still time based? is it more real time and responsive?
 
+* Footnotes
 
-* footnotes
+[fn:1] heidegger qct
 
-[fn:1] (en)framing heidegger's pilosophy p.8
+[fn:2] Explain mod eof revealing
 
-[fn:2] enframing
+[fn:3] postman, medium is metaphor
 
-[fn:3] heidegger qct
+[fn:4] description of links between software and constructionism
 
-[fn:4] postman, medium is metaphor
+[fn:5] wtf is ontotheology
 
-[fn:5] heidegger and technology
+[fn:6] w concern technolgy
 
-[fn:6] description of links between software and constructionism
+[fn:7] google autocomplete suggestions description link
 
-[fn:7] wtf is ontotheology
+[fn:8] link between abductive reasoning and ai.
 
-[fn:8] w concern technolgy
+[fn:9] Think python p. 7
 
-[fn:9] ref to dependdence on human actors in cybersyn
+[fn:10] ref to dependdence on human actors in cybersyn
 
-[fn:10] link to uses of term
+[fn:11] link to uses of term
 
-[fn:11] link to new aesthetic site / files
+[fn:12] link to new aesthetic site / files
 
-[fn:12] idea inspired by frocki's first film.
+[fn:13] idea inspired by frocki's first film.
 
-[fn:13] link to weiner
+[fn:14] link to weiner
 
-[fn:14] link de landa, berry.
+[fn:15] link de landa, berry.
 
-[fn:15] idea taken from the talk,"the web that wasn't" )[[webthatwasnt][twtw]]
+[fn:16] idea taken from the talk,"the web that wasn't" )[[webthatwasnt][twtw]]
 
-[fn:16] link to deetails on javascript streams
+[fn:17] link to deetails on javascript streams
 
-[fn:17] article about uses of early phonograph
+[fn:18] article about uses of early phonograph
 
-[fn:18] edina 64
+[fn:19] edina 64
 
-[fn:19] whats a daemon yo.
-
-[fn:20] berry 10
+[fn:20] whats a daemon yo.
 
 [fn:21] berry 10
 
-[fn:22] softwareised society, link opening of phil of software on dependance on software for survival. berry p.
+[fn:22] berry 10
 
-[fn:23] berry, p. 6.
+[fn:23] softwareised society, link opening of phil of software on dependance on software for survival. berry p.
 
-[fn:24] berry and deleuze, p. 18.
+[fn:24] berry, p. 6.
 
-[fn:25] berry p.62
+[fn:25] berry and deleuze, p. 18.
 
-[fn:26] software is eating the
+[fn:26] berry p.62
 
-[fn:27] link to treer main history book / topics
+[fn:27] software is eating the
 
-[fn:28] stoch to xenakis quote
+[fn:28] link to treer main history book / topics
 
-[fn:29] link five eyes surveillance
+[fn:29] stoch to xenakis quote
 
-[fn:30] def of
+[fn:30] link five eyes surveillance
 
-[fn:31] link to classic essay about design of saftware informed
+[fn:31] def of
 
-[fn:32] any links to this? there was a bit from deland
+[fn:32] link to classic essay about design of saftware informed
 
-[fn:33] sousveilance
+[fn:33] any links to this? there was a bit from deland
 
-[fn:34] foucoult link, design of software and oppression
+[fn:34] sousveilance
 
-[fn:35] functions in programming.
+[fn:35] foucoult link, design of software and oppression
 
-[fn:36] computers and society
+[fn:36] functions in programming.
 
-[fn:37] cybernetic revolutionaries
+[fn:37] computers and society
 
-[fn:38] design of medical monitoring machines (see berry)
+[fn:38] cybernetic revolutionaries
 
-[fn:39] everything from the control of crops to the management of wild environments and  population control of wild species
+[fn:39] design of medical monitoring machines (see berry)
 
-[fn:40] link to[[http:hrc.wmin.ac.uk/theory-californianideology.html][barbroo, cameron - hypermedia research centre
+[fn:40] everything from the control of crops to the management of wild environments and  population control of wild species
 
-[fn:41] examples: skeudomorphic design, interactinon models. give more
+[fn:41] link to[[http:hrc.wmin.ac.uk/theory-californianideology.html][barbroo, cameron - hypermedia research centre
 
-[fn:42] ref to drum languages
+[fn:42] examples: skeudomorphic design, interactinon models. give more
 
-[fn:43]
+[fn:43] ref to drum languages
 
-[fn:44] here i am thinking about constraints like technical capabilty,
+[fn:44]
+
+[fn:45] here i am thinking about constraints like technical capabilty,
 machinic power as well as cultural determinism, usability constraints
 or challenges of imagination.
 
-[fn:45] ref to book on the desing of programs reflecting workplace.
+[fn:46] ref to book on the desing of programs reflecting workplace.
 
-[fn:51] define what technicity is
-
-[fn:46] google autocomplete suggestions description link
-
-[fn:47] link between abductive reasoning and ai.
-
-[fn:48] Think python p. 7
+[fn:47] (En)framing Heidegger
