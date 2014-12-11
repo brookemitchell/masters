@@ -12,58 +12,16 @@
 ** DONE Networked Experience and Digital Asethetics
 
 *** Is there a digital subconscious?
-   Parasite Suite is collection of socially-orientated art works exploring human relations with technology. The works are inspired by anxieties about technology, (particularly government and institutional surveillance), critical studies of the digital, works on information theory, as well as works by composers with an interest in the relationship between technology and society. The project is realised as a set of art projects that consider the shape of social engagements for those adopting a 'computational' mindset.
+   Parasite Suite is collection of socially-orientated art works exploring human relations with technology. The works are inspired by anxieties about technology (particularly government and institutional surveillance), critical studies of the digital, works on information theory, as well as works by composers with an interest in the relationship between technology and society. The project is realised as a set of art projects that consider the shape of social engagements for those adopting a 'computational' mindset.
 
-one of the more interestng developments of the late 20th and early
-21st century is the shift in the role of computing. inititially
-considered a tool limited to calculations and reckonings [fn:38], the
-ability of computer to transmit and record has made it into a highly
-effective communications tool. it is the tension between these two
-roles, what i have started to think of as a tension between two different models for the organisation of information as outlined by de landa..
+*** REVIEW Enframing - Two aspects to the computational
 
-of in the heirachy of information organisation and transmission that is deeply explored in
-
-between the signal and database, that i see exemplified in the contempory discourse about
-surveilland and technology.[fn:37]
-
-a computer can perform many roles, part of what makes general purpose machines interesting is their ability to be reconfigured. however that is not to say that the possibilities are limitless or easily explored. there are many things that are naturally difficult to do with general purpose computing for a wide variety of reasons that are too long to list. [fn:45] furthermore, the manner in
-which a product is designed, developed and organised, is often
-specific to the workplace culture, organisation and mode of production
-under which it originated. these kind of influences are likely to only
-deepen rathr than disappear.[fn:46] a classic text describing this
-scenario is the study by x..
-
-   Physical possibilities. Design.
-
-the following works are a study in the relationship and possibilities in the spaces between communication technology and artistic practice.
-
-communications technology and musical practice hold much in the way of a common history, converging and
-
-on a personal level one piece of anecdotal evidence that i have noticed is the large number of programmers and ict (informatin communicatons technolgy) workers that are musicians, composers or disc.
-
-The other piece of anecdotal evidence is the predisposition for composers toward computer programming and electronics.
-
-*** Look at study on Links
-
-jockeys[fn:44].
-*** WRITE Graph of structure of Computationality
-
-Networked Experience() ->
-Abductive Aesthetics() ->
-= Computationality ()
-both combine into set of qualities
-
-(Berry on Twitter [p. 76])As a form of computational media that is highly social, it presents an interesting case study in relation to our public/private experiences of communication through a computational platform.
-
-** REVIEW Enframing - Two aspects to the computational
-In this respect human relationships with technology occupy a somewhat vexed space, with technology seen as both 'means to an end', a tool of progress or improvement, yet perhaps more importantly technology is also a medium through which we experience the world.
-
-The notion of a 'computational' mindset is concept developed by David Berry in his book, 'Critical Theory and the Digital'. 'Computationality' is an elaboration on the idea of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology"[fn:1]. 'Enframing' describes not only how technology mediates our engagements with the world, but also how characteristics of technologies are adopted as metaphor for other sytems, paticularly the economic and social. Furthermore, a technologies 'mode-of-revealing'[fn:2] can develop a kind of subconscious influence in our attitude toward the world, similar to what is described in the mantra "the medium is the metaphor" by Neil Postman[fn:3].
+    The notion of a 'computational' mindset is concept developed by David Berry in his book, 'Critical Theory and the Digital'. 'Computationality' is an elaboration on the idea of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology"[fn:1]. 'Enframing' describes not only how technology mediates our engagements with the world, but also how characteristics of technologies are adopted as metaphor for other sytems, paticularly economic and social. Furthermore, a technologie's 'mode-of-revealing'[fn:2] can develop into a subconscious influence in our attitude toward the world, similar to what is described in the mantra "the medium is the metaphor" by Neil Postman[fn:3].
 
 *************** WRITE Go into more about Postman
 *************** END
 
-The 'enframing' of a technology also affects future development, changing use and development of other technologies. In Hedideggers mindset, 'enframing' becomes an inescapable trap that might limit further understanding of the world beyond the developing of the technology in question. His suggested remedy to this is to limit the extent to which we treat technolgy as a means to mastery.[fn:47] In this sense we have a symbiotic, yet parasitic relationship with technology, we see it as a way to advance and master a domain, and yet doing so dominates our thinking when the technologies limit the number of mentally viable options. As one of the goals of software seems to be to adopt a constructionist 'realness'[fn:4], it can be particularly hard to notice its presence as it aspires to transparancy, there are thus two kinds of disappearances technology tries to make, the first a sense of the natural to try and minimize its presence, and the second a appeal to transparency that deflects the notion that anything was to be hidden in the first place.
+    The 'enframing' of a technology also affects future use and development of other technologies. In Hedideggers mindset, 'enframing' becomes a trap that might limit further understanding of the world beyond the developing of the technology in question. His suggested remedy to this is to limit the extent to which we treat technolgy as an end in itself or a means to mastery of a domain.[fn:47] In this sense we  are reminded of our symbiotic, yet parasitic relationship with technology, we see it as a way to advance understanding, and yet doing so dominates our thinking when the technologies limit the number of mentally viable options. As one of the goals of software seems to be to adopt a constructionist 'realness'[fn:4], it can be particularly hard to notice its presence as it aspires to transparancy, there are thus two kinds of disappearances technology tries to make, the first a sense of the natural to try and minimize its presence, and the second a appeal to transparency that deflects the notion that anything was to be hidden in the first place.
 
 *************** WRITE check what notion of 'stranding-reserve' means
 *************** END
@@ -75,15 +33,15 @@ The 'enframing' of a technology also affects future development, changing use an
 such as John Cage and Iannis Xenakis.?
 *************** END
 
-   'Computationality' as an elaboration of what Heidegger describes as 'enframing', developed by David Berry.  David Berry writes that Heidegger's notion of enframing is intentionally use electricity and modern physics as its fundamental technological metaphors, with concepts like standing-reserve, the notion of human action ready to be activiated being based on the metaphor of voltage. The notion of 'computationality', is corresponding based on the language of the network and the aesthetics of software engineering.
+    Berry writes that Heidegger's notion of enframing is intentionally use electricity and modern physics as its fundamental technological metaphors, with concepts like standing-reserve, the notion of human action ready to be activiated being based on the metaphor of voltage. The notion of 'computationality', is corresponding based on the metaphors of the network and the aesthetics of software engineering. I hope to analyse this by designing engagments that at appear to prioritize technicity but on further involvement derive their functions from the technological mediation of a social scenario. I wish to ecnourage critical approaches to thinking about and responding to digital culture beyond the purely technnical spheres in which it is often discussed.
 
- I hope to analyse this by designing engagments that at appear to prioritize technicity but on further involvement derive their functions from the technological mediation of a social scenario. I wish to ecnourage critical approaches to thinking about and responding to digital culture beyond the purely technnical spheres in which it is often discussed.
+By studying computationality we begin to gain a sense of the topology of computer sytems. Looking deeper into the elements that make up computationality, there are two that stand out to me. They are what make up the idea of 'the stream', the most common metaphor for the world around us today, and the look of the 'pattern', which I feel describes the look and feel of computational systems.
 
 *************** WRITE Which leads us to the two aspects of compuatationality...
 *************** END
 
 ** EDIT Networked Experience: - both mode of revealing and identity
-   What does packet based communication allow for...
+   What does packet based communication allow for is the experience of 'the stream'. The variety of networked engagements we partipate in have become the metonymic source for the metaphor of the 'stream'. It is interesting to consider that the 'stream' is currently the dominant metaphor for describing networked experience, when in the previous centruy it was 'the web'. It will be helpful to describe the elements that make up a networked experience and the lead us to identifying and engaging in terms of streams.
 
    Networked Experience is both the use, and proliferation of an outlook on the world, based on metaphors that filter experiences of the world through the prism of networked communication systems. Following Heidegger and Berry, I am defining this phenomenon as 'networked-experience'. Heidegger argues that the essence of technology is not located in the machine but the human 'frame of mind' that allows both its production and shapes the ordering of things that allows wider changes to come into being. Heidegger considers the relationship between humanity and technology as a frame that shapes engagements with the world, in his terms 'enframing' all other perceptual processes[fn:6].
 
@@ -104,8 +62,11 @@ such as John Cage and Iannis Xenakis.?
 my definition is an embodied process of understanding that takes place across a network. some of the times one might typically include the remote administration of computers, multi-user collaboration on documents (as seen in services like google docs), or even on a  more basic level telecommunications services of all kinds that allow for two way interaction.
 
 what i am particlarly interested in is mutual real-time meaning making between multiple particpants or kinds of actors.
+
 ** EDIT Abductive reasoning:- paradigm, goal, paradigmatic epistem
 
+While networked experience determines our mode of identification and
+engagement, I beleive that it is computational 'patterning', that has been adopted as our paradigm of what an experience should 'feel' like. It is a paradigm, goal and aesthetic system based on the implementation of the best pattern recognition system currently available to us, abductive reasoning.
 
  Abductive reasoning is a an approach to reasoning, ubiquitous for computer systems. It is most often used when trying to make judgements working with 'fuzzy' or flawed data sets. It can be compared to deductive (logic, proof-based) and inductive (probable, evidence based), as the 'fuzziest' kind of reasoning, somewhat akin to a 'best guess'. Abductive reasoning attempts to guess based on the information at hand, refining the set of best guesses as the quality improves or amount of data accumulates. one of the most well known examples included predictive text, other more complex examples have been shown by the google corperation, such as autocomplete suggestions[fn:7], early work on abductive resoning in computers was highly focussed on artificial intelligence[fn:8].
 
@@ -120,32 +81,6 @@ Computationality = A new kind of technicity.
 
 Abduction fuels the thinking, Networking the socializing.
 
-*** Quotes from Comp THinking @ stunlaw
-One of the striking features of computation is the extent to which forms of pattern matching are required in computer processing. Pattern recognition can be described as a means of identifying repeated shapes or structures which are features of a system under investigation. Whilst we tend to think of patterns as visual, of course they can also be conceptual, iterative, representational, logical, mathematical, etc. in form providing the underlying computational system can be programmed to recognise the distinctive shape of the pattern from the data. They can also consist of meta-patterns as described by Gregory Bateson as patterns that can detected across different spheres, such as culture, humanities, science and the social or 'the pattern that connects' (see Bateson 1979; Dixon 2012).
-
-
-The recognition of patterns and uncovering their relationships in sets of data was called 'abductive reasoning' by Charles Peirce, who contrasted it with inductive and deductive reasoning. Indeed, Peirce described abduction as a kind of logical inference akin to guessing. This he called the leap of abduction where by one could abduce A from B if A is sufficient (or nearly sufficient) but not necessary for B. The possible uses of this within a computational context should be fairly obvious, especially when software is handling partial, fuzzy or incomplete data and needs to generate future probabilistic decision points, or recognise important features or contours in a data set./
-For Peirce, abduction works from these surprising facts to determine a possible, plausible explanation.  Furthermore, Peirce stresses the fact that the logic of abduction is fallible – abductive inferences, like induction, can, and do, lead us to the wrong result (Pearce 1958 5.189, 5.197, 6.532).  However, as a part of the triad, abduction is able to correct itself, once it is investigated by deduction and tested by induction (Pearce 1958 5.574).  Because of this, we should never take the conclusion of an abductive inference to be a fact in and of itself until it is tested.  Until that point “abduction commits us to nothing…it merely causes a hypothesis to be set down upon our docket of cases to be tried” (Pearce 1958 5.602).  Furthermore, by hypothesis, Peirce does not just mean scientific hypotheses.  Abduction certainly includes the more formalized, conscious cognitive process of deliberately searching for an explanation to a set of particular facts; however, abduction is also a logical inference used in everyday life from crude hypotheses (his Catholic priest example) to perceptual judgments (understanding the information that we receive from our senses) (Pearce 1958 7.202, 5.180, 5.184) (Eldridge n.d.).
-
-Within computer science, and particularly related to the more micro level problem of recognising patterns themselves within data sets automatically using computation, is an important and challenging area of research. The main forms of pattern recognition (we can think of these as patterns to find patterns) used in computation are usually enumerated as template-matching, prototype matching, feature analysis, recognition by components, fourier analysis, and lastly bottom-up and top-down processing. I'll briefly describe each of the six main approaches.
-
-Template Matching: This is where a computational device uses a set of images (or templates) against which it can compare a data set, which might be an image for example (for examples of an image set, see Cole et al. 2004).
-
-Template Matching (Jahangir 2008)
-Prototype Matching: This form of patten matching uses a set of prototypes, which are understood as an average characteristic of a particular object or form. The key is that there does not need to be a perfect match merely a high probability of likelihood that the object and prototype are similar (for an example, see Antonina et al. 2003).
-
-Feature Analysis: In this approach a variety of approaches are combined including detection, pattern dissection, feature comparison, and recognition. Essentially the source data is broken into key features or patterns to be compared with a library of partial objects to be matched with (for examples, see Morgan n.d.).
-
-Recognition by Components: In this approach objects are understood to be made up of what are called 'geons' or geometric primitives. A sample of data or images is then processed through feature detectors which are programmed to look for curves, edges, etc. or through a geo detector which looks for simple 2D or 3D forms such as cylinders, bricks, wedges, cones, circles, and rectangles (see Biederman 1987).
-
-Fourier Analysis: This form of pattern matching uses algorithms to decompose something into smaller pieces which can then be selectively analysed. This decomposition process itself is called the Fourier transform.  For example, an image might be broken down into a set of twenty squares across the image field, each of which being smaller, is made faster to process. As Moler (2004) argues, 'we all use Fourier analysis every day without even knowing it. Cell phones, disc drives, DVDs, and JPEGs all involve fast finite Fourier transforms'. Fourier transformation is also used to generate a compact representation of a signal. For example, JPEG compression uses a variant of the Fourier transformation (discrete cosine transform) of small square pieces of the digital image. The Fourier components of each square are then rounded to lower arithmetic precision, and weak components are discarded, so that the remaining components can be stored in much less computer memory or storage space. To reconstruct the image, each image square is reassembled from the preserved approximate Fourier-transformed components, which are then inverse-transformed to produce an approximation of the original image, this is why the image can produce 'blocky' or the distinctive digital artefacts in the rendered image, see JPEG (2012).
-
-Bottom-up and Top-down Processing: Finally, in the Bottom-up and Top-down methods an interpretation emerges from the data, this is called data-driven or bottom-up processing. Here the interpretation of a data set to be determined mostly by information collected, not by your prior models or structures being fitted to the data, hence this approach looks for repeated patterns that emerge from the data. The idea is that starting with no knowledge the software is able to learn to draw generalisations from particular examples. Alternatively an approach where prior knowledge or structures are applied data is fitted into these models to see if there is a 'fit'. This approach is sometimes called schema-driven or top-down processing. A schema is a pattern formed earlier in a data set or drawn from previous information (Dewey 2011).
-
-What should be apparent from this brief discussion of the principles of abduction and pattern-matching in computer science is their creative possibilities for generating results from data sets. The ability to generate  hypothesises on the basis of data, which is fallible and probabilistic allows for computational devices to generate forecasts and predictions based on current and past behaviours, data collection, models, and images. It is this principle of abductive reason which makes computational reasoning different from instrumental reason, and particularly from the iron-cage of logical implication or programmatic outcome that instrumental reason suggests. Indeed Alexander that the most useful patterns are generative,
-
-    These patterns in our minds are, more or less, mental images of the patterns in the world: they are abstract representations of the very morphological rules which define the patterns in the world. However, in one respect they are very different. The patterns in the world merely exist. But the same patterns in our minds are dynamic. They have force. They are generative. They tell us what to do; they tell us how we shall, or may, generate them; and they tell us too, that under certain circumstances, we must create them. Each pattern is a rule which describes what you have to do to generate the entity which it defines. (Alexander 1979: 181-182)
-*** END
 *************** Categories of affect(?) in  berry's classification table
 *************** END
 |--------------------+-----------------------------+---------------------------|
@@ -271,7 +206,9 @@ many interesting things can be said about
 . it just so happens that when i consider some of the inherant qualities of the manner in which i would conduct myself, even in moments that i step away from a 'screen', the encounters of my life are all deeply network driven. one of the discoveries of early computing i sthat computational speed makes vastly wider and new kinds of networks possible.[fn:37]
 pattern aesthetic-
 
+
 *** todo quote about discovery of email from cybersyn[fn:38]
+
 
 ** WRITE Streaming-Forth
 ** EDIT Inspirations
@@ -332,7 +269,36 @@ how to portray this rich and often conflicted history in a word is a difficult t
 
 * WRITE Conclusions
 
+* WRITE Extra Notes
+which a product is designed, developed and organised, is often
+specific to the workplace culture, organisation and mode of production
+under which it originated. these kind of influences are likely to only
+deepen rathr than disappear.[fn:46] a classic text describing this
+scenario is the study by x..
 
+   Physical possibilities. Design.
+
+the following works are a study in the relationship and possibilities in the spaces between communication technology and artistic practice.
+
+communications technology and musical practice hold much in the way of a common history, converging and
+
+on a personal level one piece of anecdotal evidence that i have noticed is the large number of programmers and ict (informatin communicatons technolgy) workers that are musicians, composers or disc.
+
+The other piece of anecdotal evidence is the predisposition for composers toward computer programming and electronics.
+
+*** Look at study on Links
+
+jockeys[fn:44].
+*** WRITE Graph of structure of Computationality
+
+Networked Experience() ->
+Abductive Aesthetics() ->
+= Computationality ()
+both combine into set of qualities
+
+(Berry on Twitter [p. 76])As a form of computational media that is highly social, it presents an interesting case study in relation to our public/private experiences of communication through a computational platform.
+
+   In this respect human relationships with technology occupy a somewhat vexed space, with technology seen as both 'means to an end', a tool of progress or improvement, yet perhaps more importantly technology is also a medium through which we experience the world.
 * Footnotes
 
 [fn:1] heidegger qct
