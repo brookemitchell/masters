@@ -10,18 +10,11 @@
 * EDIT Introduction
 
 ** DONE Networked Experience and Digital Asethetics
-
-*** Is there a digital subconscious?
    Parasite Suite is collection of socially-orientated art works exploring human relations with technology. The works are inspired by anxieties about technology (particularly government and institutional surveillance), critical studies of the digital, works on information theory, as well as works by composers with an interest in the relationship between technology and society. The project is realised as a set of art projects that consider the shape of social engagements for those adopting a 'computational' mindset.
 
-*** REVIEW Enframing - Two aspects to the computational
+    The notion of a 'computational' mindset is concept developed by David Berry in his book, 'Critical Theory and the Digital'. 'Computationality' is an elaboration on the idea of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology"[fn:1]. 'Enframing' describes not only how technology mediates our engagements with the world, but also how characteristics of technologies are adopted as metaphor for other sytems, paticularly economic and social. Furthermore, a technologies' 'mode-of-revealing'[fn:2] can import a subconscious influence over our attitude to the world.
 
-    The notion of a 'computational' mindset is concept developed by David Berry in his book, 'Critical Theory and the Digital'. 'Computationality' is an elaboration on the idea of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology"[fn:1]. 'Enframing' describes not only how technology mediates our engagements with the world, but also how characteristics of technologies are adopted as metaphor for other sytems, paticularly economic and social. Furthermore, a technologie's 'mode-of-revealing'[fn:2] can develop into a subconscious influence in our attitude toward the world, similar to what is described in the mantra "the medium is the metaphor" by Neil Postman[fn:3].
-
-*************** WRITE Go into more about Postman
-*************** END
-
-    The 'enframing' of a technology also affects future use and development of other technologies. In Hedideggers mindset, 'enframing' becomes a trap that might limit further understanding of the world beyond the developing of the technology in question. His suggested remedy to this is to limit the extent to which we treat technolgy as an end in itself or a means to mastery of a domain.[fn:47] In this sense we  are reminded of our symbiotic, yet parasitic relationship with technology, we see it as a way to advance understanding, and yet doing so dominates our thinking when the technologies limit the number of mentally viable options. As one of the goals of software seems to be to adopt a constructionist 'realness'[fn:4], it can be particularly hard to notice its presence as it aspires to transparancy, there are thus two kinds of disappearances technology tries to make, the first a sense of the natural to try and minimize its presence, and the second a appeal to transparency that deflects the notion that anything was to be hidden in the first place.
+    The 'enframing' of a technology also affects future use and development of other technologies. In Hedidegger's description, 'enframing' is a trap that limits further understanding of the world. His suggested remedy to this is to limit the extent to which we treat technolgy as an end in itself or a means to mastery of a domain.[fn:47] In this sense we  are reminded of our symbiotic, yet parasitic relationship with technology, we see it as a way to advance understanding, and yet doing so dominates our thinking when the technologies limit the number of viable options. As one of the goals of software seems to be to adopt a constructionist 'realness'[fn:4], it can be particularly hard to notice its presence as it aspires to transparancy, there are thus two kinds of disappearances technology tries to make, the first a sense of the natural to try and minimize its presence, and the second a appeal to transparency that deflects the notion that anything was to be hidden in the first place.
 
 *************** WRITE check what notion of 'stranding-reserve' means
 *************** END
@@ -208,7 +201,6 @@ pattern aesthetic-
 
 
 *** todo quote about discovery of email from cybersyn[fn:38]
-
 
 ** WRITE Streaming-Forth
 ** EDIT Inspirations
