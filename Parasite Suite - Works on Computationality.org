@@ -12,19 +12,9 @@
 ** DONE Networked Experience and Digital Asethetics
    Parasite Suite is collection of socially-orientated art works exploring human relations with technology. The works are inspired by anxieties about technology (particularly government and institutional surveillance), critical studies of the digital, works on information theory, as well as works by composers with an interest in the relationship between technology and society. The project is realised as a set of art projects that consider the shape of social engagements for those adopting a 'computational' mindset.
 
-    The notion of a 'computational' mindset is concept developed by David Berry in his book, 'Critical Theory and the Digital'. 'Computationality' is an elaboration on the idea of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology"[fn:1]. 'Enframing' describes not only how technology mediates our engagements with the world, but also how characteristics of technologies are adopted as metaphor for other sytems, paticularly economic and social. Furthermore, a technologies' 'mode-of-revealing'[fn:2] can import a subconscious influence over our attitude to the world.
+    The notion of a 'computational' mindset is concept developed by David Berry in his book, 'Critical Theory and the Digital'. 'Computationality' is an elaboration on the idea of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology"[fn:1]. 'Enframing' describes not only how technology mediates our engagements with the world, but also how characteristics of technologies are adopted as metaphor for other sytems, paticularly economic and social. Furthermore, a technologie's 'mode-of-revealing'[fn:2] can develop into a subconscious influence in our attitude toward the world.
 
-    The 'enframing' of a technology also affects future use and development of other technologies. In Hedidegger's description, 'enframing' is a trap that limits further understanding of the world. His suggested remedy to this is to limit the extent to which we treat technolgy as an end in itself or a means to mastery of a domain.[fn:47] In this sense we  are reminded of our symbiotic, yet parasitic relationship with technology, we see it as a way to advance understanding, and yet doing so dominates our thinking when the technologies limit the number of viable options. As one of the goals of software seems to be to adopt a constructionist 'realness'[fn:4], it can be particularly hard to notice its presence as it aspires to transparancy, there are thus two kinds of disappearances technology tries to make, the first a sense of the natural to try and minimize its presence, and the second a appeal to transparency that deflects the notion that anything was to be hidden in the first place.
-
-*************** WRITE check what notion of 'stranding-reserve' means
-*************** END
-
-*************** WRITE Enframing examples...
-*************** END
-
-*************** WRITE some key works for this study include
-such as John Cage and Iannis Xenakis.?
-*************** END
+    The 'enframing' of a technology also affects future use and development of other technologies. In Hedideggers mindset, 'enframing' becomes a trap that might limit further understanding of the world beyond the developing of the technology in question. His suggested remedy to this is to limit the extent to which we treat technolgy as an end in itself or a means to mastery of a domain.[fn:47] In this sense we  are reminded of our symbiotic, yet parasitic relationship with technology, we see it as a way to advance understanding, and yet doing so dominates our thinking when the technologies limit the number of mentally viable options. As one of the goals of software seems to be to adopt a constructionist 'realness'[fn:4], it can be particularly hard to notice its presence as it aspires to transparancy, there are thus two kinds of disappearances technology tries to make, the first a sense of the natural to try and minimize its presence, and the second a appeal to transparency that deflects the notion that anything was to be hidden in the first place.
 
     Berry writes that Heidegger's notion of enframing is intentionally use electricity and modern physics as its fundamental technological metaphors, with concepts like standing-reserve, the notion of human action ready to be activiated being based on the metaphor of voltage. The notion of 'computationality', is corresponding based on the metaphors of the network and the aesthetics of software engineering. I hope to analyse this by designing engagments that at appear to prioritize technicity but on further involvement derive their functions from the technological mediation of a social scenario. I wish to ecnourage critical approaches to thinking about and responding to digital culture beyond the purely technnical spheres in which it is often discussed.
 
@@ -34,20 +24,19 @@ By studying computationality we begin to gain a sense of the topology of compute
 *************** END
 
 ** EDIT Networked Experience: - both mode of revealing and identity
-   What does packet based communication allow for is the experience of 'the stream'. The variety of networked engagements we partipate in have become the metonymic source for the metaphor of the 'stream'. It is interesting to consider that the 'stream' is currently the dominant metaphor for describing networked experience, when in the previous centruy it was 'the web'. It will be helpful to describe the elements that make up a networked experience and the lead us to identifying and engaging in terms of streams.
+
+   Packet based communication allows for us to experience the revealing mode of 'the stream'. The variety of networked engagements we partipate in have become the metonymic source for the metaphor of the 'stream'. It is interesting to consider that the 'stream' is currently the dominant metaphor for describing networked experience, when in the previous century it was 'the web'. It will be helpful to describe the elements that make up a networked experience and the lead us to identifying and engaging in terms of streams.
 
    Networked Experience is both the use, and proliferation of an outlook on the world, based on metaphors that filter experiences of the world through the prism of networked communication systems. Following Heidegger and Berry, I am defining this phenomenon as 'networked-experience'. Heidegger argues that the essence of technology is not located in the machine but the human 'frame of mind' that allows both its production and shapes the ordering of things that allows wider changes to come into being. Heidegger considers the relationship between humanity and technology as a frame that shapes engagements with the world, in his terms 'enframing' all other perceptual processes[fn:6].
 
-   In Heidegger's case he describes this 'enframing' of his times are based upon the influence of electricity and modern physics. Humans are situated as 'standing-reserve', and talked about in electrical metaphors such as 'potential'. David Berry seeks to expand upon Hedegger's theory and argues that a new 'enframing' is based on the digital uses the network as its primary metaphor. where revealing is seen in terms of 'streaming forth' and actions are seen in algorithmic, graphic terms closely related to data-science. Similarly Neil Postman wrote that the 'Medium is the Metaphor', in a twist on Marshall Mcluhan's work. By this he intended to convey something very similar to Heidegger, that the technologes which provide access to information have an even more pervasive influence on our attitudes and understandings of the world than McLuhan's message.
+   In Heidegger's case he describes this 'enframing' of his times are based upon the influence of electricity and modern physics. Humans are beginning to perceive techology, and themselves, as 'standing-reserve'. Meanwhile other matters are talked about in electrical metaphors such as 'potential'. David Berry seeks to expand upon Hedegger's theory and argues that a new 'enframing' is based on the digital-networks as the primary metaphor. When revealing is seen in terms of 'streaming forth', and actions are seen in algorithmic terms closely related to data-science.
 
-*************** WRITE Eleborate on Postman
-*************** END
-*************** WRITE Examples of medium as metaphor
-		For some examples of this, I was recently listening to a podcast where a software developer who uses Agile software development organisational theory practices to manage his family.
-*************** END
-*************** write example of soundcloud as stream
+   For some examples of this, I was recently listening to a podcast where a software developer who uses Agile software development organisational theory practices to manage his family.
 
-   the experience of considering oneself both a recipient and generator of the 'stream', is one of the defining characterstics of networked experience. if participants are indeed ordering their world in response to 'streams,' then typical goals include processing information, performing algorithmic transformations, and searching for ways to filter information to make it /computeable/, which leads into to our second quality of computationality, recognising patterns through abductive reasoning.
+*************** More 'streaming' examples
+*************** END
+
+   The experience of considering oneself both a recipient and generator of the 'stream', is one of the defining characterstics of networked experience. If participants are indeed ordering their world in response to 'streams,' then typical goals include processing information, performing algorithmic transformations, and searching for ways to filter information to make it /computeable/, which leads into to our second quality of computationality, recognising patterns through abductive reasoning.
 
 *************** Identities as 'Streaming Beings'
 *************** END
@@ -56,10 +45,9 @@ my definition is an embodied process of understanding that takes place across a 
 
 what i am particlarly interested in is mutual real-time meaning making between multiple particpants or kinds of actors.
 
-** EDIT Abductive reasoning:- paradigm, goal, paradigmatic epistem
+** EDIT Digital Aesthetics are Abductive reasoning in practice:- paradigm, goal, paradigmatic epistem
 
-While networked experience determines our mode of identification and
-engagement, I beleive that it is computational 'patterning', that has been adopted as our paradigm of what an experience should 'feel' like. It is a paradigm, goal and aesthetic system based on the implementation of the best pattern recognition system currently available to us, abductive reasoning.
+While networked experience determines our mode of identification and engagement, I beleive that it is computational 'patterning', that has been adopted as our paradigm of what an experience should 'feel' like. It is a paradigm, goal and aesthetic system based on the implementation of the best pattern recognition system currently available to us, abductive reasoning.
 
  Abductive reasoning is a an approach to reasoning, ubiquitous for computer systems. It is most often used when trying to make judgements working with 'fuzzy' or flawed data sets. It can be compared to deductive (logic, proof-based) and inductive (probable, evidence based), as the 'fuzziest' kind of reasoning, somewhat akin to a 'best guess'. Abductive reasoning attempts to guess based on the information at hand, refining the set of best guesses as the quality improves or amount of data accumulates. one of the most well known examples included predictive text, other more complex examples have been shown by the google corperation, such as autocomplete suggestions[fn:7], early work on abductive resoning in computers was highly focussed on artificial intelligence[fn:8].
 
@@ -76,31 +64,7 @@ Abduction fuels the thinking, Networking the socializing.
 
 *************** Categories of affect(?) in  berry's classification table
 *************** END
-|--------------------+-----------------------------+---------------------------|
-|                    | technicity                  | computationality          |
-|                    | (modern technology)         | (postmodern technology)   |
-|--------------------+-----------------------------+---------------------------|
-| mode of revealing  | challenging-forth (gestell) | streaming-forth           |
-|--------------------+-----------------------------+---------------------------|
-| paradigmatic       | technical devices,          | computational devices     |
-| equipment          | machines                    | computers, processors.    |
-|--------------------+-----------------------------+---------------------------|
-| goals (projects)   | 1. unlocking                | 1. trajectories           |
-|                    | transforming                | processng info            |
-|                    | storing                     | algorithmic trans         |
-|                    | distributing                | (aggregation, reduction   |
-|                    | switching about             | calculation) as           |
-|                    | standing reseve             | /data reserve/            |
-|                    | 2.efficiency                | 2. computability          |
-|--------------------+-----------------------------+---------------------------|
-| identities (roles) | ordered beings              | streaming beings          |
-|--------------------+-----------------------------+---------------------------|
-| paradigmatic       | *engineer* time motion      | *design* info theory      |
-| epistem            | studies, method-time        | graph theory              |
-|                    | measurement (mtm)           | data viz                  |
-|                    | instrument rationality      | communicative rationality |
-|--------------------+-----------------------------+---------------------------|
-*************** write on philosophy of software - constructionism
+*************** write on philosophy of software - constructivism
 "this frantic disorientation uderneath the surface is therefor insulated from the user, who is provided with an interactional surface that can be familiar, skeudomorphic, representational, metonymic, flat, figurative or extremely simplistic and domestic."
 *************** end
 
@@ -202,6 +166,34 @@ pattern aesthetic-
 
 *** todo quote about discovery of email from cybersyn[fn:38]
 
+<<<<<<< Updated upstream
+=======
+
+|--------------------+-----------------------------+---------------------------|
+|                    | technicity                  | computationality          |
+|                    | (modern technology)         | (postmodern technology)   |
+|--------------------+-----------------------------+---------------------------|
+| mode of revealing  | challenging-forth (gestell) | streaming-forth           |
+|--------------------+-----------------------------+---------------------------|
+| paradigmatic       | technical devices,          | computational devices     |
+| equipment          | machines                    | computers, processors.    |
+|--------------------+-----------------------------+---------------------------|
+| goals (projects)   | 1. unlocking                | 1. trajectories           |
+|                    | transforming                | processng info            |
+|                    | storing                     | algorithmic trans         |
+|                    | distributing                | (aggregation, reduction   |
+|                    | switching about             | calculation) as           |
+|                    | standing reseve             | /data reserve/            |
+|                    | 2.efficiency                | 2. computability          |
+|--------------------+-----------------------------+---------------------------|
+| identities (roles) | ordered beings              | streaming beings          |
+|--------------------+-----------------------------+---------------------------|
+| paradigmatic       | *engineer* time motion      | *design* info theory      |
+| epistem            | studies, method-time        | graph theory              |
+|                    | measurement (mtm)           | data viz                  |
+|                    | instrument rationality      | communicative rationality |
+|--------------------+-----------------------------+---------------------------|
+>>>>>>> Stashed changes
 ** WRITE Streaming-Forth
 ** EDIT Inspirations
 
