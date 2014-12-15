@@ -1,5 +1,5 @@
 #+TODO: WRITE EDIT REVIEW | DONE DELETE
-
+Test: Can I read this.
 * Intro Quote
 
   /we know very little about the ways in which software is socially created, the nature of software itself; how discourse, practices, and knowledge get translated into algorithms and code; the geographies and political economy of software development; how software is embedded into various social systems; how software applications work with each other to create complex assemblages that work within and across scales; the power wielded through software's "secondary agency"; and how software alternativly modulates the production production of space and transforms the nature of governance. (Kitchin 2011: 946)/
@@ -8,8 +8,8 @@
 
 
 * EDIT Introduction
+** DONE Networked Experience and Digital Asethetics
 
-** Networked Experience and Digital Asethetics
    Parasite Suite is collection of socially-orientated art works exploring human relations with technology. The works are inspired by anxieties about technology (particularly government and institutional surveillance), critical studies of the digital, works on information theory, as well as works by composers with an interest in the relationship between technology and society. The project is realised as a set of art projects that consider the shape of social engagements for those adopting a 'computational' mindset.
 
     The notion of a 'computational' mindset is concept developed by David Berry in his book, 'Critical Theory and the Digital'. 'Computationality' is an continuation of the idea of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology"[fn:1]. 'Enframing' describes not only how technology mediates our engagements with the world, but also how characteristics of technologies are adopted as metaphor for other sytems, paticularly economic and social. Furthermore, technology has a  'mode-of-revealing'[fn:2] that can import a subconscious influence over our attitude to the world.
@@ -22,31 +22,31 @@
 
 ** EDIT Networked Experience: - both mode of revealing and identity
 
-   Packet based communication allows for us to experience the revealing mode of 'the stream'. The variety of networked engagements we partipate in have become the metonymic source for the metaphor of the 'stream'. It is interesting to consider that the 'stream' is currently the dominant metaphor for describing networked experience, when in the previous century it was 'the web'. It will be helpful to describe the elements that make up a networked experience and the lead us to identifying and engaging in terms of streams.
+   Networked Experience is the term for a 'mode of revealing' that plays a key role in computational experience. It describes how new technologies have afforded new applications for computational power towards actions that previously relied on the time-dependant methods of relaying, processsing and filtering information over time, such as translation, aggregation and archiving.
 
-   Networked Experience is both the use, and proliferation of an outlook on the world, based on metaphors that filter experiences of the world through the prism of networked communication systems. Following Heidegger and Berry, I am defining this phenomenon as 'networked-experience'. Heidegger argues that the essence of technology is not located in the machine but the human 'frame of mind' that allows both its production and shapes the ordering of things that allows wider changes to come into being. Heidegger considers the relationship between humanity and technology as a frame that shapes engagements with the world, in his terms 'enframing' all other perceptual processes[fn:6].
+   The data streams that these techniques rely upon are now able to be processed fast enough to make the experience seem as though it is taking place in real time. The quintessential example often given is Twitter, a near real-time worldwide message archive service, one that curiously has till recently performed poorly as an archiving service but functioned very efficently as a real time message sharing service. Berry describes is as a phenomenological message system [fn:51] because of the mode of thinking about twitter encourages users to describe their experience of a particular moment (with their smartphone) in the most immediate terms possible.
 
-   In Heidegger's case he describes this 'enframing' of his times are based upon the influence of electricity and modern physics. Humans are beginning to perceive techology, and themselves, as 'standing-reserve'. Meanwhile other matters are talked about in electrical metaphors such as 'potential'. David Berry seeks to expand upon Hedegger's theory and argues that a new 'enframing' is based on the digital-networks as the primary metaphor. When revealing is seen in terms of 'streaming forth', and actions are seen in algorithmic terms closely related to data-science.
+   However, one of the concerns with the experence is how an alogrithmic process is made to seem  transparent, direct, and natural, as if a staggering level of logistical effort isn't taking place every time I make a google search. This sense of effortless computation is often acieved by careful user-interface choices.
 
-   For some examples of this, I was recently listening to a podcast where a software developer who uses Agile software development organisational theory practices to manage his family.
+ The experience of real-time networking makes information seem like a vector (or stream ) with a velocity and direction, and one that can be acessed by like, much like turning on a tap. This leads to famous phrases that seem typical of the present such as "all you need is data" [fn:49]. However these data streams also have trajectories, and sources, controlled by physical infrastructure and logistics, controlled by powerful entities.
 
-*************** More 'streaming' examples
-*************** END
+   The metaphor of 'streaming-forth', thus makes other objects, seem like processors of real time aysncyhronous sytreams of information. Already this can be seen in changing paradigms in computer programming [fn:50], that emphasise the metaphor of piping, whereby modules are connected to trasfer an awaited stream of information. It is as mucha  response to the challenges of dealing with a new paradisgm for the delivery of information s a application of a metaphor that was already in peoples minds.
 
-   The experience of considering oneself both a recipient and generator of the 'stream', is one of the defining characterstics of networked experience. If participants are indeed ordering their world in response to 'streams,' then typical goals include processing information, performing algorithmic transformations, and searching for ways to filter information to make it /computeable/, which leads into to our second quality of computationality, recognising patterns through abductive reasoning.
+   Perhaps the best example of the manner in which streaming-beings, as the model for humans to act as is seen is in the expectatons placed on workers in labour relations. Likewise people also begin to see themseles in terms of being 'streaming-beings', both in terms of producing a multitude of real-time information based on behavior (often used for surveillance and interaction studies). Also we are seen as responding in real time to demands placed on us, as seen in 'zero-hour contracts' that call for workers to dynamically respond to changing work hours (rather than beng called upon as with previous contract based systems)
+
+   The experience of considering oneself both a recipient and generator of the 'stream', is one of the defining characterstics of modern experience. If participants are indeed ordering their world in response to 'streams,' then typical goals include processing information, performing algorithmic transformations, and searching for ways to filter information to make it /computeable/, which leads into to our second quality of computationality, recognising patterns through abductive reasoning.
 
 *************** Identities as 'Streaming Beings'
 *************** END
 
-my definition is an embodied process of understanding that takes place across a network. some of the times one might typically include the remote administration of computers, multi-user collaboration on documents (as seen in services like google docs), or even on a  more basic level telecommunications services of all kinds that allow for two way interaction.
 
-what i am particlarly interested in is mutual real-time meaning making between multiple particpants or kinds of actors.
+   What i am particlarly interested in is mutual real-time meaning making between multiple particpants or kinds of actors.
 
 ** EDIT Digital Aesthetics are Abductive reasoning in practice:- paradigm, goal, paradigmatic epistem
 
 While networked experience determines our mode of identification and engagement, I beleive that it is computational 'patterning', that has been adopted as our paradigm of what an experience should 'feel' like. It is a paradigm, goal and aesthetic system based on the implementation of the best pattern recognition system currently available to us, abductive reasoning.
 
- Abductive reasoning is a an approach to reasoning, ubiquitous for computer systems. It is most often used when trying to make judgements working with 'fuzzy' or flawed data sets. It can be compared to deductive (logic, proof-based) and inductive (probable, evidence based), as the 'fuzziest' kind of reasoning, somewhat akin to a 'best guess'. Abductive reasoning attempts to guess based on the information at hand, refining the set of best guesses as the quality improves or amount of data accumulates. one of the most well known examples included predictive text, other more complex examples have been shown by the google corperation, such as autocomplete suggestions[fn:7], early work on abductive resoning in computers was highly focussed on artificial intelligence[fn:8].
+ Abductive reasoning is a an approach to reasoning, ubiquitous in its use in software engineering. It is most often used when trying to make judgements working with 'fuzzy' or flawed data sets and can be contrasted with deductive (logic, proof-based) and inductive (probable, evidence based) reasoning. It is the 'fuzziest' kind of reasoning, somewhat akin to a 'best guess'. Abductive reasoning attempts to guess based on the information at hand, refining the set of best guesses as the quality improves or amount of data accumulates. one of the most well known examples included predictive text, other more complex examples have been shown by the google corperation, such as autocomplete suggestions[fn:7], early work on abductive resoning in computers was highly focussed on artificial intelligence[fn:8].
 
 *************** abductive reasoning in real life...
 *************** end
@@ -379,3 +379,11 @@ or challenges of imagination.
 [fn:46] ref to book on the desing of programs reflecting workplace.
 
 [fn:47] (En)framing Heidegger
+
+[fn:48] Postman N.
+
+[fn:49] AllYOu need is data DTD
+
+[fn:50] Streams Programming Languages
+
+[fn:51] Berry, Twitter as phenmopmenological
