@@ -39,7 +39,6 @@ Test: Can I read this.
 *************** Identities as 'Streaming Beings'
 *************** END
 
-
    What i am particlarly interested in is mutual real-time meaning making between multiple particpants or kinds of actors.
 
 ** EDIT Digital Aesthetics are Abductive reasoning in practice:- paradigm, goal, paradigmatic epistem
@@ -161,11 +160,6 @@ many interesting things can be said about
 pattern aesthetic-
 
 
-*** todo quote about discovery of email from cybersyn[fn:38]
-
-<<<<<<< Updated upstream
-=======
-
 |--------------------+-----------------------------+---------------------------|
 |                    | technicity                  | computationality          |
 |                    | (modern technology)         | (postmodern technology)   |
@@ -190,8 +184,7 @@ pattern aesthetic-
 |                    | measurement (mtm)           | data viz                  |
 |                    | instrument rationality      | communicative rationality |
 |--------------------+-----------------------------+---------------------------|
->>>>>>> Stashed changes
-** WRITE Streaming-Forth
+
 ** EDIT Inspirations
 
 The inspiriation is taken from serres concept of 'black boxing'. seeing the world in terms of components. taking one and stripping away layers of abstraction in order to understand the processes involved, then returning the 'box' to its position  with newfound understanding.
@@ -235,8 +228,95 @@ how to portray this rich and often conflicted history in a word is a difficult t
 ** 'Streaming-forth' and Time based Art
     if installation is not a processional peice, w/ beginning and end, where does that situate sound? digital influence. is adaptive/ generative sound still time based? is it more real time and responsive?
 
-
 * WRITE Parasite One
+** Summary - Inspiration for Work.
+
+The work is focussed around exploring the idiosyncrasies of networked real time communication in the context of a sound art tradition.
+
+The principal sources of inspiration are a re-interpretation of John Cage’s Imaginary Landscape Number 5 (link). My re-imagined take on the work is also inspired by the oblique networking system of the video game Dark Souls (link appendix), as well as the ‘giant’ piano featured in toy store sequences from the movies Big(link) and Lethal Weapon(link).
+
+The initial version of this installation takes place on a staircase with eight stairs. Each stair has a simple floor trigger underneath and adjacent light source to light up a user's feet when they activate a stair.
+
+Each time the program is run that controls the stairs is initialised the stairs are given a sample to continuously loop from a randomly chosen collection of audio files on the installation computer (link to script for sample picker) to act as its streams.
+Under the staircase is a speaker playing eight pre-arranged ‘streams’ of sampled information, the volume of each stream, corresponding to stair, is controlled by the floor triggers.
+
+There is also a website for the installation where users can log on to observe and listen to the installation. Access to the website also offers users two pieces of added functionality. After allowing access to users microphone and camera, they can now trigger staircase responses remotely by hovering over a box representing each stream. However by participating in this manner the user becomes part of the installation, the sounds of their microphone stream replace those of one of the stairs in the installation for as long as they are visiting the site.
+
+Realisations
+(Video)
+
+Implications
+
+The work attempts to deal with some of the major themes of the collection of works. Namely by looking at surveillance and the idea of ‘engagement’ with the surveyor. The work attempts to press the
+
+Experience
+
+The observed experience is markedly different for the two kinds of participants in the installation as they assume different roles, In-situ visitors are usually at first surprised by the manner of the
+
+** Technical Outline
+*** Intro
+The installation parasite is a work that occupies a staircase, using 8 floor panel sensors constructed from conductive material and plastic to form large ‘buttons’. These ‘buttons’ are placed under pieces of carpet and wired to an arduino microcontroller communicating with a small desktop computer.
+
+The computer is set to transmit sound within the space using the audio capabilities of html5’s javascript application programming interfaces (APIs) and the microcontroller messaging and web serving capabilities of the node.js server side javascript language.
+
+What is immediately obvious to the participant is that the computer is set to send messages to turn on 12 volt LED strips attached above the stairs, these light up as participants stand on the floor sensors. The computer is also outputting 8 muted streams of audio, a corresponding stream also having its volume increased also when a user stand upon a floor sensor. A the top stairs visible to those ascending there is a handwritten universal resource locator (URL)
+directing those who are interested to visit a web page (currently: www.parasite.ngrok.com
+(diagram of installation)
+
+all source code available at https://github.com/brookemitchell/parasiteChat
+
+*** Physical Computing - Arduino Circuit
+
+In the spirit of ongoing development, the circuit constructed is simple enough to understand and designed to emphasise direct user input with highly responsive feedback prioritised above consistency of user experience. Sensors are expected to  register input instantly, resulting in the ability for the user to trigger results multiple times simultaneously by adjusting the weighting of their feet or coerce buttons into a ‘stuck’ state by carefully removing weight off the floor panel. These kinds of user ‘hacks’ and edge cases are encouraged as part of the art work rather than erased by attempts to enforce  total consistency of user interaction.
+
+(img – circuit diagram)
+
+The floor sensors that serve as basic buttons are connected to eight digital inputs on the arduino, using the internal pins of each pin to serve as pull up resistors and create a typical ‘button’ input circuit. To control the lighting eight digital outputs send 5v control voltage signals to eight N-Channel MOSFETs (link). The MOSFET transistors have 12v voltage provided by a separate power rail that is gated by the MOSFET, as controlled from the arduino, a  a corresponding LED strip can be illuminated whenever 5v control voltage is sent from one of the digital out pins.
+
+The firmware of the Arduino is then uploaded with the Standard Firmata microcontroller library (link), which allows for the microcontroller to interpret midi messages over serial.
+
+(Communications Diagram)
+
+*** Server side programming - node.js: express, logfmt, johnny-five and socket.io
+
+The server, a small computer connected to the microcontroller, manages the major communication aspects of the installation, those being communication with the arduino, handling html web page requests and bi-directional webSocket communication with users once the page is sent. These three aspects are each handled within the node.js server-side javascript language by three module libraries,  johnny-five (microcontroller messaging), express(serving dynamically generated web-pages) and socket.io (webSockets management). In addition to this a small logging system is used to store user behaviour for later analysis and a database and archiving system exist to store user messages and video archives.
+
+*** Johnny-Five (link)
+
+The Johnny-Five library allows node.js to communicate with the Microcontroller by sending midi messages over the serial bus to the arduino. The requirements for the arduino in this instance are to register any floor sensor button presses, log them and then send an ‘on’ message to the 12v LED strip corresponding to the panel. The second requirement is to also send this message on to the webSocket management system, to be broadcast to all users. The final requirement is to also receive any messages from webSockets that direct the microcontroller to turn its LEDs on and do so. This third requirement enables the arduino to receive messages from remote participants, in this case so that visitors to the web page can control the installations light and sound by hovering over different buttons, simulating in-person participation.
+
+(img 10 liner johnny-five code snippet)
+
+*** express
+
+Users who visit a web page a served a web page from the installations computer. This page contains the current user numbers of the chat room as well as the necessary authentication tokens for them to use the video chat. To provide the dynamic content the express middleware generates the html necessary. In this case the process is relatively simple, with the content being a  largely static page augmented with dynamically generated user tokens and statistics, as well as the last ten chat messages as retrieved from the database.
+
+*** socket.io (link)
+
+The socket.io library manages webSockets providing a more manageable abstraction for dealing with aschronous realtime messages. As the name implies, the library forms the core of the input/output messaging system of the installation by relaying messages in real time between disparate users and the server. The library can therefore manage all aspects of the chat application and user hover actions. Keeping track of users and their states and broadcasting these messages to all participants as well as broadcasting button triggers on the stairs to all website users.
+
+*** Logging
+
+A simple but key aspect is the ability to accurately log events for later analysis and compositional practice.. In this case a user logging on hovering over of standing on a  step are all given a date and time stamp then logged to a text file. Further user monitoring is handled on the client side by cloud based services firebase.io (link) and openTok (link).
+
+*** Database & Archiving
+
+Chat messages are logged to the cloud base fiebse service as they are received. This provides a complete text archive of all messages that can be acessed using an api from anywhere. Allowing the server to send clients the last ten messages to provide context and possibilities for analysis of the data to inform compositions. Similarly the server-side aspects of the openTok real-time-communication for video library offer a convenient way to archive video chat usage, which is then uploaded to a cloud-based storage instance provided by providers such as microsoft azure or any cloud provider that is currently offering discount cloud computing such as amazon ec2.
+
+*** Client Side Web Programming - Chat, Video and Web Audio
+
+
+The web server provides two web pages, one outwardly facing root of the web site, which serves the main client side application, a chat room with real time audio/video communication. The second page (henceforth referred to as the ‘host’ page) is served is at  an undisclosed url that provides audio functionality for the staircase and intended only for use in a scenario where a computer is connected to a webcam, speakers and microphone, although the possibilities of ‘hacking’ the host page is left open due to its publicly accessible address.
+
+The ‘host’ page is primarily designed to contain a web audio API ‘audiocontext’ (link to appendix describing web audio api) that is controlled by webSocket messages to turn gain nodes on and off, a buffer and gain node corresponding to each step. This buffer initially contains a long (8 minutes or more) field recording. As users step on floor sensors or web client users hover over a set of 8 boxes , the corresponding gain node of a stair is un-muted.
+
+For further explanation of the webAudio API system please see appendix 1.
+
+(webAudio context diagram of internal signal flow)
+
+The ‘host’ pages user functionality is minimal and specifically designed around the needs of the installation, providing appropriate responses to websocket messages by raising the gain of audio streams if told to by the server or another client. Despite the possibility of
+
+(Video of ‘host’ page demo showing gain being added on step or user hover)
 
 
 * WRITE Parasite Two
