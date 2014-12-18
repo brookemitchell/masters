@@ -22,15 +22,25 @@ Test: Can I read this.
 
 ** EDIT Networked Experience: - both mode of revealing and identity
 
-   Networked Experience is the term for a 'mode of revealing' that plays a key role in computational experience. It describes how new technologies have afforded new applications for computational power towards actions that previously relied on the time-dependant methods of relaying, processsing and filtering information over time, such as translation, aggregation and archiving.
+   'Networked Experience' is the term for a 'mode-of-revealing' that plays a key role in computational experience. An enourmous amount of computational power is now directed towards the relaying, processsing and filtering of data sets, to be used in methods such as translation, aggregation and archiving.
 
-   The data streams that these techniques rely upon are now able to be processed fast enough to make the experience seem as though it is taking place in real time. The quintessential example often given is Twitter, a near real-time worldwide message archive service, one that curiously has till recently performed poorly as an archiving service but functioned very efficently as a real time message sharing service. Berry describes is as a phenomenological message system [fn:51] because of the mode of thinking about twitter encourages users to describe their experience of a particular moment (with their smartphone) in the most immediate terms possible.
+*************** diff betwen data and information
+*************** END
 
-   However, one of the concerns with the experence is how an alogrithmic process is made to seem  transparent, direct, and natural, as if a staggering level of logistical effort isn't taking place every time I make a google search. This sense of effortless computation is often acieved by careful user-interface choices.
+   The use of computation to expand the function of communications has been ubiquitous since the invention of email.
 
- The experience of real-time networking makes information seem like a vector (or stream ) with a velocity and direction, and one that can be acessed by like, much like turning on a tap. This leads to famous phrases that seem typical of the present such as "all you need is data" [fn:49]. However these data streams also have trajectories, and sources, controlled by physical infrastructure and logistics, controlled by powerful entities.
+   The quintessential example of real time archiving is Twitter, a near real-time worldwide message archive service. One that has till recently performed poorly as an archiving service but functioned efficently as a real time message sharing service.
 
-   The metaphor of 'streaming-forth', thus makes other objects, seem like processors of real time aysncyhronous sytreams of information. Already this can be seen in changing paradigms in computer programming [fn:50], that emphasise the metaphor of piping, whereby modules are connected to trasfer an awaited stream of information. It is as mucha  response to the challenges of dealing with a new paradisgm for the delivery of information s a application of a metaphor that was already in peoples minds.
+Berry describes is as a phenomenological message system[fn:51] because of the mode of thinking about twitter encourages users to describe their experience of a particular moment (with their smartphone) in the most immediate terms possible.
+
+   However, one of the concerns with the experence is how an alogrithmic process is made to seem  transparent, direct, and natural, as if a staggering logistical effort isn't taking place every time I make a google search. This sense of effortless computation is often acieved by careful user-interface choices.
+
+*************** END
+
+
+   Because of this the experience of real-time networking often makes information seem like a vector (or stream ) with a velocity and direction, and one that can be acessed by turning on a tap and directing the flow. The metaphor of 'streaming-forth', thus makes other objects, seem like processors of real time aysncyhronous sytreams of information. Already this can be seen in changing paradigms in computer programming [fn:50], that emphasise the metaphor of piping, whereby modules are connected to trasfer an awaited stream of information. It is as mucha  response to the challenges of dealing with a new paradisgm for the delivery of information s a application of a metaphor that was already in peoples minds.
+
+This leads to famous phrases that seem typical of the present such as "all you need is data" [fn:49]. However these data streams also have trajectories, and sources, controlled by physical infrastructure and logistics, controlled by powerful entities. Like a water company.
 
    Perhaps the best example of the manner in which streaming-beings, as the model for humans to act as is seen is in the expectatons placed on workers in labour relations. Likewise people also begin to see themseles in terms of being 'streaming-beings', both in terms of producing a multitude of real-time information based on behavior (often used for surveillance and interaction studies). Also we are seen as responding in real time to demands placed on us, as seen in 'zero-hour contracts' that call for workers to dynamically respond to changing work hours (rather than beng called upon as with previous contract based systems)
 
