@@ -1,4 +1,6 @@
 #+TODO: WRITE EDIT REVIEW | DONE DELETE
+Computational Ecologies
+Reification and second order materiality
 Test: Can I read this.
 * Intro Quote
 
@@ -52,6 +54,8 @@ This leads to famous phrases that seem typical of the present such as "all you n
    What i am particlarly interested in is mutual real-time meaning making between multiple particpants or kinds of actors.
 
 ** EDIT Digital Aesthetics are Abductive reasoning in practice:- paradigm, goal, paradigmatic epistem
+
+"Under capitalism, cosnnsciousness is shaped and moulded within the frame of identity framing, that is, 'the subsumtion of all particular objects under general definitions and/or unitary systems of concepts" (Held 1997: 202) As a result, the particular is usually disllved into the universal. Today the unitary systems of concepts is supplied by comuputation, and more specifically by the computational categories and total system of computationality, which is increasingly manifested in a meiated 'new' supplied by real time streams.
 
 While networked experience determines our mode of identification and engagement, I beleive that it is computational 'patterning', that has been adopted as our paradigm of what an experience should 'feel' like. It is a paradigm, goal and aesthetic system based on the implementation of the best pattern recognition system currently available to us, abductive reasoning.
 

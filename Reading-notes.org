@@ -136,7 +136,24 @@ These devices also enable the assemblage of new social ontologies and the corres
 
 Drawing from and extendind Heidegger's concepts we might reconstruct his notions of the mode of technicity and its 'challengin-forth' to one where computationality is central and has a classificatory structure we might call 'streaming-forth'. For Heidegger, 'challengin-forth' is understood as a relationship with the world wherby one treatst he world nature, culture etc. as a vailable for extraction, processing and storing as standing reserve. Thus, this data is 'extracted' without the destruction of the other. This data 'exhaustion' process, where I have called 'streaming-forth' is the creation of information from characteristics, properites and social epistemologies regarding teh object under computational analysis.
 
-Streaming forth generates second order information and data to maintain a world which is itself /seen/ and /computationally preocessed/ as flow, but re-articulated within a screeninc form which produces a universe which is increasingly understood as object-orientated and discrete. Collected information is processed together with feedback which creates part of the ecology of computationality. Adorno calls this an ontological moment, that is the emregence of a horizon or constellation of key concepts around a particular historical social formation linked to, in this case, computational capitalism. We can analyse the history of the changing forms of human alienation from nature by theorizing epistemeological questions in relation to socio-economic ethical and political issues. This is crucial in terms of a certan kind of hstorical /forgetting/, and reconstruction in computational categories, and even a forgetting of teh computaitonal as /the/ horizon of thinking. Indeed, for Adorno, reification 'is as much about /forgeting/ certain histories as it is aboit exploitation and preojection' (Schecter 2007: 100).
+Streaming forth generates second order information and data to
+maintain a world which is itself /seen/ and /computationally
+preocessed/ as flow, but re-articulated within a screeninc form which
+produces a universe which is increasingly understood as
+object-orientated and discrete. Collected information is processed
+together with feedback which creates part of the ecology of
+computationality. Adorno calls this an ontological moment, that is the
+emregence of a horizon or constellation of key concepts around a
+particular historical social formation linked to, in this case,
+computational capitalism. We can analyse the history of the changing
+forms of human alienation from nature by theorizing epistemeological
+questions in relation to socio-economic ethical and political
+issues. This is crucial in terms of a certan kind of hstorical
+/forgetting/, and reconstruction in computational categories, and even
+a forgetting of teh computaitonal as /the/ horizon of
+thinking. Indeed, for Adorno, reification 'is as much about
+/forgeting/ certain histories as it is aboit exploitation and
+preojection' (Schecter 2007: 100).
 
 Computational experience within capitalism is constitutive of this ontology. Additionally, computational devices demonstrate a phenomenological experience of computation, that of the rapid oscillation between the categories Heidegger identified as /Vorhandenheit/Zuhandenheit/ (present-at-hand/ready-to-hand) - and this I call 'glitch' ontology. Thus the computational device constranly changes from being part of the everyday flow of reality, ready-to-hand and the objective 'paused' experience familiar from science, which he calls unready-to-hand, in quick alternation. As Weiser argued,
 
