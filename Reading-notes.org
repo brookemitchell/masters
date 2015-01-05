@@ -159,7 +159,8 @@ Computational experience within capitalism is constitutive of this ontology. Add
 
 ~Such a disappearance, [in readiness-to-hand] is a fundamental consequence not of technology, but of human psychology. Whenever people learn something sufficiently well, they cease to be aware of it. When you look at a street sign, for example, you absorb its information without conscious performing the act of reading. Computer scientist, economist , and Nobelist herb SImon calls this phenomenon "compiling"; philosopher Michael calls ti the "tacit dimension"; psychologist TK Gibson calls it "visual invariants"; philosophers Georg Gadamer and Martin Heidegger call it "the horizon" and the "ready-to-hand", John Seely Brown at PARC calls it the "periphery". All say, in essence, thato only when things disappear in this was are we freeed to use them without thinking and so to focus beyond them on new goals (Weiser 1991:78)
 ** 98
-
+** 126
+Abduction - one could /abduce/ A from B if A is sufficient (or nearly sufficient) but not necessary for B.
 
 * Science and the Story that We Need by Neil Postman January 1997[fn:3]
  The principal spiritual problem confronting those of us who live in a technological age was spoken of some years ago in a prophetic poem by Edna St. Vincent Millay, in her collection Huntsman, What Quarry?
