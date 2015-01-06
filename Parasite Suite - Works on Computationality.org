@@ -2,57 +2,48 @@
 Computational Ecologies
 Reification and second order materiality
 
-* Parasite Suite - Works on the use of social-computing in art.
+* Parasite Suite - Works of social-computing and art.
 
-* Abstract
+* EDIT Abstract
 
-  The project titled 'Parasite Suite' is about exploring the potential of new kinds of social engagements made possible with the use of computers. The goal of the project is create sonically affective art works that elicit considerations about the potentials and pitfalls caused in the mediation of social engagement by the technological metaphor of 'computation'.
+  The project titled 'Parasite Suite' is about exploring the types of social enagement made likely, and open to manipulation through the use of networked computers. The project aims to consider both the negative and positive and negative aspects of social computing through sonically engaged art works, with the aim of presenting the materiality of computational processes and algorithmsm, as well as their attendant power heirachies, 'as they are' at present.
 
-  The method to achieve this is to delve into some of these legitimate concerns by making transparent some of the processes, such as data-logging, algorithmic extraction of large data sets and sensory information and algorithmic surveillance and using them as key elements of the art works.
+  The methods to achieve this are to delve into legitimate concerns about the current social-computing climate, making transparent some of the processes, such as data-logging, algorithmic metadata extraction from large data sets, sensory information and algorithmic surveillance and using them as key elements of the art works.
 
-  By sonically and visually 'reifiying' the social manipulations that machines can introduce and altering their usage beyond what is traditionally seen in surveillance, such as exploring the concept of 'sousveilance' it is hoped that... I can use 'social-computing' as a productive concept to explore the contours of other technologies taht use similar technologies we enage with on a constant basis.
+  By sonically and visually 'reifiying' the social manipulations that machines can introduce, altering their usage beyond common scenarios it is hoped that I can use 'social-computing' as a productive concept to explore the contours of the political and economic aspects of modern computing.
+
+
 * EDIT Introduction
 ** Quotes
 
+   We know very little about the ways in which software is socially created, the nature of software itself; how discourse, practices, and knowledge get translated into algorithms and code; the geographies and political economy of software development; how software is embedded into various social systems; how software applications work with each other to create complex assemblages that work within and across scales; the power wielded through software's "secondary agency"; and how software alternativly modulates the production production of space and transforms the nature of governance.[fn:1]
+
    There is evidence that people naturally respond to computers as if they were people. When they work well, we think of them as teammates, and when they are obstinate or rude, we respond to them the same way we respond to rude, obstinate people (Reeves and Nass, The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places). [fn:2]
 
-   We know very little about the ways in which software is socially created, the nature of software itself; how discourse, practices, and knowledge get translated into algorithms and code; the geographies and political economy of software development; how software is embedded into various social systems; how software applications work with each other to create complex assemblages that work within and across scales; the power wielded through software's "secondary agency"; and how software alternativly modulates the production production of space and transforms the nature of governance.[fn:1]
 
 ** EDIT Networked Experience and Digital Asethetics
 
-   Parasite Suite is collection of socially-orientated art works exploring the role of technology in human relations. The works are inspired by anxieties about technology, now that much of computerisation of relations is normalized as a constant in the lives of most beings. The works particularly focus on concerns about government and institutional use of surveillance. The works are based on stuides toward a critical theory of the digital, works of information theory, as well as works by composers with an interest in the relationship between technology and society =such as...=. The project is realised as a set of installations that consider the contour of social engagements for those contending with a 'computational' mindset, a neologism which will be described following.
+   Parasite Suite is collection of socially-orientated art works exploring the role of technology in human relations. The works are inspired by anxieties about technology, now computerised relations are normal in the lives of most beings. The works particularly focus on concerns about government and institutional use of surveillance. Inspirations include critical theories of the digital[fn:43] , as well as works by composers and artists with an interest in the relationship between technology and society =such as...= . The project is realised as a set of installations that consider the types of social engagements for those entertaining a 'computational' mindset, a neologism which will be described.
 
-    The notion of a 'computational' mindset is concept introduced by David Berry[fn:42],  is a continuation of the idea of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology"[fn:3]. 'Enframing' describes how technology mediates our engagements with the world, but also how qualities of a technology are adopted as metaphors for other sytems, paticularly economic and social. Furthermore, technology has a 'mode-of-revealing'[fn:4] that can import influence over both individuals and societies attitude to the world. In Hedidegger's description, 'enframing' limits understanding of the world, his suggested remedy to this is to limit the extent to which we treat technolgy as a means to mastery of a domain, which allows the use of a technnology to become an end in itslef.[fn:5]
+    The notion of a 'computational' metaphor is concept introduced by David Berry[fn:42] The computational is an way of being in which the ordering of the world and concepts are developed withing the concepts of metaphors derived from the mediums which predominate interaction, in this case networked computer devices. The concept owes much to the work of Neil Postman, Mashall Mcluhan and is especially is a continuation of the idea of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology"[fn:3].
 
-    In this sense we  are reminded of our symbiotic, yet parasitic relationship with technology, we see it as a way to advance understanding, and yet doing so dominates our experiences and potentials. As one of the goals of software seems to be to adopt a simulacrum of 'realness' of the process it is imitating[fn:6], though the use of design or organisation choices. Eventually a sucessful technology can  'dissappear', becoming an unacknowledged part of all experience. =Go on.=
+ 'Enframing' describes how technology mediates our engagements with the world, but also how qualities of a technology are adopted as metaphors for other sytems, paticularly economic and social. Furthermore, technology has a 'mode-of-revealing'[fn:4] that can import influence over both individuals and societies attitude to the world. In Hedidegger's description, 'enframing' limits understanding of the world, his suggested remedy to this is to limit the extent to which we treat technolgy as a means to mastery of a domain, which allows the use of a technnology to become an end in itslef.[fn:5]
 
-    Berry writes that Heidegger's notion of enframing choses electricity and meta-physics as its two technology metaphors to show as examples. Concepts like 'standing-reserve',  (a mobilistation of labour or capitial waiting to be activiated once the correct connections  are made) are closely related to the concept like voltage potential. Berry's notion of 'computationality' as a way of being, is corresponding based on metaphors from networking and software engineering. I hope to employ computationality as a method to analyse engagements and make conceptual, material and deisgn choices as approachable as possible for analysis. I have attempted this by designing engagments that appear to emphasise technicity but on participant involvement social engagement over-rides technological mediation of a social scenario.
+    In this sense we  are reminded of our symbiotic, yet parasitic relationship with technology; we see it as a way to advance understanding, and yet doing so dominates our experience and potential. As one of the goals of software is to be to acheive a simulacrum of 'realness' of the process it is imitating to the point of being indistinguishable, though the use of design or organisation choices.[fn:6] Eventually a sucessful technology can 'dissappear', becoming an unacknowledged part of all experience, this is particularly the case with immitative and surveillant techniques of computation, and it is these I wish to focus on returning to appreciable froms of representation for this project, throught the use of audio visual manipulations based around the notion of exploring parasitic relations.
 
-    I wish to ecnourage critical approaches to thinking about and responding to digital culture beyond the purely technnical spheres in which it is often discussed. By identifying the elements that make up the terminology of computationality, in a similar manner to how specific technology of the 20th century informed the concept of 'enframing', it is possible to see how a society 'thinks about' itself in regard to technology. As described by David Berry, the seem to be two dominant metaphors that have emerged of late. They are the idea of 'the stream', and the rationality of the ' abductive pattern', which I feel describes the sensation and experience of computational systems that I wish to explore.
+    Berry writes that Heidegger's notion of enframing choses electricity and meta-physics as its two technology metaphors to show as examples. Concepts like 'standing-reserve',  (a mobilistation of labour or capitial waiting to be activiated once the correct connections  are made) are closely related to the concept like voltage potential. Berry's notion of 'computationality' as a way of being, is corresponding based on metaphors from networking and software-engineering. I hope to employ computationality as a means to analyse engagements and make conceptual, material and deisgn choices as approachable as possible for analysis. I have attempted this by designing engagments that appear to emphasise technicity but are reliant on participant involvement and wider social engagement, which engages with the technological mediation of a social scenario.
+
+    Encourageing critical responses to digital culture beyond the purely technnical spheres, while exploring the methods and materiality of the technical mediums in common use is one of the goals. As influenced by the technology involved, there seem to be two dominant metaphors that have emerged of late; the idea of 'the stream', starting with data and transferring itself into both consciousness and life-force, and the rationality of the ' abductive pattern', a logic of distinction and pattern recogniton.
+
+    I do not wish to insist that this particular kind of digitality is inescapable, indeed the projects seek to subverty and possbily transcend this through the use of novel types of communicationa and synthesis that imply continuous forms. However the works also seek to immerse themselves deeply in the conditions of the present to consider their materiality. By identifying the elements that make up the terminology of computationality, in a similar manner to how specific technology of the 20th century informed the concept of 'enframing', it is possible to see how a society 'thinks about' itself in regard to technology.
 
 ** EDIT Networked Experience: - both mode of revealing and identity
 
-   'Networked Experience' is the term for a 'mode-of-revealing' that plays a key role in computational experience. An enourmous amount of computational power is now directed towards the relaying, processsing and filtering of data sets, to be used in methods such as translation, aggregation and archiving.
+   'Networked Experience' is the term for a 'mode-of-revealing' that plays a key role in computational experience. An enourmous amount of computational power is now directed towards the relaying, processsing and filtering of data sets, to be used in methods such as translation, aggregation and archiving and the use of computation to expand the function of communications has been ubiquitous since the invention of email. The quintessential example of real time archiving is Twitter, a near real-time worldwide message archive service. One that has till recently performed poorly as an archiving service but functioned efficently as a real time message sharing service. Berry describes is as a phenomenological message system[fn:7] because of the mode of thinking about twitter encourages users to describe their experience of a particular moment (with their smartphone) in the most immediate terms possible.
 
-*************** diff betwen data and information
-*************** END
+   However, one of the concerns with the experence is how an alogrithmic process is made to seem  transparent, direct, and natural, as if a staggering logistical effort isn't taking place every time I make a google search. This sense of effortless computation is often acieved by careful user-interface choices. Because of this the experience of real-time networking often makes information seem like a vector (or stream ) with a velocity and direction, and one that can be acessed by turning on a tap and directing the flow. The metaphor of 'streaming-forth', thus makes other objects, seem like processors of real time aysncyhronous sytreams of information. Already this can be seen in changing paradigms in computer programming [fn:8], that emphasise the metaphor of piping, whereby modules are connected to trasfer an awaited stream of information. It is as mucha  response to the challenges of dealing with a new paradisgm for the delivery of information s a application of a metaphor that was already in peoples minds.
 
-   The use of computation to expand the function of communications has been ubiquitous since the invention of email.
-
-   The quintessential example of real time archiving is Twitter, a near real-time worldwide message archive service. One that has till recently performed poorly as an archiving service but functioned efficently as a real time message sharing service.
-
-Berry describes is as a phenomenological message system[fn:7] because of the mode of thinking about twitter encourages users to describe their experience of a particular moment (with their smartphone) in the most immediate terms possible.
-
-   However, one of the concerns with the experence is how an alogrithmic process is made to seem  transparent, direct, and natural, as if a staggering logistical effort isn't taking place every time I make a google search. This sense of effortless computation is often acieved by careful user-interface choices.
-
-*************** END
-
-
-   Because of this the experience of real-time networking often makes information seem like a vector (or stream ) with a velocity and direction, and one that can be acessed by turning on a tap and directing the flow. The metaphor of 'streaming-forth', thus makes other objects, seem like processors of real time aysncyhronous sytreams of information. Already this can be seen in changing paradigms in computer programming [fn:8], that emphasise the metaphor of piping, whereby modules are connected to trasfer an awaited stream of information. It is as mucha  response to the challenges of dealing with a new paradisgm for the delivery of information s a application of a metaphor that was already in peoples minds.
-
-This leads to famous phrases that seem typical of the present such as "all you need is data" [fn:9]. However these data streams also have trajectories, and sources, controlled by physical infrastructure and logistics, controlled by powerful entities. Like a water company.
-
-   Perhaps the best example of the manner in which streaming-beings, as the model for humans to act as is seen is in the expectatons placed on workers in labour relations. Likewise people also begin to see themseles in terms of being 'streaming-beings', both in terms of producing a multitude of real-time information based on behavior (often used for surveillance and interaction studies). Also we are seen as responding in real time to demands placed on us, as seen in 'zero-hour contracts' that call for workers to dynamically respond to changing work hours (rather than beng called upon as with previous contract based systems)
+This leads to famous phrases that seem typical of the present such as "all you need is data" [fn:9]. However these data streams also have trajectories, and sources, controlled by physical infrastructure and logistics, controlled by powerful entities. Like a water company. Perhaps the best example of the manner in which streaming-beings, as the model for humans to act as is seen is in the expectatons placed on workers in labour relations. Likewise people also begin to see themseles in terms of being 'streaming-beings', both in terms of producing a multitude of real-time information based on behavior (often used for surveillance and interaction studies). Also we are seen as responding in real time to demands placed on us, as seen in 'zero-hour contracts' that call for workers to dynamically respond to changing work hours (rather than beng called upon as with previous contract based systems)
 
    The experience of considering oneself both a recipient and generator of the 'stream', is one of the defining characterstics of modern experience. If participants are indeed ordering their world in response to 'streams,' then typical goals include processing information, performing algorithmic transformations, and searching for ways to filter information to make it /computeable/, which leads into to our second quality of computationality, recognising patterns through abductive reasoning.
 
@@ -61,7 +52,7 @@ This leads to famous phrases that seem typical of the present such as "all you n
 
    What i am particlarly interested in is mutual real-time meaning making between multiple particpants or kinds of actors.
 
-** EDIT Digital Aesthetics are Abductive reasoning in practice:- paradigm, goal, paradigmatic epistem
+** EDIT Abductive reasoning in practice Digital Aesthetics are :- paradigm, goal, paradigmatic epistem
 
 "Under capitalism, cosnnsciousness is shaped and moulded within the frame of identity framing, that is, 'the subsumtion of all particular objects under general definitions and/or unitary systems of concepts" (Held 1997: 202) As a result, the particular is usually disllved into the universal. Today the unitary systems of concepts is supplied by comuputation, and more specifically by the computational categories and total system of computationality, which is increasingly manifested in a meiated 'new' supplied by real time streams.
 
@@ -251,6 +242,7 @@ how to portray this rich and often conflicted history in a word is a difficult t
 ** 'Streaming-forth' and Time based Art
     if installation is not a processional peice, w/ beginning and end, where does that situate sound? digital influence. is adaptive/ generative sound still time based? is it more real time and responsive?
 
+
 * WRITE Parasite One
 ** Summary - Inspiration for Work.
 
@@ -355,22 +347,14 @@ The ‘host’ pages user functionality is minimal and specifically designed aro
 
   The end goal is the hope tat users will envisage teh ways in which existing social engagements can be 're-tooled'. The 'hack' of technology is often not highly technical, instead it is a re-visioning of what a technology could be useful for.
 
-* WRITE Extra Notes
-which a product is designed, developed and organised, is often
-specific to the workplace culture, organisation and mode of production
-under which it originated. these kind of influences are likely to only
-deepen rathr than disappear.[fn:40] a classic text describing this
-scenario is the study by x..
-
-   Physical possibilities. Design.
+communications technology and musical practice hold much in the way of a common history, converging and
 
 the following works are a study in the relationship and possibilities in the spaces between communication technology and artistic practice.
-
-communications technology and musical practice hold much in the way of a common history, converging and
 
 on a personal level one piece of anecdotal evidence that i have noticed is the large number of programmers and ict (informatin communicatons technolgy) workers that are musicians, composers or disc.
 
 The other piece of anecdotal evidence is the predisposition for composers toward computer programming and electronics.
+* WRITE Extra Notes
 
 *** Look at study on Links
 
@@ -471,3 +455,5 @@ both combine into set of qualities
 [fn:41]
 
 [fn:42] 'Critical Theory and the Digital'
+
+[fn:43] Theories of the Digital
