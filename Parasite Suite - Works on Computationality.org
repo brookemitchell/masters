@@ -2,32 +2,30 @@
 Computational Ecologies
 Reification and second order materiality
 
-* Parasite Suite - Works of social-computing and art.
+* Parasite Suite - Exploring social-computing and art.
+
 
 * EDIT Abstract
 
-  The project titled 'Parasite Suite' is about exploring the types of social enagement made likely, and open to manipulation through the use of networked computers. The project aims to consider both the negative and positive and negative aspects of social computing through sonically engaged art works, with the aim of presenting the materiality of computational processes and algorithmsm, as well as their attendant power heirachies, 'as they are' at present.
-
-  The methods to achieve this are to delve into legitimate concerns about the current social-computing climate, making transparent some of the processes, such as data-logging, algorithmic metadata extraction from large data sets, sensory information and algorithmic surveillance and using them as key elements of the art works.
-
-  By sonically and visually 'reifiying' the social manipulations that machines can introduce, altering their usage beyond common scenarios it is hoped that I can use 'social-computing' as a productive concept to explore the contours of the political and economic aspects of modern computing.
-
+  'Parasite Suite' is a collection of works exploring the usage art works about social-computing, computational systems focused on social behavior (hencesforth referred to as 'computationality'). The project aims to consider theoretical aspects of social-computing through sonically engaged art works, with the aim of presenting the materiality of computational processes and algorithms, as well as their attendant power heirachies. The intention is to document some legitimate concerns about the current social-computing climate by making transparent some of the processes and techniques to audiences that might be less familiar. Techniques such as data-logging, metadata extraction from data sets, sensory information and algorithmic surveillance, using these as key elements of the art works. By sonically and visually reifiying the social manipulations that machines can introduce and employing their usage beyond common scenarios, it is hoped that I can use social-computing as a productive concept to explore the contour of the political and economic aspects of modern computing.
 
 * EDIT Introduction
 ** Quotes
+
+"Social Computing" refers to systems that support the gathering, representation, processing, use, and dissemination of information that is distributed across social collectivities such as teams, communities,organizations, and markets. Moreover, the information is not "anonymous" but is significant precisely because it is linked to people, who are in turn linked to other people.[fn:44]
 
    We know very little about the ways in which software is socially created, the nature of software itself; how discourse, practices, and knowledge get translated into algorithms and code; the geographies and political economy of software development; how software is embedded into various social systems; how software applications work with each other to create complex assemblages that work within and across scales; the power wielded through software's "secondary agency"; and how software alternativly modulates the production production of space and transforms the nature of governance.[fn:1]
 
    There is evidence that people naturally respond to computers as if they were people. When they work well, we think of them as teammates, and when they are obstinate or rude, we respond to them the same way we respond to rude, obstinate people (Reeves and Nass, The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places). [fn:2]
 
 
-** EDIT Networked Experience and Digital Asethetics
+** EDIT Introduction
 
-   Parasite Suite is collection of socially-orientated art works exploring the role of technology in human relations. The works are inspired by anxieties about technology, now computerised relations are normal in the lives of most beings. The works particularly focus on concerns about government and institutional use of surveillance. Inspirations include critical theories of the digital[fn:43] , as well as works by composers and artists with an interest in the relationship between technology and society =such as...= . The project is realised as a set of installations that consider the types of social engagements for those entertaining a 'computational' mindset, a neologism which will be described.
+   Parasite Suite is collection of socially-orientated art works inspired by anxieties about technology, now computerised relations are normal in the lives of most beings. The works particularly focus on concerns about government and institutional use of surveillance. References include critical theories of the digital[fn:43] , as well as works by composers and artists with an interest in the relationship between technology and society =such as...= . The project is realised as a set of installations that consider the types of social engagements open to exploration for those entertaining a 'computational' mindset, a neologism which will be described.
 
-    The notion of a 'computational' metaphor is concept introduced by David Berry[fn:42] The computational is an way of being in which the ordering of the world and concepts are developed withing the concepts of metaphors derived from the mediums which predominate interaction, in this case networked computer devices. The concept owes much to the work of Neil Postman, Mashall Mcluhan and is especially is a continuation of the idea of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology"[fn:3].
+    The notion of a 'computational' metaphor is concept introduced by David Berry in his book 'Critical Theory and the Digital'.[fn:42] The computational is a way of being, where the ordering of the world is influenced by metaphors derived from the mediums which predominate interaction; in this case networked computer devices. The concept owes much to the work of Neil Postman, Mashall Mcluhan and is especially is a continuation of the idea of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology"[fn:3]. 'Enframing' describes how technology mediates our engagements with the world, but also how qualities of a technology are adopted as metaphors for other sytems, paticularly economic and social.
 
- 'Enframing' describes how technology mediates our engagements with the world, but also how qualities of a technology are adopted as metaphors for other sytems, paticularly economic and social. Furthermore, technology has a 'mode-of-revealing'[fn:4] that can import influence over both individuals and societies attitude to the world. In Hedidegger's description, 'enframing' limits understanding of the world, his suggested remedy to this is to limit the extent to which we treat technolgy as a means to mastery of a domain, which allows the use of a technnology to become an end in itslef.[fn:5]
+    Technology has a 'mode-of-revealing'[fn:4] that can import influence over both individuals and a societies attitude to the world. In Hedidegger's description, 'enframing' allows a technology to gain widespred understanding, but also limits alternate understandings of the world, which is a dilemna to be cautious of.  Heidegger's suggested remedy to this is to limit the extent to which we treat technolgy as a means to mastery of a domain, which allows the use of a technnology to become an end in itslef, however that is more esasily said than done when technology often aspires to simulacrum, abstraction and transparency.[fn:5]
 
     In this sense we  are reminded of our symbiotic, yet parasitic relationship with technology; we see it as a way to advance understanding, and yet doing so dominates our experience and potential. As one of the goals of software is to be to acheive a simulacrum of 'realness' of the process it is imitating to the point of being indistinguishable, though the use of design or organisation choices.[fn:6] Eventually a sucessful technology can 'dissappear', becoming an unacknowledged part of all experience, this is particularly the case with immitative and surveillant techniques of computation, and it is these I wish to focus on returning to appreciable froms of representation for this project, throught the use of audio visual manipulations based around the notion of exploring parasitic relations.
 
@@ -37,9 +35,20 @@ Reification and second order materiality
 
     I do not wish to insist that this particular kind of digitality is inescapable, indeed the projects seek to subverty and possbily transcend this through the use of novel types of communicationa and synthesis that imply continuous forms. However the works also seek to immerse themselves deeply in the conditions of the present to consider their materiality. By identifying the elements that make up the terminology of computationality, in a similar manner to how specific technology of the 20th century informed the concept of 'enframing', it is possible to see how a society 'thinks about' itself in regard to technology.
 
-** EDIT Networked Experience: - both mode of revealing and identity
+** EDIT Networked Experience
 
-   'Networked Experience' is the term for a 'mode-of-revealing' that plays a key role in computational experience. An enourmous amount of computational power is now directed towards the relaying, processsing and filtering of data sets, to be used in methods such as translation, aggregation and archiving and the use of computation to expand the function of communications has been ubiquitous since the invention of email. The quintessential example of real time archiving is Twitter, a near real-time worldwide message archive service. One that has till recently performed poorly as an archiving service but functioned efficently as a real time message sharing service. Berry describes is as a phenomenological message system[fn:7] because of the mode of thinking about twitter encourages users to describe their experience of a particular moment (with their smartphone) in the most immediate terms possible.
+   'Networked-Experience' is the term for the kind of sensory expectations and engagements with the world that develop when we delve into a world of high speed data. These expectations are based on the previous experiences of the 'revealing' of a technologically infused natural world.
+
+
+ 'Streaming-forth' is the characteristic 'mode-of-revealing' for networked experience.
+
+A 'mode-of-revealing' is the method by which a technology 'unlock, transform, store and distribute the resources that nature has to offer.'
+
+ An enourmous amount of computational power is now directed towards the relaying, processsing and filtering of data sets, to be used in methods such as translation, aggregation, advertising and archiving. The use of computation to expand the function of communications has been ubiquitous since the invention of email.
+
+The quintessential example of real time production and archiving is Twitter, a near real-time worldwide message archive service. One that has till recently performed poorly as an archiving service but functioned efficently as a real time message sharing service.
+
+Berry describes is as a phenomenological message system[fn:7] because of the mode of thinking about twitter encourages users to describe their experience of a particular moment (with their smartphone) in the most immediate terms possible.
 
    However, one of the concerns with the experence is how an alogrithmic process is made to seem  transparent, direct, and natural, as if a staggering logistical effort isn't taking place every time I make a google search. This sense of effortless computation is often acieved by careful user-interface choices. Because of this the experience of real-time networking often makes information seem like a vector (or stream ) with a velocity and direction, and one that can be acessed by turning on a tap and directing the flow. The metaphor of 'streaming-forth', thus makes other objects, seem like processors of real time aysncyhronous sytreams of information. Already this can be seen in changing paradigms in computer programming [fn:8], that emphasise the metaphor of piping, whereby modules are connected to trasfer an awaited stream of information. It is as mucha  response to the challenges of dealing with a new paradisgm for the delivery of information s a application of a metaphor that was already in peoples minds.
 
@@ -457,3 +466,5 @@ both combine into set of qualities
 [fn:42] 'Critical Theory and the Digital'
 
 [fn:43] Theories of the Digital
+
+[fn:44]  From "Social Computing", introduction to Social Computing special edition of the Communications of the ACM, edited by Douglas Schuler, Volume 37 , Issue 1 (January 1994), Pages: 28 - 108
