@@ -12,6 +12,8 @@ Reification and second order materiality
 
   I argue we need to recognise that technology has two ways it affects our experiences. It encourages relationships with the world based on its own metaphors (particularly its modes of information transfer), and it encourages action and receptions towards the world based on its own systems of recognition and reasoning. These two systems, which I term 'Networked Experience' and 'Digital Aeshetics', are inescapable aspects of the instrumental use of these technologies. However their social and cultural limitations need to be recognised and expanded upon if we are to have any hope of ameliorating the 'false promises of the digital revolution', and develop  the more radical potentials of these tools. My small gesture is to reifiy the social manipulations that machines can introduce, and employ them beyond common scenarios. It is hoped that I can use social-computing as a productive concept to explore and critique the contour of the political and economic aspects of modern computing.
 
+Following Heideggerian theory, I belive that a fuller study of the humanistic aspects of social-computing contains the aspects of its own reconsideration.
+
   usefullness, awareness of socal interaction n computing
 * EDIT Introduction
 ** Quotes
@@ -26,16 +28,9 @@ Reification and second order materiality
 
 ** EDIT Introduction
 
-   Parasite Suite takes common anxieties about technology as a starting point. Particularly concerns about government and institutional use of surveillance, now much of the sublimity and amazement of networked computing has worn off. References include critical theories of the digital,[fn:43] as well as works by composers and artists with an interest in the relationship between technology and society =such as...= .
+   Parasite Suite takes common anxieties about technology as a starting point. Particularly concerns about government and institutional use of surveillance, now that the sublimity and amazement of networked computing has given way to the ubiquitous. References for the works include critical theories of the digital,[fn:43] as well as works by composers and artists with an interest in the relationship between technology and society =such as...= .
 
-   The project is realised as a set of four works that consider four common types of social engagement open to exploration: a surveillant installation, a musical excerpt, an interactive tool, and a website.
-
-   The works considers the notion we exist with a 'computational' mode of being. The term is a neologism, describing an ordering of the world derived from the metaphors of computer design and programming. The term was introduced by David Berry in his book /Critical Theory and the Digital/.[fn:42]In compuationality, the metaphors of computer useage, such as terms of description in terms of databses, programming paradigms, data transfer mechanisms and hardware design, develop serious influence over the attitudes and possibilities for further development.
-
-
- At present, these metaphors often represent two types, as analogies about streaming and patterned reasoning.
-
- predominate production and interaction , in this case networked computer devices. The concept owes much to the idea of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology"[fn:3], with shades of the work of Neil Postman and Mashall Mcluhan.
+   The project is realised as a set of four works that consider four social engagements: a surveillant installation, a musical excerpt, an interactive tool, and a website. The works considers the notion we exist with a 'computational' mode of being. The term is a neologism, describing an ordering of the world derived from the metaphors of computer design and programming. The term was introduced by David Berry in his book /Critical Theory and the Digital/.[fn:42] Compuationality is a scenario where the metaphors of computer useage, such as terms deriving databses, programming paradigms, data transfer mechanisms and hardware design, develop serious influence over the attitudes and possibilities for further development. At present, these metaphors often represent two types, as analogies about streaming and patterned reasoning. The concept owes much to the idea of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology"[fn:3], with shades of the work of Neil Postman and Mashall Mcluhan.
 
 'Enframing' describes how technology can immerse itself so deeply into our lives that its qualities become abstraced mediators of all aspects of society and life. Heidegger uses the example of how hydro-electricity has changed attitudes to the Rhine River from... =Go into Rhine example, give own= Enframing depends upon a concealment of the abstraction of the real that is taking place. Heidegger describes two kinds of concealment, the first is the abstraction of machinic process that allows the technology to be used or capitalise on other technologies, this is often seen in music composition and software design where we abstract complexity or use a software library to focus on a new or previously unreachable area.
 
