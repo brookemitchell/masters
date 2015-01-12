@@ -31,6 +31,8 @@ Reification and second order materiality
 *************** END
 
 *************** EDIT 4
+Enframing - ‘sets upon man to order the real as standing-reserve’ (1977, p. 19)
+
 'Enframing' is Heidegger's term for the essence of modern technology. Enframing describes a danger in modern technologies parasitic method for the revealing of truth. In the classic description truth is revealed as a reserve of energy, a kind of technological potential, in tune with the technical paradigms and values of the time (named in Heidegger's terms as 'standing reserve'). We can do nothing about the arrangement of enframing or its influence, it is part to the technology, we can only consider how we will respond to it.[fn:50] =Examples?=
 
 The mechanics of enframing are dependant on two kinds of concealment, the first is the abstraction of machinic process that allows the technology to be used or capitalise on other technologies, this is often seen in music composition and software design where we abstract complexity or use a software library to focus on a new or previously unreachable area. There is then a second kind of concealment, which Heidegger describes as 'concealment of the concealment'[fn:48], it is the taking for granted of a technological abstraction or tool. The first abstraction is treated as a given, or as its own kind of truth, to the point of immateriality, such that the technological underpinnings and social epoch are ignored or treated as natural. This second act of concealment is regarded as more insidious, unique to modern technology, and most importantly able to be repudated thorugh awareness.
