@@ -4,9 +4,9 @@ Reification and second order materiality
 
 * Parasite Suite - Exploring social-computing and art.
 
-* EDIT Abstract
+** REVIEW Abstract
 
-  'Parasite Suite' is a collection of works that use social-computing as artistic medium. Using sonically engaged art works, the project documents legitimate concerns about social-computing while playfully exploring the systems that produce them. By using social scenarios as a method to explore computation, the project aims to consider the materiality of computational abstractions, as well their attendant power heirachies. The project begins by using some common social-computing processes and techniques, like data-logging, metadata extraction, computer vision and algorithmic surveillance, in novel settings. These new settings and social maipulations hope to allow exploration of the historical use and influences behind these computation techniques. It can be shown that there are many unexplored or neglected possibilieties for creative exploration within computation, as well as limiting biases against certain types of creative use or technical manipulation for specific cultural instances when we privelege the digital.
+'Parasite Suite' is a collection of works that use social-computing as artistic medium. Using sonically focused art works, the project documents legitimate concerns about social-computing while playfully exploring the systems that produce them. Using social scenarios to explore computation, the project aims to consider the materiality of computational abstractions, as well their attendant power heirachies. The project uses the art gallery as a setting for common social-computing processes and techniques, such as data-logging, metadata extraction, computer vision and algorithmic surveillance. These scenarios and social maipulations hope to provoke consideration of the historical use and influences behind these computation techniques. It can be shown that there are many unexplored or neglected possibilities within computation due to cultural bias and lack of reflexivity about the medium.
 
   I wish to explore the phenomenological and aesthetic aspects of compuation.
 
@@ -15,10 +15,12 @@ Reification and second order materiality
 Following Heideggerian theory, I belive that a fuller study of the humanistic aspects of social-computing contains the aspects of its own reconsideration.
 
   usefullness, awareness of socal interaction n computing
+
 * EDIT Introduction
 ** Quotes
 
 "Social Computing" refers to systems that support the gathering, representation, processing, use, and dissemination of information that is distributed across social collectivities such as teams, communities,organizations, and markets. Moreover, the information is not "anonymous" but is significant precisely because it is linked to people, who are in turn linked to other people.[fn:44]
+** EDIT Quotes
 
    We know very little about the ways in which software is socially created, the nature of software itself; how discourse, practices, and knowledge get translated into algorithms and code; the geographies and political economy of software development; how software is embedded into various social systems; how software applications work with each other to create complex assemblages that work within and across scales; the power wielded through software's "secondary agency"; and how software alternativly modulates the production production of space and transforms the nature of governance.[fn:1]
 
@@ -32,15 +34,28 @@ Following Heideggerian theory, I belive that a fuller study of the humanistic as
 
    The project is realised as a set of four works that consider four social engagements: a surveillant installation, a musical excerpt, an interactive tool, and a website. The works considers the notion we exist with a 'computational' mode of being. The term is a neologism, describing an ordering of the world derived from the metaphors of computer design and programming. The term was introduced by David Berry in his book /Critical Theory and the Digital/.[fn:42] Compuationality is a scenario where the metaphors of computer useage, such as terms deriving databses, programming paradigms, data transfer mechanisms and hardware design, develop serious influence over the attitudes and possibilities for further development. At present, these metaphors often represent two types, as analogies about streaming and patterned reasoning. The concept owes much to the idea of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology"[fn:3], with shades of the work of Neil Postman and Mashall Mcluhan.
 
-'Enframing' describes how technology can immerse itself so deeply into our lives that its qualities become abstraced mediators of all aspects of society and life. Heidegger uses the example of how hydro-electricity has changed attitudes to the Rhine River from... =Go into Rhine example, give own= Enframing depends upon a concealment of the abstraction of the real that is taking place. Heidegger describes two kinds of concealment, the first is the abstraction of machinic process that allows the technology to be used or capitalise on other technologies, this is often seen in music composition and software design where we abstract complexity or use a software library to focus on a new or previously unreachable area.
+*************** WRITE 1 Social Computing is...
+/"Social Computing" refers to systems that support the gathering, representation, processing, use, and dissemination of information that is distributed across social collectivities such as teams, communities,organizations, and markets. Moreover, the information is not "anonymous" but is significant precisely because it is linked to people, who are in turn linked to other people.[fn:44]/
+*************** END
 
- The second kind of concealment, which Heidegger describes as 'concealment of the concealment'[fn:48], is when the first abstraction is treated as given, or truth, to the point of immateriality. Such that the technological underpinnings are ignored or treated as natural. This second act of concealment is regarded as more insidious, and unique to modern technology in Heideggers account.
+*************** EDIT 2
+   Parasite Suite takes common anxieties about these technological systems as a  starting point, particularly concerns about the use of surveillance, now much of the sublimity and amazement of networked computing has worn off. References include critical theories of the digital,[fn:43] as well as works by composers and artists with an interest in the relationship between technology and society =such as..., xenakis, polish guy, herndon= . I believe that there are phenomenological and aesthetic aspects of compuation that tend to be self-reinforcening, deepening the values that precipitated their own development, to the exlusion of other possibilities. This I term a kind of 'parasitism', where technology invites itself as a social participant in all kinds of technical negotiations. I argue we need to recognise that technology encourages relationships with the world based on its own metaphors (particularly its modes of information transfer), that encouraging thought and engagement based on its own systems of recognition and reasoning. Appreciating this parasitic reltionship with technology, as both hindrance and tool, is the first step in developing new relationships with technology.
+*************** END
+
+*************** EDIT 3
+   The project is realised as a set of four works that explore social-computing: an installation, an interactive tool, a musical piece, and a website. The works consider humans how humans have to contend with a 'computational' theory of being, a term introduced by David Berry in his book /Critical Theory and the Digital/.[fn:42]. It is a neologism describing a ontotheology (theory of being) derived from the metaphors of the present, which Berry argues are networking and software design[fn:49].  In compuationality, the metaphors of computer usage, (such as the terminology of databases, programming paradigms, data transfer mechanisms and hardware design) develop serious influence over our attitudes to other entities, hindering possibilities for alternate paths of development. The present computing climate, which for Berry is defined by the tropes of networking and the logic of pattern recognition, begins to predominate relationships with the world. The concept is largely and elaboration to the concept of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology".[fn:3]
+*************** END
+
+*************** EDIT 4
+Enframing - ‘sets upon man to order the real as standing-reserve’ (1977, p. 19)
+
+'Enframing' is Heidegger's term for the essence of modern technology. Enframing describes a danger in modern technologies parasitic method for the revealing of truth. In the classic description truth is revealed as a reserve of energy, a kind of technological potential, in tune with the technical paradigms and values of the time (named in Heidegger's terms as 'standing reserve'). We can do nothing about the arrangement of enframing or its influence, it is part to the technology, we can only consider how we will respond to it.[fn:50] =Examples?=
+
+The mechanics of enframing are dependant on two kinds of concealment, the first is the abstraction of machinic process that allows the technology to be used or capitalise on other technologies, this is often seen in music composition and software design where we abstract complexity or use a software library to focus on a new or previously unreachable area. There is then a second kind of concealment, which Heidegger describes as 'concealment of the concealment'[fn:48], it is the taking for granted of a technological abstraction or tool. The first abstraction is treated as a given, or as its own kind of truth, to the point of immateriality, such that the technological underpinnings and social epoch are ignored or treated as natural. This second act of concealment is regarded as more insidious, unique to modern technology, and most importantly able to be repudated thorugh awareness.
 
  It appears to me that the concept is also similar to Michel Serres notion of 'back-boxing' and sociological studies in social constructionism.
-
 The resulting symptom of enframing is an orientation towards the world tht is inspired by characterstics of the technological metaphor that the abstraction describes. In Heideggers's time he labels this 'challenging forth', an expectation for nature to reveal itself as a kind of 'standing reserve', like a reseviour of electrical potential awatign connection to a circuit.
-
-    Berry argues that thechnology has its own Technology has a 'mode-of-revealing'[fn:4] that can import profound  influence over both individuals and a societies attitudes. In Hedidegger's description, 'enframing' allows a technology to gain widespred understanding, but also limits alternate understandings of the world, which is a dilemna to be cautious of.  Heidegger's suggested remedy to this is to limit the extent to which we treat technolgy as a means to mastery of a domain, which allows the use of a technnology to become an end in itself, however that is more esasily said than done when, technology nearly always aspires to simulacrum, abstraction and opacity.[fn:5]
+*************** END
 
     In this sense we  are reminded of our symbiotic, yet parasitic relationship with technology; we see it as a way to advance understanding, and yet doing so dominates our experience and potential. As one of the goals of software is to be to acheive a simulacrum of 'realness' of the process it is imitating to the point of being indistinguishable, though the use of design or organisation choices.[fn:6] Eventually a sucessful technology can 'dissappear', becoming an unacknowledged part of all experience, this is particularly the case with immitative and surveillant techniques of computation, and it is these I wish to focus on returning to appreciable froms of representation for this project, throught the use of audio visual manipulations based around the notion of exploring parasitic relations.
 
@@ -52,6 +67,7 @@ The resulting symptom of enframing is an orientation towards the world tht is in
 
 an abstraction of the world is rendered as a 'stream', of informations. To me this is one of the key ways the internet orders and manages experience. By studying the metaphor of 'streaming' I beleive we can gain a greater appreciation of the motivations and heirachies involved in the mechanics of the technological world view, as well as some of its flase promises and marginalisation of other ways of thinking.
 
+ These two systems, which I term 'Networked Experience' and 'Digital Aeshetics', are inescapable aspects of the instrumental use of these technologies. However their social and cultural limitations need to be recognised and expanded upon if we are to have any hope of ameliorating the 'false promises of the digital revolution', and develop the more radical potentials of these tools. My small gesture is to reifiy the social manipulations that machines can introduce, and employ them beyond common scenarios. It is hoped that I can use social-computing as a productive concept to explore and critique the contour of the political and economic aspects of modern computing.
 ** EDIT Networked Experience - Networked Phenomenology
 
    Streaming-forth is an expectaton for entities to reveal themselves in terms derived from meatphors about computation. Primarily those of networked 'streaming', in which the relationship with an object is derived from the ability to make a connection and establish a process to deal with its 'stream' of data.
@@ -91,6 +107,7 @@ While networked experience determines our mode of identification and engagement,
 *************** abductive reasoning in real life...
 		Similarities with symptom recognition in medicine. Influence of /A Pattern Language/
 *************** end
+  These two systems, which I term 'Networked Experience' and 'Digital Aeshetics', are inescapable aspects of the instrumental use of these technologies. However their social and cultural limitations need to be recognised and expanded upon if we are to have any hope of ameliorating the 'false promises of the digital revolution', and develop  the more radical potentials of these tools. My small gesture is to reifiy the social manipulations that machines can introduce, and employ them beyond common scenarios. It is hoped that I can use social-computing as a productive concept to explore and critique the contour of the political and economic aspects of modern computing.
 
 ** WRITE Computationality - our pattern language
 
@@ -502,3 +519,9 @@ both combine into set of qualities
 [fn:47] the new Aesthetics
 
 [fn:48] Second ceoncealment Heidgger
+
+[fn:49] Heidegger notes in /Being and Time/ that the priveleging of the present has a *parasitic* relationship with the concept of time. This could be extended.
+
+[fn:50] Enframing Heidegger p.2
+
+[fn:51] Enframing p.6
