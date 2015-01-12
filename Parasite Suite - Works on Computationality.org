@@ -17,10 +17,10 @@ Following Heideggerian theory, I belive that a fuller study of the humanistic as
   usefullness, awareness of socal interaction n computing
 
 * EDIT Introduction
-** Quotes
+** EDIT Quotes
+
 
 "Social Computing" refers to systems that support the gathering, representation, processing, use, and dissemination of information that is distributed across social collectivities such as teams, communities,organizations, and markets. Moreover, the information is not "anonymous" but is significant precisely because it is linked to people, who are in turn linked to other people.[fn:44]
-** EDIT Quotes
 
    We know very little about the ways in which software is socially created, the nature of software itself; how discourse, practices, and knowledge get translated into algorithms and code; the geographies and political economy of software development; how software is embedded into various social systems; how software applications work with each other to create complex assemblages that work within and across scales; the power wielded through software's "secondary agency"; and how software alternativly modulates the production production of space and transforms the nature of governance.[fn:1]
 
