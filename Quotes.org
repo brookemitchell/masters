@@ -1,0 +1,56 @@
+** REVIEW Quotes
+socio -cultural production indeed expresses social life as a whole, which itself is in something of a perpetual crisis – whether that crisis be called planetary civil war, global warming and ecological collapse, increasing material fragmentation and exploitation, or simply capitalism.
+
+   Micheal Snow - Wavelength
+/the GUI creates spatial continuity through the simultaneous windowing of different spaces: instant messenger, browser, file-sharing client, programming IDE, game heads-up-display. Fusing cuts within the frame replaces fusing cuts in time. But is this surprising, given the inherently networked quality of spatial montage? Windows are objects; they form as nodes into graphs on the screen; they may or may not interconnect; and so on. The rise of spatial montage is therefore just another way to describe the rise of the networked form of mediation overall./(Galloway)
+
+/The montage example demonstrates how important the nondiegetic is in digital media. The frame — previously marginalized, a veritable mark of the avant-garde — is now entirely normalized, an everyday occurrence in media aesthetics./
+
+/In this way, to stress the relation between diegetic and nondiegetic game play is to stress the question of interfacing. Indeed thresholds occupy a very special place in informatic media. One might go so far as to say that informatic media are nothing but a set of thresholds, layered and nested in chains of systems and subsystems, shells and still greater shells. This again is why the nondiegetic is so crucial, because: (1) it underscores the fact that informatic media are much more overtly structural and formal than previous media formats (while still not ceasing to be material); and (2) that because of the intimate relationship that informatic media have with actually existing material structures, they beckon toward a political understanding that is more vivid, more readily accessible, and more raw than in the past. We have, in short, a medium that tells its own story through the interface itself. One must simply be ready to listen./ [fn:1]
+ /Each pattern is a rule which describes what you have to do to generate the entity which it defines. (Alexander 1979: 181-182)/
+
+/“nondiegetic” is really a code word for something else, the infrastructure of the machine, the algorithmic layer, indeed the “outside” of the game in the sense of its social and political conditions of possibility...the nondiegetic is the window into the socio-political realm/ [fn:2]
+
+Nothing that Hackers can do on their own can eliminate surveillance. Just as universal health care is only something that can be achieved by social means, privacy respecting mass communications platforms can only be achieved by social means.[fn:3]
+
+The digital computer “is endowed with the capacity for synthesis, connection and communication, interfacing and exchange, all of which are inherently philosophical or world-bound,” writes Laruelle, explicitly linking computers and philosophy.[fn:4]
+
+"e-mail emerged in 1971 when users began experimenting with ways of sending electronic messages from one networked computer to another. in her study of the internet's origins, janet abbate writes that e-mail "remade" the arpanet system and caused it to be see 'not as a computer system but rather as a communication sytem.'(ref.82) 1.[fn:5]
+
+/this frantic disorientation uderneath the surface is therefor insulated from the user, who is provided with an interactional surface that can be familiar, skeudomorphic, representational, metonymic, flat, figurative or extremely simplistic and domestic./
+
+ For Adorno, reification 'is as much about /forgeting/ certain histories as it is aboit exploitation and preojection' (Schecter 2007: 100).
+
+ These articles are valuable; it is important both to observe how particular technologies function in the world and to point out possible new directions for these technologies. However, a significant dimension of technology goes unnoticed by most commentators: the way of thinking that lies behind the creation and use of technology. If more commentators on technology were able to wade through ‘The Question Concerning Technology’, as well as some of Heidegger’s other writings, they might discover some exciting new pathways for their thinking. [fn:6]
+
+The great breakthrough of ‘The Question Concerning Technology’ is that it shifts the focus away from specific technologies and toward the modes of thinking that lie behind these technologies. However, within this breakthrough lies a danger: it is possible to focus on the thinking behind the technology to such an extent that meaningful distinctions in the world are obscured. In a remark that was originally a part of ‘The Question Concerning Technology’, but was later excised (Harries, 1994, p. 233), this danger manifests itself:
+
+   We know very little about the ways in which software is socially created, the nature of software itself; how discourse, practices, and knowledge get translated into algorithms and code; the geographies and political economy of software development; how software is embedded into various social systems; how software applications work with each other to create complex assemblages that work within and across scales; the power wielded through software's "secondary agency"; and how software alternativly modulates the production production of space and transforms the nature of governance.[fn:7]
+
+   There is evidence that people naturally respond to computers as if they were people. When they work well, we think of them as teammates, and when they are obstinate or rude, we respond to them the same way we respond to rude, obstinate people (Reeves and Nass, The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places). [fn:8]
+
+   /According to Heidegger, technology is distinct from what we do with tools, instruments, equipment, or the way of thinking about those things. Likewise, modern technology is not reducible to technological artifacts, devices, or the techniques that produce those things... modern technology in essence is Heidegger’s designation for the way in which things give themselves in and through an epoch. Technology, or what also can be referred to as “technicity,” concerns itself with the ontological way in which things reveal themselves via a “sending”/
+
+/We don’t know what these bits represent, they could be an integer, a float, they could be noted in little endian, big endian, they could be some letter in some encoding, they could be a pixel RGB, RGBA, grayscale, whatever. They could be an audio sample, signed or unsigned. They could be a processor instruction that actually tells the CPU to do something. And these roles can be assigned arbitrarily. Each data point needs additional data about itself, stored somewhere else, describing what is supposed to happen with this data. Then, depending on how the machine operates on these bits, they move towards different meanings. This is why I think it is productive to say: Everything inside the computer is a performance./ [fn:9]
+
+* Footnotes
+
+[fn:1] http://cultureandcommunication.org/galloway/rise-of-nondiegetic-media#more-275
+
+[fn:2] http://cultureandcommunication.org/galloway/rise-of-nondiegetic-media#more-275
+
+[fn:3] www.dmytri.info/hackers-cant-solve-surveillance/
+
+[fn:4] cultureandcommunication.org/galloway/laruelle-against-the-digital
+
+[fn:5] edina 64
+
+[fn:6] Waddington 576-577
+
+[fn:7] (Kitchin 2011: 946)
+
+[fn:8] Think python p. 7
+
+[fn:9] DEFINITION NOT FOUND: fn:4
+
+[fn:60] www.dmytri.info/hackers-cant-solve-surveillance/
