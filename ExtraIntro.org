@@ -1,0 +1,68 @@
+
+* WRITE Extra Intro Stuff
+
+The phenomenology of a hyper-streamed-sound thus bear the followng characterstics:
+- memory as it is experienced in the moement
+- layered experience, spatially non-diagetic
+- experiments with interface, multilayed
+- a focus on the sensation of memory in a variety of forms, as false, shared, non-linear and spatial.
+
+Correlationist principle. Real can be communicated. Laurelle.[fn:1]
+
+Site vs Non-Site [fn:2]
+
+on a personal level one piece of anecdotal evidence that i have noticed is the large number of programmers and ict (informatin communicatons technolgy) workers that are musicians, composers or disc.
+
+The other piece of anecdotal evidence is the predisposition for composers toward computer programming and electronics.
+
+    the conceptual inspiration for these works is drawn from histories of early computing, the philosophical influence of early digital design, and cybernetic thought [fn:3], as well as philosophical works about technology and communication. [fn:4] specific models and references for the works are outlined later in their descriptions and documentation. in general, it is the history of cultural metaphors about computation, as well as studies of  technological opportunities that never materialised or fell to the wayside, that have helped me to explore other possibilities for social interaction in computing.[fn:5] by exploring these topics we can see interesting possibilities for restructuring networked engagements with machines. i wish to argue, as has been shown by eden medina in her study of some of the rudimentary techniques explored by the cyberneticians of the cybersyn project in allende's chile, that it is not real time communication of high tech computing that determines the sense of a 'networked experience', rather it is the idea of bi-directional streams of information that are being responded to. this idea is central in much of cybernetic organisational theory, and informs a wide range of practices today. one which i use extensively is the 'streams' programming technique, one that is prevalent in an extensive number of web programs at the moments.[fn:6]
+
+A sincere attempt to portray some of the radical possibilities of computer art when it embraces its lineage and explores the anxieties of the present. These three areas: the philosophies of how machinic interactions have coalesced into one commonly accepted into a common form, a look at unexplored possibilities and under-emphasised potentials in the present, and a search for how to revive those alternative futures, each represent the three strands of artistic research in the project. It is a consideration of what happens when we begin to employ a kind of empathy toward a machinic perspective.
+
+Software as a /super-medium/ that unifies other forms,  (tv/film/radio/print), rather than containing them it reforms and reshapes them into a "new unitary form"[fn:7] "this super-medium acts as both a meditating and structuring frame that we must understand through its instantiation under particular physical constraints" - rejecting the immateriality of software. analysing the doing, platform studies.
+
+the terms 'softwarized society' coined by David berry [fn:8] encapsulates what I see as the outcome of networked experience and computational aesthetics.
+
+As technology inculcates itself we are in danger of forgetting how entangled with computer code we really are, software is part of the narrative of our lives, and yet often overlooked. fuller (2006) notes, "in a sense, all intellectual work is now 'software study', in that the software provides its media and its context..." Berry encourages us to think about the "structure of feeling[fn:9]"  and methods of usefulness permitted by code. noting that technology is a cultural metaphor as well as lexical and physical object. these varied cultural thoughts about technology in relation to the self and society inform practice and engagement with tools as well as wider social and economic relations. to the extent that berry believes the metaphors of software in particular, to form a 'plane of immanence' that shapes relations[fn:10].
+
+in my attempt to consider the design and implementation of tools like computer vision, real-time communication and data-collection, i have often found that the design and user experience as a developer is often imprinted with the culture and expectations of the teams that assembled the foundations of these tools[fn:11]. in a sense i have discovered  a source for my own anxiety in a consciousness of the kind of corporate cultures values embedded in the design of systems. my response to this has been to try and configure atypical user interfaces and methods of engagement, such as avoiding the user metaphor of a person sitting at a computer terminal with keyboard and mouse, and trying to treat sound as a first-class user interaction medium[fn:12].
+
+in this sense the work is inspired by concepts such as 'sousveillance'[fn:13] where a technology is levelled against an oppressor rather than the opposite. in my course of exploring how to 'turn the tables' however, i have also found that it is often the composition of technologies and the relationships that their design encourages[fn:14], that require the formulation of organic and locally specific technologies that offer solutions more relevant in my case for an artistically inspired, more affecting outcome, and on a general level benefit participants.
+
+however the process by which i developed this project was not from a carefully chosen theme, but rather a methodology where i have sought to describe some of the 'back boxes' of communications that i interact with on a daily basis.
+
+* Footnotes
+
+[fn:1] Galloway, 10 Theses on the digital
+
+[fn:2] LEAVol19No1-McGarrigle.pdf
+
+[fn:3] link to weiner
+
+[fn:4] link de landa, berry.
+
+[fn:5] idea taken from the talk,"the web that wasn't" )[[webthatwasnt][twtw]]
+
+[fn:6] link to deetails on javascript streams
+
+[fn:7] berry 10
+
+[fn:8] softwareised society, link opening of phil of software on dependance on software for survival. berry p.
+
+[fn:9] berry, p. 6.
+
+[fn:10] berry and deleuze, p. 18.
+
+[fn:11] link to classic essay about design of saftware informed
+
+[fn:12] any links to this? there was a bit from deland
+
+[fn:13] sousveilance
+
+[fn:14] foucoult link, design of software and oppression
+
+[fn:34] edina 64
+
+[fn:52] www.dmytri.info/hackers-cant-solve-surveillance/
+
+[fn:67] DEFINITION NOT FOUND: fn:4
