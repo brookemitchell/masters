@@ -179,6 +179,12 @@ Likewise, the essence of technology is by no means anything technological.
 
 
 
+* Interface Effect
+** p. 3
+data are not simply measurements or recorded facts, they are also in some sense ontologically raw, not so much thrown into the world, but left over, bare, rmaining after the tide of being recedes.
+The five principles – numeric representation, modularity, automation, variability, and transcoding – are not to be understood as universal laws of new media. Rather they describe some of the aesthetic properties of data, and the basic ways in which information is created, stored, and rendered intelligible.
+
+Scattered throughout the book, Manovich advances a number of aesthetic claims that have become commonplace parlance in the discourse on digital interfaces, includieng the idea of a 'logic of selection,' the importnce of compositin, the way in which the database itself is a medium, the emphasis on navigation through space, the reversal of the relationhip between syntagm an paradigm the centralisty of games and play, the waning of temporal montage (and the rise of spatial montage)
 * Quotes from Comp Thinking @ stunlaw
 One of the striking features of computation is the extent to which forms of pattern matching are required in computer processing. Pattern recognition can be described as a means of identifying repeated shapes or structures which are features of a system under investigation. Whilst we tend to think of patterns as visual, of course they can also be conceptual, iterative, representational, logical, mathematical, etc. in form providing the underlying computational system can be programmed to recognise the distinctive shape of the pattern from the data. They can also consist of meta-patterns as described by Gregory Bateson as patterns that can detected across different spheres, such as culture, humanities, science and the social or 'the pattern that connects' (see Bateson 1979; Dixon 2012).
 
