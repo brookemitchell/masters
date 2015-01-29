@@ -21,83 +21,85 @@ Definitions of the parasite:
 
    Interfaces all the way down. Containter for previous format.
 
-   Following thism /for the interface becomes the point of transition between different mediatic layers within any nested system./ a conduit of expression, but also more, it is a point of access, The French author François Dagognet describes it thus: /“The interface … consists essentially of an area of choice. It both separates and mixes the two worlds that meet togethr three, that run into it. It becomes a fertile nexus./ [fn:66] Space of negotiation, extraction of capital, choice an labour. Relationship between edge and centre.
+   Following thism /for the interface becomes the point of transition between different mediatic layers within any nested system./ a conduit of expression, but also more, it is a point of access, The French author François Dagognet describes it thus: /“The interface … consists essentially of an area of choice. It both separates and mixes the two worlds that meet togethr three, that run into it. It becomes a fertile nexus./ [fn:1] Space of negotiation, extraction of capital, choice an labour. Relationship between edge and centre.
 
 /In short, ideology gets 'modeled' in software. So in the very perfection of teh ideological regime, in the form of its pure digital simulation, comes the death of the ideological regime, and simulation is 'crowned winner' as the absolute horizon of the ideological world./
 
 /Thus we arrive at a paradox: any mediating technology is obliged to erase iself to the gighest degree possible in the name of unfettered communication, but in doing so it proves its own virtuosic presence as technology tehreby unding the original erasure./
 
-  What is software, Chun writes, if not the very effort of making something explicit, or making something intangible visible, while at the same time rendering the visible (such as the machine) invisible?[fn:67]
+  What is software, Chun writes, if not the very effort of making something explicit, or making something intangible visible, while at the same time rendering the visible (such as the machine) invisible?[fn:2]
 
   'Parasite Suite' is a collection of works exploring possibilities for social computing as part of an artistic practice. There are two aspects to the project, describing the conditions of social computing, and exploring the manipulations offerered by changes to the interface layer. These techniques are collected for a portfolio of artistic works titled /Parasite Suite/. My theories about the impact of hyperlinking and streaming on sensation and aesthetics inform the use of augmented reality and data driven art as tools for shiftng the role of the interface.
 
-  Social computing is a developing topic in economics, computer science and information systems describing the collaborative aspects of networked behaviour.[fn:15] It describes scenarios where information is created, distributed and extracted among social collectives.[fn:16] Importantly, this information is not anonymous, details and behaviour are linked to identities in a lasting way that eventually defines the archive. While acknowledging that all computing is social when we consider the wider world of actors, the project aims to focus on the social relationship between social technology and sound art.
+  Social computing is a developing topic in economics, computer science and information systems describing the collaborative aspects of networked behaviour.[fn:3] It describes scenarios where information is created, distributed and extracted among social collectives.[fn:4] Importantly, this information is not anonymous, details and behaviour are linked to identities in a lasting way that eventually defines the archive. While acknowledging that all computing is social when we consider the wider world of actors, the project aims to focus on the social relationship between social technology and sound art.
 
-  I believe that understanding of social computing can lead to nuanced critique and consideration of how to design and re-connfigure the 'coupling' between layers of the comutational, and eventually the user(s), known as an interface. Changes in interface allow for changes in experience, and I argue that this can shift thought, meaning and attentiveness to novel or neglected areas. The descriptive phase of this project focuses on researching networked experiences and computational aesthetics, two aspects that I believe are key to understanding social computing. The resulting works are focused on contesting the current limits of social computing =by.. expanding into art and multi-user parties=.[fn:17]
+  I believe that understanding of social computing can lead to nuanced critique and consideration of how to design and re-connfigure the 'coupling' between layers of the comutational, and eventually the user(s), known as an interface. Changes in interface allow for changes in experience, and I argue that this can shift thought, meaning and attentiveness to novel or neglected areas. The descriptive phase of this project focuses on researching networked experiences and computational aesthetics, two aspects that I believe are key to understanding social computing. The resulting works are focused on contesting the current limits of social computing =by.. expanding into art and multi-user parties=.[fn:5]
 
-  The project also capitalises on legitimate concerns about social-computing, meditating on the user's sublime tension between awe and anxiety. This is due to information being indexed, sorted, accumulated, and stored, often to be traded and sold, in ways that are left opaque to the user. This allows data to accrue value and use beyond the present moment of user interaction, they assume value as both an individual data collection and a member of the crowd. As information is always 'linked' to an identity, the accumulation and dissemination of this information unfolds in time.[fn:18] I wish to highlight this sense of accumulation in my works and also consider the impact that social arrangements and actions can have on the meaning of this data. I believe that the terms I have adopted, network experience and digital aesthetics, best describe the characteristics and materials of social computing.
+  The project also capitalises on legitimate concerns about social-computing, meditating on the user's sublime tension between awe and anxiety. This is due to information being indexed, sorted, accumulated, and stored, often to be traded and sold, in ways that are left opaque to the user. This allows data to accrue value and use beyond the present moment of user interaction, they assume value as both an individual data collection and a member of the crowd. As information is always 'linked' to an identity, the accumulation and dissemination of this information unfolds in time.[fn:6] I wish to highlight this sense of accumulation in my works and also consider the impact that social arrangements and actions can have on the meaning of this data. I believe that the terms I have adopted, network experience and digital aesthetics, best describe the characteristics and materials of social computing.
 
-  Computers can become a tool to describe embedded values that we often do not take notice of. They can also draw novel, arbitrary relations and be highly speculative in their reasoning, which is exciting and concerning, as results are likely to be incorrect or even prejudiced.[fn:19]  I hope to learn more about the development of the 'values' of social-computation. To portray this relationship I will focus on the phenomenological and aesthetic aspects of social-computing, developing sound focused art works.  The works use the gallery as a setting for common social-computing techniques, such as data-logging, meta-data extraction, computer vision and algorithmic surveillance, these social manipulations hope to provoke consideration of the historical use and influences behind many computation techniques. There are many unexplored or neglected possibilities within computation due to cultural bias and lack of reflexively about the medium. =needs ref=
+  Computers can become a tool to describe embedded values that we often do not take notice of. They can also draw novel, arbitrary relations and be highly speculative in their reasoning, which is exciting and concerning, as results are likely to be incorrect or even prejudiced.[fn:7]  I hope to learn more about the development of the 'values' of social-computation. To portray this relationship I will focus on the phenomenological and aesthetic aspects of social-computing, developing sound focused art works.  The works use the gallery as a setting for common social-computing techniques, such as data-logging, meta-data extraction, computer vision and algorithmic surveillance, these social manipulations hope to provoke consideration of the historical use and influences behind many computation techniques. There are many unexplored or neglected possibilities within computation due to cultural bias and lack of reflexively about the medium. =needs ref=
 
-  I have been researching two ways technology effects our world, when technology privileges experiences compatible within its own data structures ,[fn:20] and when it privileges aesthetic trends compatible with its own mode of recognition and reasoning. The presence of these two systems, which I term 'Networked Experience' and 'Digital Aesthetics', are inescapable aspects of how technologies function. However their social and cultural limitations need to be recognised if we are to have any hope of ameliorating the 'false promises of the digital revolution' and develop the more radical potentials of these tools. My small gesture is to reifiy the social manipulations that machines can introduce, and explore ruptures in common computing scenarios in the hope of provoking reflection.
+  I have been researching two ways technology effects our world, when technology privileges experiences compatible within its own data structures ,[fn:8] and when it privileges aesthetic trends compatible with its own mode of recognition and reasoning. The presence of these two systems, which I term 'Networked Experience' and 'Digital Aesthetics', are inescapable aspects of how technologies function. However their social and cultural limitations need to be recognised if we are to have any hope of ameliorating the 'false promises of the digital revolution' and develop the more radical potentials of these tools. My small gesture is to reifiy the social manipulations that machines can introduce, and explore ruptures in common computing scenarios in the hope of provoking reflection.
 
-   The starting point for Parasite Suite has been to study common anxieties about the proliferation of these systems. Concerns about institutional surveillance have somewhat reduced the charm of networked computing. References for the works include critical theories of the digital,[fn:21] as well as works by composers and artists with an interest in the relationship between technology and society, such as Włodzimierz Kotoński, Laurie Anderson, Lynn Hershman Leeson, Holly Herndon and Alex Galloway.[fn:22] I believe that phenomenological and aesthetic aspects of social-computation tend to be self-reinforcing, deepening the values that precipitated their own development, to the exclusion of other possibilities. This I term /parasitism/, where a technology invites itself as a third participant in all manner of social negotiations. Appreciating this parasitic relationship with technology, as both hindrance and possibility for exploration, is the first step in developing new relationships with technology.
+   The starting point for Parasite Suite has been to study common anxieties about the proliferation of these systems. Concerns about institutional surveillance have somewhat reduced the charm of networked computing. References for the works include critical theories of the digital,[fn:9] as well as works by composers and artists with an interest in the relationship between technology and society, such as Włodzimierz Kotoński, Laurie Anderson, Lynn Hershman Leeson, Holly Herndon and Alex Galloway.[fn:10] I believe that phenomenological and aesthetic aspects of social-computation tend to be self-reinforcing, deepening the values that precipitated their own development, to the exclusion of other possibilities. This I term /parasitism/, where a technology invites itself as a third participant in all manner of social negotiations. Appreciating this parasitic relationship with technology, as both hindrance and possibility for exploration, is the first step in developing new relationships with technology.
 
-   The project is realised as a set of three works that explore social-computing: two installations and a performance work. The works contend that humans must be critical of the 'computationality' of the world. The term is a neologism introduced by David Berry in his book /Critical Theory and the Digital/.[fn:23] It describes an onto-theology informed by the methods of access to information, which Berry argues are networking and software design.[fn:24] Inside compuationality, the methods of access, (through databases, programming paradigms, data transfer protocols and hardware design) develop serious influence over our attitudes to other entities, possibly hindering alternate realms of development. I argue the present computing climate, defined by the tropes of networking and the logic of pattern recognition, predominates relationships with the self and world. As myself willing user, I do not wish to cast this scenario in a negative light, however awareness is a necessary premise for social tensions of computing to be brought to the fore. This concept of a mediated relationship with technology, espoused by Berry, is largely an elaboration to the concept of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology".[fn:25]
+   The project is realised as a set of three works that explore social-computing: two installations and a performance work. The works contend that humans must be critical of the 'computationality' of the world. The term is a neologism introduced by David Berry in his book /Critical Theory and the Digital/.[fn:11] It describes an onto-theology informed by the methods of access to information, which Berry argues are networking and software design.[fn:12] Inside compuationality, the methods of access, (through databases, programming paradigms, data transfer protocols and hardware design) develop serious influence over our attitudes to other entities, possibly hindering alternate realms of development. I argue the present computing climate, defined by the tropes of networking and the logic of pattern recognition, predominates relationships with the self and world. As myself willing user, I do not wish to cast this scenario in a negative light, however awareness is a necessary premise for social tensions of computing to be brought to the fore. This concept of a mediated relationship with technology, espoused by Berry, is largely an elaboration to the concept of 'enframing' developed by Martin Heidegger in "The Question Concerning Technology".[fn:13]
 
-   In Waddington's guide to /The Question Concerning Technology/ he explains that Heidegger's work is a breakthrough the way it, "shifts the focus away from specific technologies and toward the modes of thinking that lie behind these technologies."[fn:26] Heidegger also noted that "it is possible to focus on the thinking behind the technology to such an extent that meaningful distinctions in the world are obscured."[fn:27] This remark was originally a part of ‘The Question Concerning Technology’, but later excised.[fn:28] 'Enframing' is Heidegger's term for the essence of modern technology. The term describes a danger within modern technologies methods for the accessing truth. In Heidegger's theory, modern technology reveals truth as a reserve of energy, in tune with the technical paradigms and values of the time (named in Heidegger's terms as 'standing reserve'). We can do nothing about the arrangement of enframing or its influence, it is built into the technology, we can only consider how we will respond to it.[fn:29]  Heidegger doesn't feel that this should necessarily put us off the use of technology, or define it as a bad thing, rather we need to adopt an attitude of 'releasement' (the ability to have a deferential attitude, or apathy, towards the necessity of a technology), that he finds most important.
+   In Waddington's guide to /The Question Concerning Technology/ he explains that Heidegger's work is a breakthrough the way it, "shifts the focus away from specific technologies and toward the modes of thinking that lie behind these technologies."[fn:14] Heidegger also noted that "it is possible to focus on the thinking behind the technology to such an extent that meaningful distinctions in the world are obscured."[fn:15] This remark was originally a part of ‘The Question Concerning Technology’, but later excised.[fn:16] 'Enframing' is Heidegger's term for the essence of modern technology. The term describes a danger within modern technologies methods for the accessing truth. In Heidegger's theory, modern technology reveals truth as a reserve of energy, in tune with the technical paradigms and values of the time (named in Heidegger's terms as 'standing reserve'). We can do nothing about the arrangement of enframing or its influence, it is built into the technology, we can only consider how we will respond to it.[fn:17]  Heidegger doesn't feel that this should necessarily put us off the use of technology, or define it as a bad thing, rather we need to adopt an attitude of 'releasement' (the ability to have a deferential attitude, or apathy, towards the necessity of a technology), that he finds most important.
 
-   The mechanics of enframing are dependant on two kinds of 'concealment'. The first is the intentional abstraction of lower level mechanics of a technology. This abstraction of machinic process allows the technology to be used instrumentally or interact with other technologies, often seen in music composition and software design when we abstract complexity or use a software library to focus attention upon a previously unreachable area. There second type of concealment is described as a more dangerous kind of concealment, which Heidegger calls 'concealment of the concealment'.[fn:30] It is the taking for granted of a technological abstraction or tool. The first abstraction is becomes a given, to the point being treated as simulacrum of the representation, such that its technological underpinnings and social epoch are unable to be analysed, doomed to be treated as 'natural'. This second act of concealment is regarded as more insidious, unique to modern technology, and most importantly able to be repudiated through awareness.
+   The mechanics of enframing are dependant on two kinds of 'concealment'. The first is the intentional abstraction of lower level mechanics of a technology. This abstraction of machinic process allows the technology to be used instrumentally or interact with other technologies, often seen in music composition and software design when we abstract complexity or use a software library to focus attention upon a previously unreachable area. There second type of concealment is described as a more dangerous kind of concealment, which Heidegger calls 'concealment of the concealment'.[fn:18] It is the taking for granted of a technological abstraction or tool. The first abstraction is becomes a given, to the point being treated as simulacrum of the representation, such that its technological underpinnings and social epoch are unable to be analysed, doomed to be treated as 'natural'. This second act of concealment is regarded as more insidious, unique to modern technology, and most importantly able to be repudiated through awareness.
 
-   In our parasitic relationship with technology; abstraction advances understanding, yet doing so can dominate our experience and potential. One of the goals of most software is to achieve a simulacrum of 'realness', of the process it is imitating, to the point of often being indistinguishable.[fn:27] A sucessful technology can 'disappear', becoming unacknowledged facilitator of experience. This is particularly the case with imitative and surveillant techniques. Studying networked experience and digital aesthetics reveal instances of the second kind of concealment in common technologies. Through manipulations techniques I hope to 'de-black box' a number of social-computing scenarios centred around 'the stream' and 'pattern recognition'. These two dominant metaphors I take as stand-ins for the wider phenomenon of enframing.
+   In our parasitic relationship with technology; abstraction advances understanding, yet doing so can dominate our experience and potential. One of the goals of most software is to achieve a simulacrum of 'realness', of the process it is imitating, to the point of often being indistinguishable.[fn:15] A sucessful technology can 'disappear', becoming unacknowledged facilitator of experience. This is particularly the case with imitative and surveillant techniques. Studying networked experience and digital aesthetics reveal instances of the second kind of concealment in common technologies. Through manipulations techniques I hope to 'de-black box' a number of social-computing scenarios centred around 'the stream' and 'pattern recognition'. These two dominant metaphors I take as stand-ins for the wider phenomenon of enframing.
 
-   Like print, radio and film, I believe the internet offers a kind of 'super-medium',[fn:31] in that it envelops a collection of other medias, such as newspapers, books, television, games and radio as 'content', while modifying aspects of their aesthetics and meaning. It also offers native kinds of content experiences such as wikis and hyper-texts, interactive animations, videos and sounds, while augmenting aspects of the previous medium to differing extents, with their own features, such as with universal resource locators(URLs). Ted Nelson lamented that these forms were called 'interactive, online' versions rather than the shorter 'hyper' prefix which offers a clearer demarcation of how media has adapted to the network to offer non-linear, responsive user-customised content. I shall now describe the novel parameters of its experience, and to describe the aesthetic trends these experiences encourage.
+   Like print, radio and film, I believe the internet offers a kind of 'super-medium',[fn:19] in that it envelops a collection of other medias, such as newspapers, books, television, games and radio as 'content', while modifying aspects of their aesthetics and meaning. It also offers native kinds of content experiences such as wikis and hyper-texts, interactive animations, videos and sounds, while augmenting aspects of the previous medium to differing extents, with their own features, such as with universal resource locators(URLs). Ted Nelson lamented that these forms were called 'interactive, online' versions rather than the shorter 'hyper' prefix which offers a clearer demarcation of how media has adapted to the network to offer non-linear, responsive user-customised content. I shall now describe the novel parameters of its experience, and to describe the aesthetic trends these experiences encourage.
 
 ** WRITE Networked Experience - Feeling and machines.
 
-   /Networked experience/ is my term for the phenomenological aspect of social computing. In a networked experience, algorithmic processing acts as a facilitator of sensory perception. Video games, pornography, shared coding environments, networked music and robotic surgeries are all examples of the emergence of networked sensory systems. Often an interface design is traditional in its choice of sensory paradigms, choosing to emulate interface models of the past.[fn:32] However, occasionally an experience, like email messaging, radically changes the form of a design at many levels.[fn:33] How the network can be experienced is one of the central preoccupations of these works. My hypothesis is that a networked social experience is different at a phenomenological level from other experiences, understanding the changes in sensation a media introduces helps to create more effective works within the medium.
+   /Networked experience/ is my term for the phenomenological aspect of social computing. In a networked experience, algorithmic processing acts as a facilitator of sensory perception. Video games, pornography, shared coding environments, networked music and robotic surgeries are all examples of the emergence of networked sensory systems. Often an interface design is traditional in its choice of sensory paradigms, choosing to emulate interface models of the past.[fn:20] However, occasionally an experience, like email messaging, radically changes the form of a design at many levels.[fn:21] How the network can be experienced is one of the central preoccupations of these works. My hypothesis is that a networked social experience is different at a phenomenological level from other experiences, understanding the changes in sensation a media introduces helps to create more effective works within the medium.
 
-Networked computing being a 'super-media', yet it also augments and mediates aspects of these through its own negotiations, as linked works become part of a larger discourse that might elevate or diminish their sensations and meanings. I suggest that there are presently two models for the interactions that a network offers. Those of the 'hyper' and the 'streamed' experience. Common characteristics of hyper-media are: cross-referencing, editing, the ability to alter levels of detail, with links between each of these features.[fn:34] Characteristics of the 'stream' are information aggregation, feeding, tracking, buffering, chunking, re-ordering and exhaustion. These two models of information and the sensations they introduce are a central preoccupation of my work.
+Networked computing being a 'super-media', yet it also augments and mediates aspects of these through its own negotiations, as linked works become part of a larger discourse that might elevate or diminish their sensations and meanings. I suggest that there are presently two models for the interactions that a network offers. Those of the 'hyper' and the 'streamed' experience. Common characteristics of hyper-media are: cross-referencing, editing, the ability to alter levels of detail, with links between each of these features.[fn:22] Characteristics of the 'stream' are information aggregation, feeding, tracking, buffering, chunking, re-ordering and exhaustion. These two models of information and the sensations they introduce are a central preoccupation of my work.
 
- Text and images are often privileged forms of interaction online,[fn:35] a reversal of the dominance of speech acts over text.[fn:36] Although there is a rich variety of media types on the internet, it seems though it is text that is by far the most 'hyper' in its ability to be distributed, cross referenced, linked and have form separate from content. Aspects of this are open to remedy, and in the sound world this has driven my interest in the Web Audio and MIDI APIs[fn:37] For these projects I will to explore the role of the senses in the network, designing interfaces that emphasise hyper-ness. There is a tension between two models of network content, between the older model of hyper-media, that never fully came to pass and the metaphor of streaming, that has begun to predominate internet discourse. The hyper-media model harks back to the early days of the internet, and the hippie influenced concepts expressed in Nelson's book /Computer Lib/ .[fn:38] Streaming media developed largely as an technical notion, describing how to manage the transmission of real-time information.[fn:39] Each model represents an interaction paradigm that can be adopted into metaphor for the demands expected to be placed on other resources. For example a stream manages a remotely stored server resource, with the consequent social control benefits of being the 'host', to the viewers 'guest'. Data is sent in a piecemeal, unordered fashion, often encrypted, to be received and buffered into chunks.[fn:40]
+ Text and images are often privileged forms of interaction online,[fn:23] a reversal of the dominance of speech acts over text.[fn:24] Although there is a rich variety of media types on the internet, it seems though it is text that is by far the most 'hyper' in its ability to be distributed, cross referenced, linked and have form separate from content. Aspects of this are open to remedy, and in the sound world this has driven my interest in the Web Audio and MIDI APIs[fn:25] For these projects I will to explore the role of the senses in the network, designing interfaces that emphasise hyper-ness. There is a tension between two models of network content, between the older model of hyper-media, that never fully came to pass and the metaphor of streaming, that has begun to predominate internet discourse. The hyper-media model harks back to the early days of the internet, and the hippie influenced concepts expressed in Nelson's book /Computer Lib/ .[fn:26] Streaming media developed largely as an technical notion, describing how to manage the transmission of real-time information.[fn:27] Each model represents an interaction paradigm that can be adopted into metaphor for the demands expected to be placed on other resources. For example a stream manages a remotely stored server resource, with the consequent social control benefits of being the 'host', to the viewers 'guest'. Data is sent in a piecemeal, unordered fashion, often encrypted, to be received and buffered into chunks.[fn:28]
 
-   A stream, shorthand for streaming-media, refers to the method of delivery of the medium. It is the technique of delivery that informs the type of enframing the high speed network encourages. The paradigmatic metaphors are 'real-time', and 'flow', both metaphors that think of the digital as moving with trajectories and velocities. It is also a process of 'exhaustion', where a resource is divided into chunks, in the case of TCP/IP delivered into an unpredictable order, with a 'best attempt' at delivery.[fn:41] The packets then need to be checked by an algorithm, so bits can be re-requested, deleted and re-ordered. It is the computation encoding of a post-fordist, 'just in time' re-assembly of digital assets. The experience of streaming systems often makes information seem an immaterial vector, with only velocity and direction, and one that can be accessed by turning on a tap and directing the flow. The metaphors of streaming can make all other objects seem like streams of information, waiting to be broken into chunks and waiting for acknowledgement. This can be seen in the emergent paradigms new computer programming languages [fn:42] that emphasises the metaphor of piping, whereby modules are connected to transfer an awaited stream of information. David Berrys's term for this type of experience is 'streaming-forth', as the network  becomes the characteristic mode-of-revealing of nature. 'Streaming-forth' is an expectation for entities to reveal themselves in terms derived from metaphors about computation.
+   A stream, shorthand for streaming-media, refers to the method of delivery of the medium. It is the technique of delivery that informs the type of enframing the high speed network encourages. The paradigmatic metaphors are 'real-time', and 'flow', both metaphors that think of the digital as moving with trajectories and velocities. It is also a process of 'exhaustion', where a resource is divided into chunks, in the case of TCP/IP delivered into an unpredictable order, with a 'best attempt' at delivery.[fn:29] The packets then need to be checked by an algorithm, so bits can be re-requested, deleted and re-ordered. It is the computation encoding of a post-fordist, 'just in time' re-assembly of digital assets. The experience of streaming systems often makes information seem an immaterial vector, with only velocity and direction, and one that can be accessed by turning on a tap and directing the flow. The metaphors of streaming can make all other objects seem like streams of information, waiting to be broken into chunks and waiting for acknowledgement. This can be seen in the emergent paradigms new computer programming languages [fn:30] that emphasises the metaphor of piping, whereby modules are connected to transfer an awaited stream of information. David Berrys's term for this type of experience is 'streaming-forth', as the network  becomes the characteristic mode-of-revealing of nature. 'Streaming-forth' is an expectation for entities to reveal themselves in terms derived from metaphors about computation.
 
- We have seen the rise of process piping and streaming beyond the realm of software design.[fn:43] This process is effecting other areas such as health care, as software companies attempts to bring their approaches to software to displace traditional institutions. Berry terms this mode of thinking about access to the world, 'streaming forth', where the demand placed on the world is that of constant generation re-ordering, processing and collection, rather than the challenge-response model of Heidegger. This  mode of experience isn't dependant on any kind of technology or state of development, it is possible to create a these kind of experiences entirely with a set of human relations. This was the case with Cyber-Syn a 1970's project by the Chilean government to create cybernetic economic systems, modelled on the human nervous system, realized by and large without computer access.[fn:44] Streaming describes an attitude towards access to resources, it is an enfraing we expect the methods of access for streaming to apply in all our relations.
+ We have seen the rise of process piping and streaming beyond the realm of software design.[fn:31] This process is effecting other areas such as health care, as software companies attempts to bring their approaches to software to displace traditional institutions. Berry terms this mode of thinking about access to the world, 'streaming forth', where the demand placed on the world is that of constant generation re-ordering, processing and collection, rather than the challenge-response model of Heidegger. This  mode of experience isn't dependant on any kind of technology or state of development, it is possible to create a these kind of experiences entirely with a set of human relations. This was the case with Cyber-Syn a 1970's project by the Chilean government to create cybernetic economic systems, modelled on the human nervous system, realized by and large without computer access.[fn:32] Streaming describes an attitude towards access to resources, it is an enfraing we expect the methods of access for streaming to apply in all our relations.
 
-   This sensory approach, applied to computing, is closely associated with both cybernetics, as shown in Eden Medina's study of early attempts art providing experience of the economy as a nervous system in Peron's Chile.[fn:45] The network experience is often a flawed fantasy of the eternal present, where the individual instinctively responds to events in a consumerist haze. However there were wider possibilities, such as those that were the original intention of the Cybersyn network to provide multi-faceted levels of experience and direction, with attempts to emulate cognitive, self-sustaining and pre-emptive modes within the different levels of the cybernetic organisation. I wish to argue that it is not the mechanics so much as the purpose for the use of these tools that is lacking. 'Streaming' tends to engage in concealment of resources, transport mechanisms and ironically, other users.
+   This sensory approach, applied to computing, is closely associated with both cybernetics, as shown in Eden Medina's study of early attempts art providing experience of the economy as a nervous system in Peron's Chile.[fn:33] The network experience is often a flawed fantasy of the eternal present, where the individual instinctively responds to events in a consumerist haze. However there were wider possibilities, such as those that were the original intention of the Cybersyn network to provide multi-faceted levels of experience and direction, with attempts to emulate cognitive, self-sustaining and pre-emptive modes within the different levels of the cybernetic organisation. I wish to argue that it is not the mechanics so much as the purpose for the use of these tools that is lacking. 'Streaming' tends to engage in concealment of resources, transport mechanisms and ironically, other users.
 
-   This can be seen in the somewhat humorous technologies such as 'The Twitter Sort,'[fn:46] and the word processor Soylent[fn:47] "The word processor with people inside," where users of Amazon's distributed micro-labour system Mechanical Turk[fn:48] perform word processing operations. Rather than rejecting the phenomenon (which I feel is impossible) I am interested in what aspects are open to social manipulation when this kind of thinking is dominant. The easiest way to decide what elements to focus on are to look at the concealment that a technology makes. I think that accumulation and memory are the first to be ignored, as are the material needs of a technology.
+   This can be seen in the somewhat humorous technologies such as 'The Twitter Sort,'[fn:34] and the word processor Soylent[fn:35] "The word processor with people inside," where users of Amazon's distributed micro-labour system Mechanical Turk[fn:36] perform word processing operations. Rather than rejecting the phenomenon (which I feel is impossible) I am interested in what aspects are open to social manipulation when this kind of thinking is dominant. The easiest way to decide what elements to focus on are to look at the concealment that a technology makes. I think that accumulation and memory are the first to be ignored, as are the material needs of a technology.
 
-   As networked experience extends beyond interaction with computers, into a metaphorical 'revealing' of the world as a network of social scenarios, able to be connected, as long as users are cognisant of the rules of interaction. This kind of ethos is enabled by the design values embedded in computer hardware and software, as influenced by the Californian ideology and the notions of individualistic libertarian impulses that theory entailed.[fn:49] Network technology under these paradigms imbues it with a particular kind of immediacy, but also a sense of danger. It is a de-regulated system that places a heavy burden on users to manage and secure all aspect of their online identity.[fn:50] The contradiction that we often use networks to maintain the notion of individual identity, which is often where it is taken away, seems strange, but I believe the implementation of values in software and hardware is the reason. This is no conspiracy, simply that the standard practice is to reproduce and emulate the models of the past, and programmers are often excellent at emulating a narrow range of design patterns.[fn:51]
+   As networked experience extends beyond interaction with computers, into a metaphorical 'revealing' of the world as a network of social scenarios, able to be connected, as long as users are cognisant of the rules of interaction. This kind of ethos is enabled by the design values embedded in computer hardware and software, as influenced by the Californian ideology and the notions of individualistic libertarian impulses that theory entailed.[fn:37] Network technology under these paradigms imbues it with a particular kind of immediacy, but also a sense of danger. It is a de-regulated system that places a heavy burden on users to manage and secure all aspect of their online identity.[fn:38] The contradiction that we often use networks to maintain the notion of individual identity, which is often where it is taken away, seems strange, but I believe the implementation of values in software and hardware is the reason. This is no conspiracy, simply that the standard practice is to reproduce and emulate the models of the past, and programmers are often excellent at emulating a narrow range of design patterns.[fn:39]
 
    My project explores this tension between streaming, sharing, surveying and 'hyper'-ness. I wish to see the realisation of an interconnected stream of audio that can exist at multiple levels of detail, with links to references, branching and responding. I wish to explore the sensory process of the stream, how it fits into social surveillance and hyper-media, to combine these into a kind of fused media that uses some of the inherent contradictions in the 'feeling' of the stream.
 
 ** WRITE Digital Aesthetics - Computational Ontology
 
-   In contrast to the immediate aspects of networked experience, digital aesthetics are the lasting effects of social computing on reasoning and judgement[fn:52] a rupture of the digital into the real. Often termed 'pattern aesthetic'[fn:53] or 'the new aesthetic'[fn:54] these trends describe widespread cultural shifts in appreciation of objects that bear a hallmark of their interaction with computer algorithms. The most noticeable of these are nostalgic references to older computational limitations, such as pixelated artworks and chip-tunes.[fn:55] Popular trends in architecture, photography and music also bear signifiers of digital logic, often by artists the highlighting of the presence of digital tools. Hito Steryl notes the impact of digital modelling tools on the designs of Frank Gehry.[fn:56] Similarly the modern history of dance music shows a particular desire to highlight the impact of tools such as particular models of drum machines. David Beery names this 'Abductive Aesthetics', arguing that the logic of software design inform the 'look' of the digital rather than the popularity of a particular style.
+   In contrast to the immediate aspects of networked experience, digital aesthetics are the lasting effects of social computing on reasoning and judgement[fn:40] a rupture of the digital into the real. Often termed 'pattern aesthetic'[fn:41] or 'the new aesthetic'[fn:42] these trends describe widespread cultural shifts in appreciation of objects that bear a hallmark of their interaction with computer algorithms. The most noticeable of these are nostalgic references to older computational limitations, such as pixelated artworks and chip-tunes.[fn:43] Popular trends in architecture, photography and music also bear signifiers of digital logic, often by artists the highlighting of the presence of digital tools. Hito Steryl notes the impact of digital modelling tools on the designs of Frank Gehry.[fn:44] Similarly the modern history of dance music shows a particular desire to highlight the impact of tools such as particular models of drum machines. David Beery names this 'Abductive Aesthetics', arguing that the logic of software design inform the 'look' of the digital rather than the popularity of a particular style.
 
-   Abductive reasoning, also known as inference to the best explanation, is an approach to reasoning which attempts to test a hypothesis based on the information at hand. For computers it involves continuously refining the set of best guesses as the quality of information improves. It can be contrasted with deductive (proof-based) and inductive (evidence based) reasoning as the 'fuzziest' kind of reasoning, somewhat akin to a 'best guess'. It is ubiquitous in its use by computers, one of the most well known examples of an abductive algorithm is predictive text on cellular phones, but abductive reasoning is everywhere in computing. Early research on artificial intelligence focused heavily on the use of abductive reasoning .[fn:57] One of the reasons for doing this was to design functions that could handle large data sets without having to maintain state. Maintaining state is akin to keeping track of changes in variables as a progression of events takes place, which becomes unwieldy with a big data set. Abductive reasoning emphasises the spatial over the temporal by avoiding the recording of data within its functions, instead focusing on its mathematical operation to return a new configuration of a data space.
+   Abductive reasoning, also known as inference to the best explanation, is an approach to reasoning which attempts to test a hypothesis based on the information at hand. For computers it involves continuously refining the set of best guesses as the quality of information improves. It can be contrasted with deductive (proof-based) and inductive (evidence based) reasoning as the 'fuzziest' kind of reasoning, somewhat akin to a 'best guess'. It is ubiquitous in its use by computers, one of the most well known examples of an abductive algorithm is predictive text on cellular phones, but abductive reasoning is everywhere in computing. Early research on artificial intelligence focused heavily on the use of abductive reasoning .[fn:45] One of the reasons for doing this was to design functions that could handle large data sets without having to maintain state. Maintaining state is akin to keeping track of changes in variables as a progression of events takes place, which becomes unwieldy with a big data set. Abductive reasoning emphasises the spatial over the temporal by avoiding the recording of data within its functions, instead focusing on its mathematical operation to return a new configuration of a data space.
 
    I am seeking to apply abductive logic as more than a tool by looking at its form and social impact. For this project I wish to explore the application of 'digital' logic to artistic and musical composition and its resulting aesthetic, as well as possibilities for reaching beyond this. Applying abductive reasoning to music, the resulting aesthetic experience can be described as conducting a 'pattern language'. A pattern language is where we communicate and recognise according to the abductive reasoning, by recognising broad suppositions and rapidly testing hypothesis by jumping to conclusions until all our tests for truth pass. To act abductively with music, I believe we need to design musical systems that collect information and respond with a 'best match'.
 
-   A 'pattern language' is something that we can be aware of, but whose methods try to make themselves invisible to us. This desire for invisibility goes beyond the user interface level to all manners of coded space: interfaces, application programming interfaces, objects, macros, function composition, integrated circuits, all exist as abstractions that can make an processes result seem more natural when they hide away complexity. These tools are crucial for managing all of my projects, however the cumulative effect of these tools, often appears as a kind of 'magic' to the person using the tool to prepare an experience, Later they begin to seem 'natural' to the end user, who is intended to be none the wiser. 'Computationality' can then be experienced as a combination of computer processing and networking capability that embody a particular aesthetic and set of practices for those that interact with the works .[fn:58] The particulars of the experience and aesthetic of 'computationality' has been specifically collected and outlined by others[fn:59] but I define it as the experience of a real world decision that seems tailored for what would be appropriate for the algorithmic sensibilities of a machine. A particular aspect of the computational I have focused on is the felt sense that a machine can be treated as a participant and social actor rather than a tool.
+   A 'pattern language' is something that we can be aware of, but whose methods try to make themselves invisible to us. This desire for invisibility goes beyond the user interface level to all manners of coded space: interfaces, application programming interfaces, objects, macros, function composition, integrated circuits, all exist as abstractions that can make an processes result seem more natural when they hide away complexity. These tools are crucial for managing all of my projects, however the cumulative effect of these tools, often appears as a kind of 'magic' to the person using the tool to prepare an experience, Later they begin to seem 'natural' to the end user, who is intended to be none the wiser. 'Computationality' can then be experienced as a combination of computer processing and networking capability that embody a particular aesthetic and set of practices for those that interact with the works .[fn:46] The particulars of the experience and aesthetic of 'computationality' has been specifically collected and outlined by others[fn:47] but I define it as the experience of a real world decision that seems tailored for what would be appropriate for the algorithmic sensibilities of a machine. A particular aspect of the computational I have focused on is the felt sense that a machine can be treated as a participant and social actor rather than a tool.
 
-   Similarly to my comments on network experience, what abductive reasoning tends to bring to logic is non-linear patterning. Abductive recognition does not focus on the time-line of events, to find an implication, but rather on the spatial characteristics of a set of values, for instance if they match the qualities of a matrix template. The aesthetics of abductive reasoning can be thought of as consisting of several model types, each with their own characteristics, but a common thread of converting actions over time into a spatial arrangement. These pattern matching patterns, are broadly outlined by Berry as, template-matching, prototype matching, feature analysis, recognition by components, Fourier analysis, and lastly bottom-up and top-down processing.[fn:60] By using abductive reasoning as a composition tool we can see the process of recognition in action, and begin to think about its effect. The characteristics which I wish to bring to my art works are those of spatial, speculative, and generative. Abductive reasoning invites us to consider a algorithms image of the world, and what these algorithms mean to us as ways to regulate our behaviour. This approach to reasoning and experience is deeply connected to the history of computation, particularly that leading to the development of the personal computer.
+   Similarly to my comments on network experience, what abductive reasoning tends to bring to logic is non-linear patterning. Abductive recognition does not focus on the time-line of events, to find an implication, but rather on the spatial characteristics of a set of values, for instance if they match the qualities of a matrix template. The aesthetics of abductive reasoning can be thought of as consisting of several model types, each with their own characteristics, but a common thread of converting actions over time into a spatial arrangement. These pattern matching patterns, are broadly outlined by Berry as, template-matching, prototype matching, feature analysis, recognition by components, Fourier analysis, and lastly bottom-up and top-down processing.[fn:48] By using abductive reasoning as a composition tool we can see the process of recognition in action, and begin to think about its effect. The characteristics which I wish to bring to my art works are those of spatial, speculative, and generative. Abductive reasoning invites us to consider a algorithms image of the world, and what these algorithms mean to us as ways to regulate our behaviour. This approach to reasoning and experience is deeply connected to the history of computation, particularly that leading to the development of the personal computer.
 
 ** WRITE Exploring the interface - Introduction to Projects, inspirations for works
 
 ** Vocaloid
+   All three works use the computer to render some element of the 'natural', be it the homan voice of the landscape.
 
 ** Streamed Media
 
 ** Hyper Referencing
 
-** Social Interfaces
+** WRITE Social Interfaces
 
+  The lineage of the personal computer, so ubiquitous today, is part of the the 'california ideology' on interaction with computers today seems to enforce the idea of engagement with a computer being focused on having one operator, holding tight deterministic control over one program utilising an acceptable set of input and output techniques. I believe that lineage is reaching both its apothetis and point of crisis, in part brought on by the arrival of the social, and control of social computing, that challenges the individuality of the computer user.
+
+  How to portray this rich and often conflicted history in a word is a difficult task.
    This works are focussed on exploring the idiosyncrasies of networked real time communication through a novel interfaces. They attempt to take a simple and humorous approach to the interface and audio-viual experience, with a layer of complexity developed around the social and surveillant possibilities in the work.
-
-*** Parasite II
 
 Parasite II is an attempt to incorporate computational and networked approaches to photographic intelligence as a method for musical composition. While Parasite I focused on communications intelligence and interpersonal relations, Parasite II is centred on Photographic Intelligence [PHOTINT] as a musical method and inter-application communication within the machine.
 
@@ -105,166 +107,82 @@ Also commonly known as Imagery Intelligence [IMGINT], this kind of intelligence 
 
 Part of the creative inspiration for the project is in the arrangement of communications between disparate software programs. as they share their contexts as they seemingly operate in parallel. Each program uses the same sensory information but styles it using a different logic and syntax that informs the audio and visual outcome. This is an early form of what Manuel DeLanda has termed a ‘Pandemonium’ (link). In its ultimate form according to De Landa, processes would operate as small modular forms of artificial intelligence. As it is experienced in the gallery context, the sensation of effecting both audible and visual landscape is hoped to be both thrilling and mildly sinister.
 
-* WRITE Parasite One
+* EDIT Parasite One
 ** Summary - Inspiration for Work.
 
    This installation takes place on a staircase, occupying seven stairs. Each stair has a simple floor trigger underneath and adjacent light source to illuminate each stair as a participant passes through the space. Hidden near the stairase sits a speaker that plays a different section of a vocal phrase as the participant moves between steps. The sound that plays at each stair is a gated segment of a long, looping vocaloid vocal track, in which a computerised voice sings a tale of its work for the day. There is also a website for the installation where users can log on to observe the space and listen to the installation. Access to the website also offers users two other elements of added functionality. After allowing access to a users microphone and camera, they can now trigger staircase responses remotely, by hovering or toxing a translucent box overlaying the visual image of each stair.
 
-The computer is set to turn on the 12 volt lights attached to each stair in response to either an action on the website or physical trigger. The website is also constantly looping through seven chanels of audio, each channel its volume output gated to sound when a user stands upon a floor sensor. At the top stairs visible to those ascending there is a handwritten universal resource locator (URL) directing those who are interested to visit a web page. [fn:68]
+The computer is set to turn on the 12 volt lights attached to each stair in response to either an action on the website or physical trigger. The website is also constantly looping through seven chanels of audio, each channel its volume output gated to sound when a user stands upon a floor sensor. At the top stairs visible to those ascending there is a handwritten universal resource locator (URL) directing those who are interested to visit a web page. [fn:49]
 
  However by participating online in this manner the user also becomes part of the installation, the sounds of their microphone stream replace those of one of the stairs in the installation for as long as they are visiting the site. The stair whose sound a user becomes is dependant on the time of day at which they log on to the site and the number of current users. Over the course of the installation, the sung elements begin to degrade and fragment according to the data collected on the usage of the stairs, which collates both physical and virutal users as they 'wear' down the sounds on each step.
 
  The observed experience is markedly distinct for the two kinds of participants. In-situ visitors are usually at first surprised by the hidden apparatus and illumination of their movement. There is an element of the fantastical that gives way to the more concerning on repeated visits as the sounds begin to crackle and fade. For the virtual visitor there is a similar shift in mode, as at first the power to survey and control gives way to a disembodied self, as they begin to occupy the space that they are surveying and add value to the work through their engagement.
 
- Some  of the principal sources of inspiration are a of John Cage’s Imaginary Landscape Number 5.[fn:65] This re-imagining of the work is also inspired by the oblique and text-less networking system of the video game Dark Souls[fn:61] the 'cut up' technique of William Burroughs, as well as novelty ‘giant’ piano featured in toy store sequences from the movies Big[fn:62] and Lethal Weapon.[fn:63] Taking these elements and exporing the sensory and aesthetic possibilites of network and attempting to convey some of the anxiety and novelty to users sonically is the driving force of the work.
+ Some  of the principal sources of inspiration are a of John Cage’s Imaginary Landscape Number 5.[fn:50] This re-imagining of the work is also inspired by the oblique and text-less networking system of the video game Dark Souls[fn:51] the 'cut up' technique of William Burroughs, as well as novelty ‘giant’ piano featured in toy store sequences from the movies Big[fn:52] and Lethal Weapon.[fn:53] Taking these elements and exporing the sensory and aesthetic possibilites of network and attempting to convey some of the anxiety and novelty to users sonically is the driving force of the work.
 
 ** Technical Outline
 
-   The installation parasite is a work that occupies a staircase, using seven floor panel sensors constructed from conductive material and plastic to form large buttons. These buttons are placed under pieces of carpet and wired to the General Purpuse In/Out (GPIO) pins of a Beagleboard embedded computer. The computer is set to transmit sound within the space using the audio capabilities of a javascript application programming interfaces (APIs).
+   Custom built floor panels are placed under pieces of carpet and wired to the General Purpuse In/Out (GPIO) pins of a Beagleboard embedded computer. The Beagleboard manages the pins using its built in microcontroller chip, while the embedded computer serves the website at http://1.parasite.club. The computer is also scripted to open a local web page that responds to webSocket messages and manages audio output. The local page is set to loop seven channels of sound within the space using the audio capabilities of a Web Audio Application Programming Interface (APIs).
 
-   The floor sensors that serve as basic buttons are connected to seven digital inputs on the beagleboard, using the internal pins of each pin to serve as pull up resistors and create a typical ‘button’. To control the lighting seven digital outputs send 3.3v control voltage signals to N-Channel MOSFETs (link). The MOSFET transistors gate each lights 12v voltage provided by a separate power rail.
+   The floor sensors serve as basic buttons are connected to seven digital inputs on the Beagleboard, using the internal pins of each pin to serve as pull up resistors and create a typical ‘button’. To control the lighting seven digital outputs send 3.3v control voltage signals to transistors. The transistors gate each light's power, provided by a separate power rail. Should either a websocket message or button press be received, the web page is set to gate the sound of teh appropriate loop, and the Beagleboard to light the correstponding lighting strip.
 
-   The server on the computer manages the major communication aspects of the installation, those being communication with the GPIO pins, handling html web page requests and bi-directional socket communication with users once the page is sent. The socket communication is on a seperate protocol that enables two-way real time communication over an persistent connection between server and client. [fn:70]
+   The server on the computer manages the major communication aspects of the installation, those being communication with the GPIO pins, handling web requests and bi-directional socket communication with users once the page is recieved by the client. WebSocket communication enables two-way real time communication over an persistent connection between server and client. [fn:54] The third protocol is the management of real-time audio-video communication as handled by the Web Real Time Communication Protocol(WebRTC), which enables a teleconferencing like arrangement to be quickly established so that users can monitor each other and the server. All of these communication aspects are each handled within the node.js server-side language. In addition to this a small logging system is used to store user behaviour for later analysis processing and scripting of audio processing, while a cloud based archiving system exists to store video archives.
 
-The third internet protocol is the management of real-time audio-video communication as handled by the Web Real Time Communication Protocol(WebRTC), which enables a teleconferencing like arrangement to be quickly established so that users can monitor each other and the server. All of these communication aspects are each handled within the node.js server-side language. In addition to this a small logging system is used to store user behaviour for later analysis processing and scripting of the audio, and a database and archiving system exist to store user messages and video archives.
+At a predetermined each day a small script is run that applies a transformation from the Composers Desktop Project to the streams of audio on the basis of usage for each stair. The script is set to remove the loudest frequencies from the spectral domain and average the quieter frequecies slightly if the stair has been used, multiplying the effect of the basis of usage. The extend of modification is designed to be very slight, with the intention of the sound only reaching its full 'blurred' state, on a rough average over a period of thirty days. After 30 days the sounds are reset to their initial state.
 
-At the end of each day a small script is run that applies a transformation from the Composers Desktop Project to the streams of audio on the basis of the amount of use of each stair.
+ The website uses the Johnny-Five library to allow the server to communicate with the computers on chip mircocontroller. The requirements for the Beagleboard chips embeded microcontroller in this instance are to register any floor sensor button presses, log them and send a digital 'high' message to the transistor corresponding to the light. The second requirement is to send this message as a webSocket broadcast, so that each clients interface reflects the current state of the system. The other requirement is to receive any webSocket messages.
 
-*** Johnny-Five (link)
+ Users who visit the web page are served a unique interface from the Beagleboard. This page contains a real time video of the room as well as the necessary authentication tokens for them stream their own media. To provide the dynamic content the express library backend generates the custom html necessary. In this case the process is relatively simple, with the content being a largely static page augmented with dynamically generated user tokens and statistics for the extra protocols and logging system. The small log displayed to users shows the identity details of recent users, an IP address, location, hardware details, name and time of day and length of access for other users.
 
-The Johnny-Five library allows node.js to communicate with the real-time mircocontrollers embedded in the computer by sending midi messages over the serial bus to the Beagleboard. The requirements for the Beagleboard in this instance are to register any floor sensor button presses, log them and then send an ‘on’ message to the 12v LED strip corresponding to the panel. The second requirement is to also send this message on to the webSocket management system, to be broadcast to all users. The final requirement is to also receive any messages from webSockets that direct the microcontroller to turn its LEDs on and do so. This third requirement enables the arduino to receive messages from remote participants, in this case so that visitors to the web page can control the installations light and sound by hovering over different buttons, simulating in-person participation.
+ The socket.io library manages webSockets providing a more manageable abstraction for dealing with asychronous realtime messages. As the name implies, the library forms the core of the input/output messaging system of the installation by relaying messages in real time between disparate users and the server. The library can therefore manage all aspects of the chat application and user hover actions. Keeping track of users and their states and broadcasting these messages to all participants as well as broadcasting button triggers on the stairs to all website users. The web server provides two web pages, one outwardly facing root of the web site, which serves the main client side application, a chat room with real time audio/video communication. The second page (henceforth referred to as the ‘host’ page) is served is at  an undisclosed url that provides audio functionality for the staircase and intended only for use in a scenario where a computer is connected to a webcam, speakers and microphone, although the possibilities of ‘hacking’ the host page is left open due to its publicly accessible address.
 
-(img 10 liner johnny-five code snippet)
-
-*** express
-
-Users who visit a web page a served a web page from the installations computer. This page contains a real time video of the room as well as the necessary authentication tokens for them stream their own media. To provide the dynamic content the express middleware backend generates the html necessary. In this case the process is relatively simple, with the content being a largely static page augmented with dynamically generated user tokens and statistics, as well as a small log displaying identity details of recent users IP addres, location, hardware details, name and time of day and lenght of access.
-
-*** socket.io (link)
-
-The socket.io library manages webSockets providing a more manageable abstraction for dealing with aschronous realtime messages. As the name implies, the library forms the core of the input/output messaging system of the installation by relaying messages in real time between disparate users and the server. The library can therefore manage all aspects of the chat application and user hover actions. Keeping track of users and their states and broadcasting these messages to all participants as well as broadcasting button triggers on the stairs to all website users.
-
-*** Logging
-
-A simple but key aspect is the ability to accurately log events for later analysis and compositional practice.. In this case a user logging on hovering over of standing on a  step are all given a date and time stamp then logged to a text file. Further user monitoring is handled on the client side by cloud based services firebase.io (link) and openTok (link).
-
-*** Database & Archiving
-
-Chat messages are logged to the cloud base fiebse service as they are received. This provides a complete text archive of all messages that can be acessed using an api from anywhere. Allowing the server to send clients the last ten messages to provide context and possibilities for analysis of the data to inform compositions. Similarly the server-side aspects of the openTok real-time-communication for video library offer a convenient way to archive video chat usage, which is then uploaded to a cloud-based storage instance provided by providers such as microsoft azure or any cloud provider that is currently offering discount cloud computing such as amazon ec2.
-
-*** Client Side Web Programming - Chat, Video and Web Audio
-
-The web server provides two web pages, one outwardly facing root of the web site, which serves the main client side application, a chat room with real time audio/video communication. The second page (henceforth referred to as the ‘host’ page) is served is at  an undisclosed url that provides audio functionality for the staircase and intended only for use in a scenario where a computer is connected to a webcam, speakers and microphone, although the possibilities of ‘hacking’ the host page is left open due to its publicly accessible address.
-
-The ‘host’ page is primarily designed to contain a web audio API ‘audiocontext’ (link to appendix describing web audio api) that is controlled by webSocket messages to turn gain nodes on and off, a buffer and gain node corresponding to each step. This buffer initially contains a long (8 minutes or more) field recording. As users step on floor sensors or web client users hover over a set of 8 boxes , the corresponding gain node of a stair is un-muted.
-
-For further explanation of the webAudio API system please see appendix 1.
-
-(webAudio context diagram of internal signal flow)
-
-The ‘host’ pages user functionality is minimal and specifically designed around the needs of the installation, providing appropriate responses to websocket messages by raising the gain of audio streams if told to by the server or another client. Despite the possibility of
-
-(Video of ‘host’ page demo showing gain being added on step or user hover)
-
+The ‘host’ page is primarily designed to contain a web audio API ‘audiocontext’ (link to appendix describing web audio api) that is controlled by webSocket messages to turn gain nodes on and off, a buffer and gain node corresponding to each step. This buffer initially contains a long (8 minutes or more) field recording. As users step on floor sensors or web client users hover over a set of 8 boxes , the corresponding gain node of a stair is un-muted. The ‘host’ pages user functionality is minimal and specifically designed around the needs of the installation, providing appropriate responses to websocket messages by raising the gain of audio streams if told to by the server or another client.
 
 ** Preparation, Collecting Data, Composing.
-* WRITE Parasite Two
+
+* EDIT Parasite Two
 ** Summary
 
    The setup for this installation involves a large glass box containing white sand, with speakers and a computer placed adjacent. Above the sandbox a projector and depth sensing camera are mounted. The camera senses the topology of the sandbox surface beneath in and overlays a series of topological data such as relief contours. In turn the contours are treated as a series of waveforms that are rendered by the musical system.
 
-   Structures and systems can be difficult to perceive but here the participant is placed into the role of composer of landscape on a macro level and given a kind of god like power over the environs. Because of the closed loop nature of the response relationship between projector, sand and camera it appears to the user as if all actions are controlled by the human controller. However it is really a careful management of shared information and state between computer processes and sensors that enables this kind verisimilitude. As such such this work is also a kind of SENSINT, a less well known kind of surveillance that depends upon developing intelligence from mechanical sensors placed in the field.
+Parasite II is a audio/visual installation that combines a visual topographic rendering with a sequencing and synthesis system. A projector and depth sensing camera are mounted over a box of sand, connected to a computer and speaker system. A topographic relief map is projected onto the surface that is able to be interactively ‘reshaped’ by the user. This ‘landscape’ informs the process of a topographic sequencer modelled on the work of Iannis Xenakis to inform a probabilistically variable series of sequenced sonic events. The contouring of the landscape creates multiple levels of sonic event, macro level arrangement, meso frequency of occurrence and micro level synthesis.
 
-(subsction) - SENSINT and Early Electronic Music.
+ The participant is placed into the role of composer of landscape and given a kind of god like power over the environs. The installation is designed to be used by multiple particpants at once, and users can cooperate or work against each other. In a similar manner the resources of the camera and projector feed are shared by the computer applicaitons. The sound sequencing and rendering system is heavily inspired by the work of Iannis Xenakis. Both in the adoption of existing concept and software as given in his book Formalized Music (link) as well as an interpretive glance at extending some of the possibilities by looking at topology as a compositional practice.
 
-The sound sequencing and rendering system is heavily inspired by the work of Iannis Xenakis. Both in the adoption of existing concept and software as given in his book Formalized Music (link) as well as an interpretive glance at extending some of the possibilities by looking at topology as a compositional practice
+ The works aims to consider the raltion between the camera, participant and interaction. Lev argues that new media is focused on the camera. Here we expand this to a three dimensional camera, a camera rendered landacape. The networking and social interaction that takes place here isn't connected across the internet, rather it is decidedly local, however it is a deeply technoligcally mediated collaboration.
 
 ** Technical Outline
 
-Parasite II Summary
-(installation image)
+The installation consists of a open top glass box of dimensions 0.75m x 1m x 0.15 depth, filled with 50 kilograms of white sand. Directly above the box a short-throw projector and depth sensing camera (Microsoft Kinect version one) are mounted. These are connected to a desktop computer running Linux with a graphics card and audio output.
 
-Parasite II is a audio/visual installation that combines a visual topographic rendering with a sequencing and synthesis system. A projector and depth sensing camera are mounted over a box of sand, connected to a computer and speaker system. A topographic relief map is projected onto the surface that is able to be interactively ‘reshaped’ by the user. This ‘landscape’ informs the process of a topographic sequencer modelled on the work of Iannis Xenakis to inform a probabilistically variable series of sequenced sonic events. The contouring of the landscape creates multiple levels of sonic event, macro level arrangement, meso frequency of occurrence and micro level synthesis.
+The visual rendering software is SARndbox, an augmented virtual reality system developed by Oliver Kreylos at the University of Davis California. [fn:55] The software forms a closed feedback loop as the calibrated information from the depth camera and renders topographical data in the form of a dynamic map onto the sand surface. This topographic rendering can be dynamically altered by users altering the depth and contours of the sand surface. Water flow simulations are also rendered when the algorithm determines the depth or contours capable of  containing a body of water. As data from the depth camera arrives it is sent to Oliver Kreylos Virtual Reality User Interface (VRUI) system.[fn:56] This software acts as an abstraction between the device driver and the rendering of three dimensional information, allowing the application to act as a server that sends the data of to its visual system of SARndbox extensions for the program as well as to other applications, in this case a custom compiled version of Iannix that sequences the audio subsystem.[fn:57]
 
-
-The installation consists of a open top glass box of dimensions 0.75m x 1m x 0.15 depth, filled with 50 kilograms of white sand. Directly above the box a short-throw projector and depth sensing camera (Microsoft Kinect v.1) are mounted. These are connected to a desktop computer running linux with a graphics card and audio output.
-
-(Diagram)
-
-The visual rendering software is SARndbox,  an augmented virtual reality system developed by Oliver Keylos at the University of Davis California (link) The software forms a closed feedback loop with the calibrated information from the depth camera and renders topographical data in the form of a dynamic relieve map onto the sand surface. This topographic rendering can be dynamically altered by users altering the depth and contours of the sand surface. Water flow simulations are also rendered when the algorithm (link) determines the depth or contours capable of  containing a body of water.
-
-(Video of user interaction)
-
-Kinect Data
-
-As data from the depth camera arrives it is sent to Oliver Kreylos Virtual Reality User Interface (VRUI) system (link). This software acts as an abstraction between the device driver and the application handling of the information, allowing the application to act as a server that sends the data of to its visual system of SARndbox extensions for the program as well as to other applications, in this case a custom compiled version of Iannix(link) that sequences the audio subsystem.
-
-(diagram of a/v software communication system)
-
-Visual System
-
-The visual system is largely handle by preexisting software that only needs to be compiled and calibrated, a time demanding but well documented process. Custom relief colours and depth ranges edited in configuration text files following a hardware, then software based camera calibration process (see appendix). After this the rendering of relief features is also calibrated to have the measurement and projection systems aligned with a high degree of accuracy (< 1mm under ideal circumstances).
-
-Audio Sequencing System (Macro and Meso Level event triggering)
-
-The signal from the Microsoft Kinect is also sent to a custom version of the IanniX (link) three dimensional sequencer software. The software is a modern implementation of Iannix Xenakis HPIC visual arrangement system. (for more details describing the structure of UPIC and Iannix programs see appendix c). This custom compiled version of Iannix allows input from a  kinect camera to control the shape of curves along which travel cursors. The position of a cursor is relayed over OSC to  the audio rendering system (Micro Level), collisions between curves are also able to be detected to form Meso level events.
-
-Audio Rendering System
-
-At present various audio synthesis methods are being explored. The two techniques being explored are to use an additive synth,  directly mapping frequency to the x axis, gain to the y axis and an effect to the depth (ugh re word - testing has taken place)
-
-The second option being explored is an implementation of Iannis Xenakis’ GENDY stochastic synthesiser. The GENDY system will map sets of control points to contours of the landscape, with elevation determining the event distribution and
-
-The ultimate goal is to implement a stochastic sequencing system utilising the
-
-
-At present the
-
-(10 sec video demo of Kinect > Iannix)
-
-and and video output to
-
-Audio Sequencing System
-
-CosmosF
-
-Description.
+The visual system is handled by preexisting software that only needs to be compiled and calibrated. Custom relief colours and depth ranges are added in configuration text files. The signal from the Microsoft Kinect is also sent to a custom version of the IanniX [fn:58] sequencer. The software is a modern implementation of Iannix Xenakis HPIC visual arrangement system.  This custom compiled version of Iannix allows input from a Kinect camera to control the shape of curves along which travel cursors.[fn:59] The position of a cursor is relayed over OSC to  the audio rendering system, collisions between curves are also able to be detected to from Meso level events. The sound is rendered using an implementation of Iannis Xenakis’ GENDY stochastic synthesiser. The GENDY system will map sets of control points to contours of the landscape, with elevation determining the event distribution and amplitude.
 
 * WRITE Parasite Three
 ** Summary
-   Parasite III is a performance work that takes a collection of the materials collected in the other works and uses them to explore the real time possibilities.
 
-   The purpose of the work is to give a  concise, live performance work that attempts to convey some of the themes of the other installation and to embed myself deeper within the practice of considering networking and computation as sufficient metaphors for musical practice. Part of the practice here is to try and articulate the practice of Systems Analysis. To take a collection of data and real time streams, as well as a context and personal experiences, and articulate a real time summary of the mood and meaning relevant to an audience.
+   // button pushes as OSC messages. Log as samples
+   relief map as effect. Log as 3d envelope.
 
-In this way the work seeks to look at the idea of ‘information’, and the shaping of messages, as a hybrid process in which aesthetic choices, technological capabilities and social signalling processes are all complicit. It is hoped by choosing ‘alternative’ and more experimental practices for live performance, that some of the common tropes and negotiated meanings that are also in more regular practices can also be noted.
+   Parasite III is a performance work that takes a collection of the materials collected in the other works, and uses them to explore the real time possibilities, with a networked haptic interface in a performance context. The purpose of the work is to give a performance work that attempts to convey some of the themes of the other installation and to embed myself deeper within the practice of considering networking and computation as modifiers of musical practice. To take a collection of data and real time streams, as well as the context of the other installations, by extedning the notion of logging, and articulate a real time summary of the mood and meaning relevant to an audience.
 
-The complete setup and a set of recordings are given in the technical section.
+    The performance elaborate on the concepts from the first two pieces, along with networked streams of information
+It takes elements from Parasite I and the techniques from Parasite II and reconfigures them into elements of a live, improvisatory performance.
 
-(Give example score)
+ In this way the work seeks to look at information and the shaping of messages, as a hybrid process in which aesthetic choices, technological capabilities and social signalling processes are all complicit. It is hoped by choosing ‘alternative’ and more experimental practices for live performance, that some of the common tropes and negotiated meanings that are also in more regular practices can also be noted.
 
-In a general sense, the work follows an interest in the idea of the human as computer. The word itself once mean simply a person who does calculations. The term has a gendered and social history. A computer used to be a person on a large team that would be tasked with making calculations and giving reckonings, as it was a key job during warfare. They later became teams of  women that would prepare programs, maintain machines and input the code.
+In a general sense, the work follows an interest in the idea of the human as computer. The word itself once mean simply a person who does calculations. The term has a gendered and social history. A computer used to be a person on a large team that would be tasked with making calculations and giving reckonings, as it was a key job during warfare. They later became teams of  women that would prepare programs, maintain machines and input the code. Here the concept of the work is to act as a node, linking three other streams that represent the other works that make up the parasite suite and extending or re-configuring them when necessary.
 
-Here the concept of the work is to act as a node, linking three other streams that represent the other works that make up the parasite suite and extending or re-configuring them when necessary.
-
- (intro into this?)
 The work borrows the concept of a ‘possibility space’ from the world of video games. The initial state of the world and areas of concern are shifted with each initialization of the work to create the software’s game world. As with the other installations, there is a designation of syntax by the composer prior to the performance, here ordered around the type of sound elements, controls available and the conception of an ‘ideal state’, however the expression or, ‘path-finding’ of how to achieve any goals is varied and different for any performance. The performance focuses on the performer extracting the emergent properties of the software and finding a manner to interact with the ‘possibility space’.
 
 ** Tech Outline
-Parasite III is a performance piece that makes up the third part of the series exploring computation centric sound generation and networking.The performance elaborate on the concepts from the first two pieces, utilising the networked streams of information from Parasite I and the stochastic sampling and synthesis methods from Parasite II as part of a live, improvisatory performance.
 
-Channel 1
+The performed work uses four channels of information rendered into a stereo output. The first channel is a series of samples which are collected from the users of the Parasite I installation along with chat logs. For each user audio clip taken the corresponding log entry is sung by the computer using the voice synthesis software. The technique f singing for the vocaloid song is based on my evaluation of the audio clip.
 
-The performed work uses four channels of information to be rendered into a stereo output. The first channel is a series of samples which are rendered from the chat logs of the Parasite I installation. Interesting vocal excerpts are rendered using the voice synthesis software Vocaloid (link). The merits of vocal excerpts are currently chosen on the basis of aesthetic preference, although an automated stochastic approach is to be tested in the next performance.
+The samples are played basing using the CosmosF stochastic Sequencer and Synthesiser developed by Sinan Boksoy.[fn:61] The software is an opinionated interpretation of the work of Xenakis in Formalised Music to have a multi level (micro meso macro) stochastic sequencer that also contains a stochastic synthesis engine and represents a massive effort into developing the concepts of stochastic approaches to music by Dr. Boksoy. I take a limited approach to utilising the software, focusing exclusively on the use of samples whose duration and onset are stochastically controlled. The relevant parameters are mapped to a faderfox FX3 controller.
 
-More detail about CosmosF
-
-The samples are played basing using the CosmosF stochastic Sequencer and Synthesiser developed by Sinan Boksoy (link). The software is an aesthetically opinionated interpretation of the work of Xenakis in Formalised Music to have a multi level (micro meso macro) stochastic sequencer that also contains a stochastic synthesis engine and represents a massive effort into developing the concepts of stochastic approaches to music by Dr. Boksoy. I take a limited approach to utilising the software, focusing exclusively on the use of samples whose duration and onset are stochastically controlled. The relevant parameters are mapped to a faderfox FX3 controller.
-
-(diagram controller mapping)
-
-Channel 2
-
-The second channel uses an instrument designed specifically for the performance, the Firefader (link) an open source haptic interface developed by Edgar Berdhal. The instrument is comprised of two motorised faders with capacitive sensing to ascertain when a user touches one of the faders.the physical modelling of objects then able to take place in software and should the computation time be fast enough, low latency messages sent back to the motors to enable highly realistic modelling of the physical object. (See appendix for more info on the Firefader).
+The second channel uses an instrument designed specifically for the performance, the Firefader,[fn:62] an open source haptic interface developed by Edgar Berdhal. The instrument is comprised of two motorised faders with capacitive sensing to ascertain when a user touches one of the faders.the physical modelling of objects then able to take place in software and should the computation time be fast enough, low latency messages sent back to the motors to enable highly realistic modelling of the physical object. (See appendix for more info on the Firefader).
 
 The firefader is connected to two max/msp patches based on example patches from Berdhahl's course in open source haptics. The first uses a series of arbitrarily tuned resonator connected to a spring model to somewhat emulate a steel object. There are four springs and resonator combinations placed near the four upper and lower limits of the firefader. For this instance the frequency and harmonics of the resonators are each tuned to match important frequencies of an arabic maqam mode that will be placed to accompany the piece. In the next performance other tuning schemes will be explored, likely to match an analysis of the vocaloid excerpts.  Further experimentation is still needed.
 
@@ -295,149 +213,103 @@ remain held fast in the will to master it.”9 A similar theme is taken up and e
 
   The end goal is the hope tat users will envisage teh ways in which existing social engagements can be 're-tooled'. The 'hack' of technology is often not highly technical, instead it is a re-visioning of what a technology could be useful for.
 
-* WRITE Extra Notes
-
-*** Look at study on Links
-
-jockeys.[fn:64]
-*** WRITE Graph of structure of Computationality
-
-Networked Experience() ->
-Abductive Aesthetics() ->
-= Computationality ()
-both combine into set of qualities
-
-(Berry on Twitter [p. 76])As a form of computational media that is highly social, it presents an interesting case study in relation to our public/private experiences of communication through a computational platform.
-
-   In this respect human relationships with technology occupy a somewhat vexed space, with technology seen as both 'means to an end', a tool of progress or improvement, yet perhaps more importantly technology is also a medium through which we experience the world.
-
-* WRITE Appendix - Historical Studies
-
-  The lineage of the personal computer, so ubiquitous today, is part of the the 'california ideology' on interaction with computers today seems to enforce the idea of engagement with a computer being focused on having one operator, holding tight deterministic control over one program utilising an acceptable set of input and output techniques. I believe that lineage is reaching both its apothetis and point of crisis, in part brought on by the arrival of the social, and control of social computing, that challenges the individuality of the computer user.
-
-  How to portray this rich and often conflicted history in a word is a difficult task.
-
 * Footnotes
 
-[fn:1] Galloway, 10 Theses on the digital
+[fn:1] François Dagognet, Faces, Surfaces, Interfaces (Paris: Librairie Philosophique J. Vrin, 1982), 49
 
-[fn:2] LEAVol19No1-McGarrigle.pdf
+[fn:2] Wendy Hui Kyong Chun, On Software, or the Persistence of Visual Knowledge, Grey Room 18 (Winter 2004): 26– 51, 44
 
-[fn:3] link to weiner
+[fn:3] Wikipedia social computing https://en.wikipedia.org/wiki/Social_computing
 
-[fn:4] link de landa, berry.
+[fn:4] From "Social Computing", introduction to Social Computing special edition of the Communications of the ACM, edited by Douglas Schuler, Volume 37 , Issue 1 (January 1994), Pages: 28 - 108
 
-[fn:5] idea taken from the talk,"the web that wasn't" )[[webthatwasnt][twtw]]
+[fn:5]
 
-[fn:6] link to deetails on javascript streams
+[fn:6] From "Social Computing", introduction to Social Computing special edition of the Communications of the ACM, edited by Douglas Schuler, Volume 37 , Issue 1 (January 1994), Pages: 28 - 108
 
-[fn:7] berry 10
+[fn:7] http://www.slate.com/articles/technology/bitwise/2015/01/black_box_society_by_frank_pasquale_a_chilling_vision_of_how_big_data_has.html
 
-[fn:8] softwareised society, link opening of phil of software on dependance on software for survival. berry p.
+[fn:8] Paper on organisation structure effecting software design
 
-[fn:9] berry, p. 6.
+[fn:9] Theories of the Digital
 
-[fn:10] berry and deleuze, p. 18.
+[fn:10] Put refs for all tehse people here
 
-[fn:11] link to classic essay about design of saftware informed
+[fn:11] 'Critical Theory and the Digital'
 
-[fn:12] any links to this? there was a bit from deland
+[fn:12] Heidegger notes in /Being and Time/ that the priveleging of the present has a *parasitic* relationship with the concept of time. This could be extended.
 
-[fn:13] sousveilance
+[fn:13] heidegger qct
 
-[fn:14] foucoult link, design of software and oppression
+[fn:14] Waddington 577
 
-[fn:15] Wikipedia social computing https://en.wikipedia.org/wiki/Social_computing
+[fn:15] Waddington 577
 
-[fn:16] From "Social Computing", introduction to Social Computing special edition of the Communications of the ACM, edited by Douglas Schuler, Volume 37 , Issue 1 (January 1994), Pages: 28 - 108
+[fn:16] (Harries, 1994, p. 233) IN Waddinton 577
 
-[fn:17]
+[fn:17] Enframing Heidegger p.2
 
-[fn:18] From "Social Computing", introduction to Social Computing special edition of the Communications of the ACM, edited by Douglas Schuler, Volume 37 , Issue 1 (January 1994), Pages: 28 - 108
+[fn:18] Second ceoncealment Heidgger
 
-[fn:19] http://www.slate.com/articles/technology/bitwise/2015/01/black_box_society_by_frank_pasquale_a_chilling_vision_of_how_big_data_has.html
+[fn:19] Berry on 'super-mediums'
 
-[fn:20] Paper on organisation structure effecting software design
+[fn:20] Ref to Application layer of TCP/IP
 
-[fn:21] Theories of the Digital
+[fn:21] /E-mail emerged in 1971 when users began experimenting with ways of sending electronic messages from one networked computer to another. in her study of the internet's origins, Janet Abbate writes that e-mail "remade" the arpanet system and caused it to be see 'not as a computer system but rather as a communication sytem/ (ref.82) 1.[fn:75]
 
-[fn:22] Put refs for all tehse people here
+[fn:22] Nelson Dream Machines
 
-[fn:23] 'Critical Theory and the Digital'
+[fn:23] One of first widely noted hypermedia examples was an interactive video application for path finding through the city of Aspen, with video displaying a multi detailed map of Aspen mixed into the skyline, the application very similar to the later google maps.
 
-[fn:24] Heidegger notes in /Being and Time/ that the priveleging of the present has a *parasitic* relationship with the concept of time. This could be extended.
+[fn:24] See Derrida Text v speech.
 
-[fn:25] heidegger qct
+[fn:25] Web Audio API
 
-[fn:26] Waddington 577
+[fn:26] Computer Lib
 
-[fn:27] Waddington 577
+[fn:27] Development of streaming
 
-[fn:28] (Harries, 1994, p. 233) IN Waddinton 577
+[fn:28] http://www.hpl.hp.com/techreports/2002/HPL-2002-260.pdf
 
-[fn:29] Enframing Heidegger p.2
+[fn:29] See the deisgn of TCP/IP, also md5 sums
 
-[fn:30] Second ceoncealment Heidgger
+[fn:30] Streams Programming Languages
 
-[fn:31] Berry on 'super-mediums'
+[fn:31] See streaming in js, matz pipe language
 
-[fn:32] Ref to Application layer of TCP/IP
+[fn:32] ref to dependdence on human actors in cybersyn
 
-[fn:33] /E-mail emerged in 1971 when users began experimenting with ways of sending electronic messages from one networked computer to another. in her study of the internet's origins, Janet Abbate writes that e-mail "remade" the arpanet system and caused it to be see 'not as a computer system but rather as a communication sytem/ (ref.82) 1.[fn:69]
+[fn:33] Cybernetic Revolutionaries
 
-[fn:34] Nelson Dream Machines
+[fn:34] Twitter Sort
 
-[fn:35] One of first widely noted hypermedia examples was an interactive video application for path finding through the city of Aspen, with video displaying a multi detailed map of Aspen mixed into the skyline, the application very similar to the later google maps.
+[fn:35] Soylent web site
 
-[fn:36] See Derrida Text v speech.
+[fn:36] Mechanical Turk
 
-[fn:37] Web Audio API
+[fn:37] Link california ideology works
 
-[fn:38] Computer Lib
+[fn:38] /The visions of a free, uncensorable cyberspace envisioned by Barlow, Gilmore and others was incompatible with the needs of Capital, and thus the libertarian impulses that drives Silicon valley caused a change in tune. Cyberspace was no longer a new world, declared independent with its own unalienable rights, it was now an untamed frontier, a wild-west where spooks and cypherpunks do battle and your worth is measured by your crypto slinging skills and operational security... This, as Seda Gurses argues, leads to Responsibilization... Users themselves are responsible for their privacy and safety online. No more unalienable rights, no more censorship resistant mass networks, no more expressing beliefs without fear of being silenced. Hack or be hacked./[fn:76]
 
-[fn:39] Development of streaming
+[fn:39] repetition of design patterns
 
-[fn:40] http://www.hpl.hp.com/techreports/2002/HPL-2002-260.pdf
+[fn:40] (digression on culture)
 
-[fn:41] See the deisgn of TCP/IP, also md5 sums
+[fn:41] Pattern Aesthetics
 
-[fn:42] Streams Programming Languages
+[fn:42] the new Aesthetics
 
-[fn:43] See streaming in js, matz pipe language
+[fn:43] Chip tunes and pixel art
 
-[fn:44] ref to dependdence on human actors in cybersyn
+[fn:44] Is the museum a battle field
 
-[fn:45] Cybernetic Revolutionaries
+[fn:45] link between abductive reasoning and ai.
 
-[fn:46] Twitter Sort
+[fn:46] link to uses of term
 
-[fn:47] Soylent web site
+[fn:47] link to new aesthetic site / files
 
-[fn:48] Mechanical Turk
-
-[fn:49] Link california ideology works
-
-[fn:50] /The visions of a free, uncensorable cyberspace envisioned by Barlow, Gilmore and others was incompatible with the needs of Capital, and thus the libertarian impulses that drives Silicon valley caused a change in tune. Cyberspace was no longer a new world, declared independent with its own unalienable rights, it was now an untamed frontier, a wild-west where spooks and cypherpunks do battle and your worth is measured by your crypto slinging skills and operational security... This, as Seda Gurses argues, leads to Responsibilization... Users themselves are responsible for their privacy and safety online. No more unalienable rights, no more censorship resistant mass networks, no more expressing beliefs without fear of being silenced. Hack or be hacked./[fn:74]
-
-[fn:51] repetition of design patterns
-
-[fn:52] (digression on culture)
-
-[fn:53] Pattern Aesthetics
-
-[fn:54] the new Aesthetics
-
-[fn:55] Chip tunes and pixel art
-
-[fn:56] Is the museum a battle field
-
-[fn:57] link between abductive reasoning and ai.
-
-[fn:58] link to uses of term
-
-[fn:59] link to new aesthetic site / files
-
-[fn:60] From Berry:
+[fn:48] From Berry:
 Template Matching: This is where a computational device uses a set of images (or templates) against which it can compare a data set, which might be an image for example (for examples of an image set, see Cole et al. 2004). Template Matching (Jahangir 2008)
 
 Prototype Matching: This form of patten matching uses a set of prototypes, which are understood as an average characteristic of a particular object or form. The key is that there does not need to be a perfect match merely a high probability of likelihood that the object and prototype are similar (for an example, see Antonina et al. 2003).
@@ -452,26 +324,36 @@ The Fourier components of each square are then rounded to lower arithmetic preci
 
 Bottom-up and Top-down Processing: Finally, in the Bottom-up and Top-down methods an interpretation emerges from the data, this is called data-driven or bottom-up processing. Here the interpretation of a data set to be determined mostly by information collected, not by your prior models or structures being fitted to the data, hence this approach looks for repeated patterns that emerge from the data. The idea is that starting with no knowledge the software is able to learn to draw generalisations from particular examples. Alternatively an approach where prior knowledge or structures are applied data is fitted into these models to see if there is a 'fit'. This approach is sometimes called schema-driven or top-down processing. A schema is a pattern formed earlier in a data set or drawn from previous information (Dewey 2011).
 
-[fn:61] Dark souls
+[fn:49] WebPage addr.
 
-[fn:62] Movie Big
+[fn:50] Cage Imaginary Landscpe No. 5
 
-[fn:63] Lethal Weapon
+[fn:51] Dark souls
 
-[fn:64] u[fn:73] http://rhizome.org/editorial/2014/oct/22/big-data-little-narration/
+[fn:52] Movie Big
 
-[fn:69] edina 64
+[fn:53] Lethal Weapon
 
-[fn:74] www.dmytri.info/hackers-cant-solve-surveillance/
+[fn:54] WebSocket protocol.
 
-[fn:73] DEFINITION NOT FOUND: fn:4
+[fn:55] SARndbox
 
-[fn:65] Cage Imaginary Landscpe No. 5
+[fn:56] Kreylos Home SARndbox
 
-[fn:66] François Dagognet, Faces, Surfaces, Interfaces (Paris: Librairie Philosophique J. Vrin, 1982), 49
+[fn:57] Iannix Github
 
-[fn:67] Wendy Hui Kyong Chun, On Software, or the Persistence of Visual Knowledge, Grey Room 18 (Winter 2004): 26– 51, 44
+[fn:58] Iannix
 
-[fn:68] WebPage addr.
+[fn:59] Iannix manual
 
-[fn:70] WebSocket protocol.
+[fn:60] u[fn:77] http://rhizome.org/editorial/2014/oct/22/big-data-little-narration/
+
+[fn:75] edina 64
+
+[fn:76] www.dmytri.info/hackers-cant-solve-surveillance/
+
+[fn:77] DEFINITION NOT FOUND: fn:4
+
+[fn:61] CosmosF
+
+[fn:62] Firefader
