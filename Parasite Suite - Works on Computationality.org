@@ -13,8 +13,7 @@ Definitions of the parasite, according to Michel Serres:
 5. The one who is always near to food, close to the meat
 6. A thermal exciter, that which catalyses the system to a new equilibrium state
 
-* EDIT Introduction
-** Extra
+* EDIT Introduction Extra
 /‘Noise calls for decipherment; it makes a reading of the message more difficult. And yet without it, there would be no message. There is, in short, no message without resistance’./
 
  /“The interface … consists essentially of an area of choice. It both separates and mixes the two worlds that meet together there, that run into it. It becomes a fertile nexus./ [fn:1]
@@ -28,9 +27,24 @@ Definitions of the parasite, according to Michel Serres:
   What is software, Chun writes, if not the very effort of making something explicit, or making something intangible visible, while at the same time rendering the visible (such as the machine) invisible?[fn:2]
 
   Computers can become a tool to track and test behaviors and values that we do not always take notice of.[fn:66] They can also draw novel, arbitrary relations and be highly speculative in their reasoning, which is both exciting and troubling, as results can be incorrect or even prejudiced.[fn:7]
+
+This suggests three general reasons why a person will turn to software:
+
+    To learn.
+    To create.
+    To communicate.
+
+    Tension between three types of use. In creation mode a model is manipulated. In communication mod ethat model is shared.
+    The user becomes a group.[fn:70]
+
+Most software is for learning, not manipulation. Getting updates on information
+Interaction vs context ssssensitivity.
+
+The radical change was de-coupling groups in space and time. To get a conversation going around a conference table or campfire, you need to gather everyone in the same place at the same moment. By undoing those restrictions, the internet has ushered in a host of new social patterns, from the mailing list to the chat room to the weblog.[fn:71]
+
 * REVIEW Introduction
 
-  'Parasite Suite' is a collection of works exploring possibilities for social computing as part of artistic practice. There are two aspects to the project, describing the conditions of social computing, and exploring the manipulations offerered by changes to interface layers. These techniques are collected for a portfolio of artistic works titled /Parasite Suite/. Theories about the impact of the network on sensation and aesthetics inform the use of augmented reality and data driven art as tools for shiftng the role of the interface. Social computing is a developing topic in economics, computer science and information systems describing the collaborative aspects of networked behaviour.[fn:3] It describes scenarios where information is created, distributed and extracted among social collectives.[fn:4] Importantly, this information is not anonymous, details and behaviour are linked to identities in a lasting way that eventually defines the archive. While acknowledging that all computing is social when we consider the wider world of actors, the project aims to focus on the social relationship between social technology and sound art.
+  'Parasite Suite' is a collection of works exploring possibilities for social computing as part of artistic practice. There are two aspects to the project, describing the conditions of social computing, and exploring the manipulations available through changes to interface layers. These techniques are collected for a portfolio of artistic works titled /Parasite Suite/. Theories about the impact of computer network on sensation and aesthetics, inform the use of augmented reality and data driven art. Social computing is a developing topic in economics, computer science and information systems describing the collaborative aspects of networked behaviour.[fn:3] It describes scenarios where information is created, distributed and extracted among social collectives.[fn:4] Importantly, this information is not anonymous, details and behaviour are linked to identities in a lasting way that eventually defines the archive. While acknowledging that all computing is social when we consider the wider world of actors, the project aims to focus on the social relationship between social technology and sound art.
 
   I believe that an understanding of social computing can lead to a more nuanced understanding of how to design the 'coupling' between layers of computing, and also users, which is known as an interface. Changes in interface allow for changes in experience, and I argue that this can shift attention to novel or neglected areas. The descriptive phase of this project focuses on researching networked experience and computational aesthetics, two aspects that I believe are key to understanding social computing. The resulting works are focused on contesting the current limits of social computing by expanding art into a multi use, network, inter-relaitonal,  multi-user parties.[fn:5] The project also capitalises on legitimate concerns about social-computing, meditating on the user's sublime tension between awe and anxiety at the neworked world. This is due to the way  information is indexed, sorted, accumulated and stored, often to be traded and sold, in ways that are left opaque to the user. This allows data to accrue value and use beyond the present moment of user interaction, as data accrues value as both an individual object and a member of a collection of trends. As information is always 'linked' to an identity, and the relationship of that identity wide collection of metric points of interest, the accumulation and dissemination of this information unfolds in both time and space.[fn:6] I wish to highlight this sense of accumulation in my works and also consider the impact that social arrangements and actions can have on the meaning of this data. I believe that the terms I have adopted, network experience and digital aesthetics, best describe the characteristics and materials of social computing.
 
@@ -44,9 +58,7 @@ Definitions of the parasite, according to Michel Serres:
 
    The mechanics of enframing are dependant on two kinds of 'concealment'. The first is the intentional abstraction of lower level mechanics of a technology, as is the purpose of any interface. This abstraction of machinic process allows the technology to be used instrumentally or interact with other technologies, often seen in music composition and software design when we abstract complexity or use a software library to focus attention upon a previously unreachable area. There second type of concealment is described as a more dangerous kind of concealment, which Heidegger calls 'concealment of the concealment'.[fn:18] It is the taking for granted of a technological abstraction or tool. The first abstraction is becomes a given, to the point being treated as simulacrum of the representation, such that its technological underpinnings and social epoch are unable to be analysed, doomed to be treated as 'natural'. This second act of concealment is regarded as more insidious, unique to modern technology, and most importantly able to be repudiated through awareness.
 
-   In our parasitic relationship with technology; abstraction advances understanding, yet doing so can dominate our experience and potential. One of the goals of most software is to achieve a simulacrum of 'realness', of the process it is imitating, to the point of often being indistinguishable.[fn:15] A sucessful technology can 'disappear', becoming unacknowledged facilitator of experience. This is particularly the case with imitative and surveillant techniques. Studying networked experience and digital aesthetics reveal instances of the second kind of concealment in common technologies. Through manipulations techniques I hope to 'de-black box' a number of social-computing scenarios centred around 'the stream' and 'pattern recognition'. These two dominant metaphors I take as stand-ins for the wider phenomenon of enframing.
-
-   Like print, radio and film, I believe the internet offers a kind of 'super-medium',[fn:19] in that it envelops a collection of other medias, such as newspapers, books, television, games and radio as 'content', while modifying aspects of their aesthetics and meaning. It also offers native kinds of content experiences such as wikis and hyper-texts, interactive animations, videos and sounds, while augmenting aspects of the previous medium to differing extents, with their own features, such as with universal resource locators(URLs). Ted Nelson lamented that these forms were called 'interactive, online' versions rather than the shorter 'hyper' prefix which offers a clearer demarcation of how media has adapted to the network to offer non-linear, responsive user-customised content. I shall now describe the novel parameters of its experience, and to describe the aesthetic trends these experiences encourage.
+   In our parasitic relationship with technology; abstraction advances understanding, yet doing so can dominate our experience and potential. One of the goals of most software is to achieve a simulacrum of 'realness', of the process it is imitating, to the point of often being indistinguishable.[fn:15] A sucessful technology can 'disappear', becoming unacknowledged facilitator of experience. This is particularly the case with imitative and surveillant techniques. Studying networked experience and digital aesthetics reveal instances of the second kind of concealment in common technologies. Through manipulations techniques I hope to 'de-black box' a number of social-computing scenarios centred around 'the stream' and 'pattern recognition'. These two dominant metaphors I take as stand-ins for the wider phenomenon of enframing. Like print, radio and film, I believe the internet offers a kind of 'super-medium',[fn:19] in that it envelops a collection of other medias, such as newspapers, books, television, games and radio as 'content', while modifying aspects of their aesthetics and meaning. It also offers native kinds of content experiences such as wikis and hyper-texts, interactive animations, videos and sounds, while augmenting aspects of the previous medium to differing extents, with their own features, such as with universal resource locators(URLs). Ted Nelson lamented that these forms were called 'interactive, online' versions rather than the shorter 'hyper' prefix which offers a clearer demarcation of how media has adapted to the network to offer non-linear, responsive user-customised content. I shall now describe the novel parameters of its experience, and to describe the aesthetic trends these experiences encourage.
 
 ** WRITE Networked Experience - Feeling and machines.
 
@@ -103,9 +115,9 @@ Also commonly known as Imagery Intelligence [IMGINT], this kind of intelligence 
 Part of the creative inspiration for the project is in the arrangement of communications between disparate software programs. as they share their contexts as they seemingly operate in parallel. Each program uses the same sensory information but styles it using a different logic and syntax that informs the audio and visual outcome. This is an early form of what Manuel DeLanda has termed a ‘Pandemonium’ (link). In its ultimate form according to De Landa, processes would operate as small modular forms of artificial intelligence. As it is experienced in the gallery context, the sensation of effecting both audible and visual landscape is hoped to be both thrilling and mildly sinister.
 
 * EDIT Parasite One
-** Summary - Inspiration for Work.
+** Summary
 
-   This installation takes place on a staircase, occupying seven stairs. Each stair has a simple floor trigger underneath, and adjacent light source to illuminate each stair as a participant passes through the space. Hidden under the stairase sits a speaker that plays a different section of a vocal phrase as the participant moves between steps. The sound that plays at each stair is a gated segment of a long, looping /vocaloid/ vocal track, in which a computerised voice sings a tale of its work for the day. There is also a website for the installation where users can log on to observe the space and listen to the installation. Access to the website also offers users two other elements of added functionality. After allowing access to a users microphone and camera, they can now trigger staircase responses remotely, by hovering or toxing a translucent box overlaying the visual image of each stair.
+   This installation takes place on a staircase, occupying seven stairs. Each stair has a simple floor trigger underneath, and adjacent light source to illuminate each stair as a participant passes through the space. Hidden under the stairase sits a speaker that plays a different section of a vocal phrase as the participant moves between steps. The sound that plays at each stair is a gated segment of a long, looping /Vocaloid/[fn:69] vocal track, in which a computerised voice sings a tale of its work for the day. There is also a website for the installation where users can log on to observe the space and listen to the installation. Access to the website also offers users two other elements of added functionality. After allowing access to a users microphone and camera, they can now trigger staircase responses remotely, by hovering or toxing a translucent box overlaying the visual image of each stair.
 
 The computer is set to turn on the 12 volt lights attached to each stair in response to either an action on the website or physical trigger. The website is also constantly looping through seven chanels of audio, each channel its volume output gated to sound when a user stands upon a floor sensor. At the top of the stairs, visible to those ascending, there is a handwritten universal resource locator (URL) directing those who are interested to visit a web page. [fn:49] By participating online the user also becomes part of the installation, the sounds of their microphone stream replace those of one of the stairs in the installation, for as long as they are visiting the site, but only triggered if they select their stair or a user stands upon the floor sensor. The stair whose sound a user becomes is dependant on the time of day they visit the site and the number of current users. Over the course of the installation, the sung elements begin to degrade and fragment according to the data collected on the usage of the stairs, which collates both physical and virutal users as they 'wear' down the sounds on each step.
 
@@ -176,6 +188,7 @@ The third channel is a simple monophonic digital synth that is controlled by a s
 
 * WRITE Conclusions
 
+  What is understanding, vs. mastry. Is understanding deep exploration
   Pay attention to the social dynamic of the tools that you have.
 
 Shift understanding. Hyper into understanding, stream into contingency.
@@ -343,3 +356,9 @@ Bottom-up and Top-down Processing: Finally, in the Bottom-up and Top-down method
 [fn:66]  Computers can become a tool to track and test behaviors and values that we do not always take notice of.
 
 [fn:68] Comp Theory of Mind
+
+[fn:69] Vocaloid
+
+[fn:70] http://worrydream.com/MagicInk/#manipulation_software_design_is_hard
+
+[fn:71] http://shirky.com/writings/group_politics.html
