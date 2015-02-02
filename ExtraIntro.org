@@ -38,6 +38,48 @@ however the process by which i developed this project was not from a carefully c
 In a general sense, the work follows an interest and critique of the compuational theory of mind. The word computer itself once simply meant a person who does calculations, a somewhat disparaging term. They later became teams, usually of women that would prepare programs, maintain machines and input code on punch cards.
 
   Streams and Burroughs
+
+
+
+
+Definitions of the parasite, according to Michel Serres:
+1. To one side of (para) the location of the event (site) – the­ medium or being through which communication must pass.
+2. The ‘static’ that interrupts the transmission of a message.
+3. The uninvited guest or ‘social’ parasite.
+4. A living organism that takes without giving as it infects its hosts
+5. The one who is always near to food, close to the meat
+6. A thermal exciter, that which catalyses the system to a new equilibrium state
+
+/‘Noise calls for decipherment; it makes a reading of the message more difficult. And yet without it, there would be no message. There is, in short, no message without resistance’./
+
+ /“The interface … consists essentially of an area of choice. It both separates and mixes the two worlds that meet together there, that run into it. It becomes a fertile nexus./ [fn:1]
+
+/Ideology gets 'modeled' in software. So in the very perfection of the ideological regime, in the form of its pure digital simulation, comes the death of the ideological regime, and simulation is 'crowned winner' as the absolute horizon of the ideological world./
+
+/Thus we arrive at a paradox: any mediating technology is obliged to erase iself to the highest degree possible in the name of unfettered communication, but in doing so it proves its own virtuosic presence as technology, thereby undoing the original erasure./
+
+   Interfaces all the way down. Containter for previous format.
+
+  What is software, Chun writes, if not the very effort of making something explicit, or making something intangible visible, while at the same time rendering the visible (such as the machine) invisible?[fn:2]
+
+  Computers can become a tool to track and test behaviors and values that we do not always take notice of.[fn:66] They can also draw novel, arbitrary relations and be highly speculative in their reasoning, which is both exciting and troubling, as results can be incorrect or even prejudiced.[fn:7]
+
+This suggests three general reasons why a person will turn to software:
+
+    To learn.
+    To create.
+    To communicate.
+
+    Tension between three types of use. In creation mode a model is manipulated. In communication mod ethat model is shared.
+    The user becomes a group.[fn:70]
+
+Most software is for learning, not manipulation. Getting updates on information
+Interaction vs context sensitivity.
+
+The radical change was de-coupling groups in space and time. To get a conversation going around a conference table or campfire, you need to gather everyone in the same place at the same moment. By undoing those restrictions, the internet has ushered in a host of new social patterns, from the mailing list to the chat room to the weblog.[fn:71]
+
+A model is...
+
 * Footnotes
 
 [fn:1] Galloway, 10 Theses on the digital
@@ -73,3 +115,165 @@ In a general sense, the work follows an interest and critique of the compuationa
 [fn:52] www.dmytri.info/hackers-cant-solve-surveillance/
 
 [fn:67] DEFINITION NOT FOUND: fn:4
+
+* Footnotes
+
+[fn:1] François Dagognet, Faces, Surfaces, Interfaces (Paris: Librairie Philosophique J. Vrin, 1982), 49
+
+[fn:2] Wendy Hui Kyong Chun, On Software, or the Persistence of Visual Knowledge, Grey Room 18 (Winter 2004): 26– 51, 44
+
+[fn:3] Wikipedia social computing https://en.wikipedia.org/wiki/Social_computing
+
+[fn:4] From "Social Computing", introduction to Social Computing special edition of the Communications of the ACM, edited by Douglas Schuler, Volume 37 , Issue 1 (January 1994), Pages: 28 - 108
+
+[fn:5]
+
+[fn:6] From "Social Computing", introduction to Social Computing special edition of the Communications of the ACM, edited by Douglas Schuler, Volume 37 , Issue 1 (January 1994), Pages: 28 - 108
+
+[fn:7] http://www.slate.com/articles/technology/bitwise/2015/01/black_box_society_by_frank_pasquale_a_chilling_vision_of_how_big_data_has.html
+
+[fn:8] Paper on organisation structure effecting software design
+
+[fn:9] Theories of the Digital
+
+[fn:10] Put refs for all tehse people here
+
+[fn:11] 'Critical Theory and the Digital'
+
+[fn:12] Heidegger notes in /Being and Time/ that the priveleging of the present has a *parasitic* relationship with the concept of time. This could be extended.
+
+[fn:13] heidegger qct
+
+[fn:14] Waddington 577
+Heidegger also noted that "it is possible to focus on the thinking behind the technology to such an extent that meaningful distinctions in the world are obscured."[fn:15] This remark was originally a part of ‘The Question Concerning Technology’, but later excised.[fn:16]
+
+[fn:15] Waddington 577
+
+[fn:16] (Harries, 1994, p. 233) IN Waddinton 577
+
+[fn:17] Enframing Heidegger p.2
+
+[fn:18] Second ceoncealment Heidgger
+
+[fn:19] Berry on 'super-mediums'
+
+[fn:20] Ref to Application layer of TCP/IP
+
+[fn:21] /E-mail emerged in 1971 when users began experimenting with ways of sending electronic messages from one networked computer to another. in her study of the internet's origins, Janet Abbate writes that e-mail "remade" the arpanet system and caused it to be see 'not as a computer system but rather as a communication sytem/ (ref.82) 1.[fn:64]
+
+[fn:22] Nelson Dream Machines
+
+[fn:23] One of first widely noted hypermedia examples was an interactive video application for path finding through the city of Aspen, with video displaying a multi detailed map of Aspen mixed into the skyline, the application very similar to the later google maps.
+
+[fn:24] See Derrida Text v speech.
+
+[fn:25] Web Audio API
+
+[fn:26] Computer Lib
+
+[fn:27] Development of streaming
+
+[fn:28] http://www.hpl.hp.com/techreports/2002/HPL-2002-260.pdf
+
+[fn:29] See the deisgn of TCP/IP, also md5 sums
+
+[fn:30] Streams Programming Languages
+
+[fn:31] See streaming in js, matz pipe language
+
+[fn:32] ref to dependdence on human actors in cybersyn
+
+[fn:33] Cybernetic Revolutionaries
+
+[fn:34] Twitter Sort
+
+[fn:35] Soylent web site
+
+[fn:36] Mechanical Turk
+
+[fn:37] Link california ideology works
+
+[fn:38] /The visions of a free, uncensorable cyberspace envisioned by Barlow, Gilmore and others was incompatible with the needs of Capital, and thus the libertarian impulses that drives Silicon valley caused a change in tune. Cyberspace was no longer a new world, declared independent with its own unalienable rights, it was now an untamed frontier, a wild-west where spooks and cypherpunks do battle and your worth is measured by your crypto slinging skills and operational security... This, as Seda Gurses argues, leads to Responsibilization... Users themselves are responsible for their privacy and safety online. No more unalienable rights, no more censorship resistant mass networks, no more expressing beliefs without fear of being silenced. Hack or be hacked./[fn:65]
+
+[fn:39] repetition of design patterns
+
+[fn:40] (digression on culture)
+
+[fn:41] Pattern Aesthetics
+
+[fn:42] the new Aesthetics
+
+[fn:43] Chip tunes and pixel art
+
+[fn:44] Is the museum a battle field
+
+[fn:45] link between abductive reasoning and ai.
+
+[fn:46] link to uses of term
+
+[fn:47] link to new aesthetic site / files
+
+[fn:48] From Berry:
+Template Matching: This is where a computational device uses a set of images (or templates) against which it can compare a data set, which might be an image for example (for examples of an image set, see Cole et al. 2004). Template Matching (Jahangir 2008)
+
+Prototype Matching: This form of patten matching uses a set of prototypes, which are understood as an average characteristic of a particular object or form. The key is that there does not need to be a perfect match merely a high probability of likelihood that the object and prototype are similar (for an example, see Antonina et al. 2003).
+
+Feature Analysis: In this approach a variety of approaches are combined including detection, pattern dissection, feature comparison, and recognition. Essentially the source data is broken into key features or patterns to be compared with a library of partial objects to be matched with (for examples, see Morgan n.d.).
+
+Recognition by Components: In this approach objects are understood to be made up of what are called 'geons' or geometric primitives. A sample of data or images is then processed through feature detectors which are programmed to look for curves, edges, etc. or through a geo detector which looks for simple 2D or 3D forms such as cylinders, bricks, wedges, cones, circles, and rectangles (see Biederman 1987).
+
+Fourier Analysis: This form of pattern matching uses algorithms to decompose something into smaller pieces which can then be selectively analysed. This decomposition process itself is called the Fourier transform.  For example, an image might be broken down into a set of twenty squares across the image field, each of which being smaller, is made faster to process. As Moler (2004) argues, 'we all use Fourier analysis every day without even knowing it. Cell phones, disc drives, DVDs, and JPEGs all involve fast finite Fourier transforms'. Fourier transformation is also used to generate a compact representation of a signal. For example, JPEG compression uses a variant of the Fourier transformation (discrete cosine transform) of small square pieces of the digital image.
+
+The Fourier components of each square are then rounded to lower arithmetic precision, and weak components are discarded, so that the remaining components can be stored in much less computer memory or storage space. To reconstruct the image, each image square is reassembled from the preserved approximate Fourier-transformed components, which are then inverse-transformed to produce an approximation of the original image, this is why the image can produce 'blocky' or the distinctive digital artefacts in the rendered image, see JPEG (2012).
+
+Bottom-up and Top-down Processing: Finally, in the Bottom-up and Top-down methods an interpretation emerges from the data, this is called data-driven or bottom-up processing. Here the interpretation of a data set to be determined mostly by information collected, not by your prior models or structures being fitted to the data, hence this approach looks for repeated patterns that emerge from the data. The idea is that starting with no knowledge the software is able to learn to draw generalisations from particular examples. Alternatively an approach where prior knowledge or structures are applied data is fitted into these models to see if there is a 'fit'. This approach is sometimes called schema-driven or top-down processing. A schema is a pattern formed earlier in a data set or drawn from previous information (Dewey 2011).
+
+[fn:49] WebPage addr.
+
+[fn:50] Cage Imaginary Landscpe No. 5
+
+[fn:51] Dark souls
+
+[fn:52] Movie Big
+
+[fn:53] Lethal Weapon
+
+[fn:54] WebSocket protocol.
+
+[fn:55] Xenakis Formalised Music
+
+[fn:56] SARndbox
+
+[fn:57] Kreylos Home SARndbox
+
+[fn:58] Iannix Github
+
+[fn:59] Iannix
+
+[fn:60] Iannix manual
+
+[fn:61] GENDY link
+
+[fn:62] CosmosF
+
+[fn:63] Firefader
+
+[fn:64] edina 64
+
+[fn:65] www.dmytri.info/hackers-cant-solve-surveillance/
+
+[fn:67] DEFINITION NOT FOUND: fn:4
+
+[fn:66]  Computers can become a tool to track and test behaviors and values that we do not always take notice of.
+
+[fn:68] Comp Theory of Mind
+
+[fn:69] Vocaloid
+
+[fn:70] http://worrydream.com/MagicInk/#manipulation_software_design_is_hard
+
+[fn:71] http://shirky.com/writings/group_politics.html
+
+[fn:72] Research on socal interfaces
+
+[fn:73] http://worrydream.com/MagicInk/#manipulation_software_design_is_hard
