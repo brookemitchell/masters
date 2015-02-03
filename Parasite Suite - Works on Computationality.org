@@ -7,11 +7,15 @@
 
 * REVIEW Introduction - A study in boundaries.
 
-  'Parasite Suite' is a collection of works exploring possibilities for social computing as part of an artistic practice. This project has two aspects, describing the conditions of social computing, and manipulating interfaces to illustrate serve this purpose. These techniques are collected for a portfolio of artistic works titled /Parasite Suite/. The impact of networked engagement on audible sensation and aesthetics informs the design of my works, which in turn informs the design of installation interfaces with computerised boundries.
+  'Parasite Suite' is a collection of works exploring possibilities for social computing as artistic practice. This project has two aspects, describing the practice of social computing, then designing responsive social interfaces that bring social behavior in computational environments. These installations for realising this are collected for a portfolio of works titled /Parasite Suite/. The current state of networked social systems, the domnant interfaces and paradigms have informed approaches to the experience and aesthetics of the works. I hope to design works that express anxiety about our social networking structures while contesting the dominance of inferfaces I see as needlessly prescriptive.
 
-  The conditions of social computing are best describes as a set of senstations and aesthetics priveleged by the medium. These senstations and aesthetics a medium emphasises are in turn informed by the mental model of how the medium should behave held by those who manipulate it, an aspect driven by historical, social and material factors. While the origin of the factors that influence how we interact with a distributed computer network is beyond the scope of this project, the ramifications can best be described by the dominant metaphors about the network, those of streaming and hyper-media.
+  There are a few of given presuppositons to that the work that I am undertaking. The first is that the experience of social networks based on computation extends beyond a rivalry of digital against non-digital, or between online and offline worlds. Computational networks extend far beyond inter-personal relationships, trying to create a static model of behavior of users or interaction is overly perscriptive. Instead I am  looking to encourage responsive engagement and misuse of my works. A second notion for this work is that /models/ of larger scale thought and behavior are reflected in the language of our tools for manipulation. In this, the models of how we should adapt, subvert and master an interface are also indicative of social conditions.
 
- If we are to design socially based computer interactions, and in turn create better interfaces, it is through understanding the ramifications of our metaphors about hte internet and how they constrain and influence senstaion and aesthetics through their many kinds of interfaces.
+ Our lives are often engaged with socially orientated algorithms, and likewise our social ways of thinking so connected to computation that the notion of a social 'network' being somethng that exists on the internet, or is controlled by various companies, is decidely wrongheaded. The social and computaitonal have alwys been present in human relations, however present conditions serve to emphasise particular modes that I wish to explore. [fn:74]
+
+  The conditions of social computing are best described as a set of senstations and aesthetics privileged by the medium. The senstations and aesthetics a medium emphasises are in turn informed by the mental model of how the medium should behave held by those who manipulate it, an aspect driven by historical, social and material factors. While the origin of the factors that influence how we interact with a distributed computer network is beyond the scope of this project, the ramifications can best be described by the dominant metaphors about the network, those of streaming and hyper-media.[fn:75]
+
+ When we design socially based computer interactions, and in turn create interfaces, it is through understanding the ramifications of our metaphors about the internet and how they constrain and influence senstaion and aesthetics through their many kinds of interfaces.
 
   To take a near perfect definition of the interface from wikipedia, /An interface is a shared boundary across which two separate components of a computer system exchange information. The exchange can be between software, computer hardware, peripheral devices, humans and combinations of these./ This proect is interested in the social aspects of interfacing, how representational models change in response to social organisation. With this comes the notion that as an interface describes a model of access and manipulation, because of this, interfaces are open to both social and political manipulation, social computing one such scenario
 
@@ -64,7 +68,7 @@ There is a tension between two models of network content, between the older mode
 
    My project explores this tension between streaming, sharing, surveying and 'hyper'-ness. I wish to see the realisation of an interconnected stream of audio that can exist at multiple levels of detail, with links to references, branching and responding. I wish to explore the sensory process of the stream, how it fits into social surveillance and hyper-media, to combine these into a kind of fused media that uses some of the inherent contradictions in the 'feeling' of the stream.
 
-** WRITE Digital Aesthetics - Computational Ontology
+** WRITE Abductive Aesthetics - Computational Ontology
 
    In contrast to the immediate aspects of networked experience, digital aesthetics are the lasting effects of social computing on reasoning and judgement[fn:40] a rupture of the digital into the real. Often termed 'pattern aesthetic'[fn:41] or 'the new aesthetic'[fn:42] these trends describe widespread cultural shifts in appreciation of objects that bear a hallmark of their interaction with computer algorithms. The most noticeable of these are nostalgic references to older computational limitations, such as pixelated artworks and chip-tunes.[fn:43] Popular trends in architecture, photography and music also bear signifiers of digital logic, often by artists the highlighting of the presence of digital tools. Hito Steryl notes the impact of digital modelling tools on the designs of Frank Gehry.[fn:44] Similarly the modern history of dance music shows a particular desire to highlight the impact of tools such as particular models of drum machines. David Beery names this 'Abductive Aesthetics', arguing that the logic of software design inform the 'look' of the digital rather than the popularity of a particular style.
 
@@ -171,6 +175,10 @@ The third channel is a simple monophonic digital synth that is controlled by a s
  The keyboard is able to register per-key
 
 * WRITE Conclusions
+
+We expect infterfaces to e mostly informational, and this is true. Manipulation is hard and confusing. However we often dont' realise that we are often productng much more thn we realise, and even mainitaining the domnant ios aform of creative conststruction.We shoul de more critical about the tools f everyday life, they are often hyper- tools without us even realise it, and shaping our understandinging. Call for a change in tools. A thing of internets. Mroe than one way to skin a cat.
+Virtual subjectivities vs virtual objects
+distinction between on and offline is false. the method of access has already changed our attitude to information and existance.
 
   What is understanding, vs. mastry. Is understanding deep exploration
   Pay attention to the social dynamic of the tools that you have.
@@ -352,3 +360,5 @@ Bottom-up and Top-down Processing: Finally, in the Bottom-up and Top-down method
 [fn:73] http://worrydream.com/MagicInk/#manipulation_software_design_is_hard
 
 [fn:74] Link to magic words.
+
+[fn:75] Durther avenues to pursue for more details

@@ -1,6 +1,8 @@
 
 * WRITE Extra Intro Stuff
 
+  The actual experience of the internet involves many states of being, which are constituted of digital and non-digital experiences, that have little connectionto the simplistic binary of online and offline.[fn:74]
+
 The phenomenology of a hyper-streamed-sound thus bear the followng characterstics:
 - memory as it is experienced in the moement
 - layered experience, spatially non-diagetic
@@ -115,6 +117,8 @@ A model is...
 [fn:52] www.dmytri.info/hackers-cant-solve-surveillance/
 
 [fn:67] DEFINITION NOT FOUND: fn:4
+
+[fn:74] http://ak.vbroek.org/2014/02/
 
 * Footnotes
 
