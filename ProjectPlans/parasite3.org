@@ -1,3 +1,0 @@
-#+TODO: Idea Develop Using | Started
-
-* Idea Project hosted on github
