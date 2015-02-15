@@ -1,6 +1,5 @@
 
 * WRITE Extra Intro Stuff
-
   The actual experience of the internet involves many states of being, which are constituted of digital and non-digital experiences, that have little connectionto the simplistic binary of online and offline.[fn:74]
 
 The phenomenology of a hyper-streamed-sound thus bear the followng characterstics:
@@ -41,9 +40,6 @@ In a general sense, the work follows an interest and critique of the compuationa
 
   Streams and Burroughs
 
-
-
-
 Definitions of the parasite, according to Michel Serres:
 1. To one side of (para) the location of the event (site) – the­ medium or being through which communication must pass.
 2. The ‘static’ that interrupts the transmission of a message.
@@ -82,6 +78,7 @@ The radical change was de-coupling groups in space and time. To get a conversati
 
 A model is...
 
+Lev Manovich Dataabase and New Media[fn:81]
 * Footnotes
 
 [fn:1] Galloway, 10 Theses on the digital
