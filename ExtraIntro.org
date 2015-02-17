@@ -1,5 +1,7 @@
 
 * WRITE Extra Intro Stuff
+/Thus we arrive at a paradox: any mediating technology is obliged to erase itself to the highest degree possible in the name of unfettered communication, but in doing so it proves its own virtuosic presence as technology, thereby undoing the original erasure./
+
   The actual experience of the internet involves many states of being, which are constituted of digital and non-digital experiences, that have little connectionto the simplistic binary of online and offline.[fn:74]
 
 The phenomenology of a hyper-streamed-sound thus bear the followng characterstics:
@@ -7,6 +9,8 @@ The phenomenology of a hyper-streamed-sound thus bear the followng characterstic
 - layered experience, spatially non-diagetic
 - experiments with interface, multilayed
 - a focus on the sensation of memory in a variety of forms, as false, shared, non-linear and spatial.
+
+Heidegger notes in /Being and Time/ that the priveleging of the present has a *parasitic* relationship with the concept of time. This could be extended.
 
 Correlationist principle. Real can be communicated. Laurelle.[fn:1]
 

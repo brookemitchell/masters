@@ -178,7 +178,6 @@ Abduction - one could /abduce/ A from B if A is sufficient (or nearly sufficient
 Likewise, the essence of technology is by no means anything technological.
 
 
-
 * Interface Effect
 ** p. 3
 data are not simply measurements or recorded facts, they are also in some sense ontologically raw, not so much thrown into the world, but left over, bare, rmaining after the tide of being recedes.
